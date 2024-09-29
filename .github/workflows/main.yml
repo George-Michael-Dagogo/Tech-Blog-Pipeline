@@ -26,5 +26,4 @@ jobs:
       - name: execute py script # run main.py
         env:
           URI_KEY : ${{ secrets.URI_KEY }}
-          
         run: python main.py 
