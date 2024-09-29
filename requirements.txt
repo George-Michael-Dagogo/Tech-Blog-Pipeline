@@ -1,0 +1,8 @@
+beautifulsoup4==4.12.3
+fake_useragent==1.5.1
+langid==1.1.6
+nltk==3.9.1
+pandas==2.2.3
+pycountry==24.6.1
+pymongo==4.9.1
+Requests==2.32.3
