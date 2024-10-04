@@ -1,0 +1,886 @@
+Student_ID,Father_Education,Mother_Education,Father_Occupation,Mother_Occupation,Annual_Household_Income(NGN),Household_Size,Involvement_in_Kids_Education
+54c63cd8-8945-4f27-97fa-2d8dfb2ca025,None,None,Trader,Trader,"Below 1,000,000",5,Involved
+fbc9f87a-f668-4617-94a1-875d2db69edb,Primary,Secondary,Doctor,Nurse,"Below 1,000,000",6,Involved
+6fb78271-504d-481f-8953-5b63ba81edd9,Secondary,None,Trader,Unemployed,"2,000,000-5,000,000",2,Always busy
+0b5cea6a-4135-4e8c-b0a9-00ad939b462d,Primary,Secondary,Engineer,Civil Servant,"1,000,000-2,000,000",2,Always busy
+f0b5156b-b82c-4074-afd5-dea589d7fd6c,Primary,Primary,Trader,Unemployed,"Below 1,000,000",2,Involved
+ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,None,None,Doctor,Teacher,"2,000,000-5,000,000",2,Always busy
+81d2c7de-4ce1-4b90-a669-7833b841d0a0,None,None,Teacher,Trader,"Above 5,000,000",4,Involved
+311c6eb6-2095-4ef6-8ded-f9fb4bb00f20,Tertiary,Secondary,Engineer,Nurse,"Below 1,000,000",2,Involved
+91b0e1d9-9d92-42af-ac8d-0e44e71e43a6,None,Primary,Trader,Engineer,"Below 1,000,000",3,Slightly involved
+c9277d9b-6e0d-4648-b5ce-884149732d6c,None,Primary,Doctor,Teacher,"Above 5,000,000",5,Very Involved
+82dc4c8e-36b5-429a-acf5-e81e71316269,Primary,Secondary,Farmer,Trader,"2,000,000-5,000,000",3,Very Involved
+48a639d0-15b5-4908-a8aa-71582b70e525,Secondary,None,Farmer,Farmer,"1,000,000-2,000,000",4,Always busy
+3c20592f-c04a-46c4-b3b6-3fe1d1843324,None,None,Trader,Trader,"Above 5,000,000",3,Very Involved
+fbe33b24-3eae-4032-8bd4-a9900640be0f,Secondary,None,Doctor,Trader,"Above 5,000,000",3,Always busy
+935f2b0a-a138-4ddc-a2d9-de5d6a18ce4c,Primary,Tertiary,Doctor,Engineer,"2,000,000-5,000,000",3,Always busy
+b00805cc-a7f3-4ae9-a5c7-3c443e75c3b4,None,Primary,Trader,Engineer,"1,000,000-2,000,000",5,Involved
+3805f907-6cd6-4193-8746-8f591b494e15,Primary,None,Civil Servant,Teacher,"1,000,000-2,000,000",5,Very Involved
+eadf5085-3fcb-4546-8eb2-25790cdb1ca4,Tertiary,Primary,Civil Servant,Unemployed,"Above 5,000,000",6,Involved
+8f15ba58-fce6-4504-87f8-424daae65fc1,Secondary,Tertiary,Nurse,Teacher,"Above 5,000,000",2,Slightly involved
+e45b712e-b822-4688-90a4-44329cd6c852,None,None,Trader,Doctor,"1,000,000-2,000,000",5,Very Involved
+dc8aee30-be60-43f7-a8be-9288e5af6e39,None,Tertiary,Engineer,Teacher,"1,000,000-2,000,000",4,Slightly involved
+c715b2b9-c40c-4d91-86fd-e062a33dc7af,Tertiary,None,Civil Servant,Teacher,"1,000,000-2,000,000",2,Always busy
+3c07c574-4925-4af1-b6aa-e05b13d5f2f7,None,Primary,Unemployed,Trader,"1,000,000-2,000,000",5,Slightly involved
+620e99d3-3b33-43d8-a69c-d696236c7b87,Secondary,Tertiary,Farmer,Civil Servant,"1,000,000-2,000,000",5,Always busy
+7746d0ba-8ae8-405b-94b4-a48268586eba,Secondary,None,Nurse,Trader,"1,000,000-2,000,000",6,Very Involved
+f2311f17-9586-4a76-8511-55ffe7a37e81,None,Tertiary,Engineer,Teacher,"Above 5,000,000",5,Involved
+f1578470-0182-47c4-ba1b-58066160a6b4,None,Secondary,Nurse,Nurse,"Above 5,000,000",3,Involved
+89c8d2ab-6b44-4a8d-95f2-5073f41402b1,Secondary,Primary,Doctor,Farmer,"2,000,000-5,000,000",5,Involved
+45df16b6-382c-443f-bcfc-9b793875394c,Tertiary,Primary,Engineer,Trader,"Above 5,000,000",5,Very Involved
+b963f37f-6781-4c1f-8c53-0e36addc3e13,Tertiary,Primary,Trader,Doctor,"1,000,000-2,000,000",4,Always busy
+e82c7d7b-06e7-45f9-88bc-539c9f4c3b79,None,None,Nurse,Trader,"Below 1,000,000",2,Very Involved
+dde9f863-22bd-4388-adb9-9102a48b3dbe,Primary,None,Unemployed,Trader,"Above 5,000,000",5,Always busy
+56666f9f-53ac-4ab9-b467-2cd9362f5e5c,Secondary,Secondary,Unemployed,Engineer,"1,000,000-2,000,000",4,Very Involved
+d5bcb8d0-4094-4ded-abeb-ac31d4f8fd72,None,None,Nurse,Farmer,"1,000,000-2,000,000",3,Involved
+39669fa7-5997-4043-b3b1-025bfff9f585,None,None,Unemployed,Civil Servant,"Above 5,000,000",4,Very Involved
+3f4df561-f319-4125-87f1-94f9c1156d6d,None,Primary,Engineer,Engineer,"Below 1,000,000",2,Always busy
+1d48a071-ab61-47b1-b93b-4c3220500494,Tertiary,Secondary,Unemployed,Civil Servant,"1,000,000-2,000,000",6,Slightly involved
+9b1bc895-2af4-4ab7-9e6f-ea07c4536f1d,Primary,Primary,Farmer,Doctor,"Below 1,000,000",3,Involved
+4fa03f26-f6f7-40cc-a9ec-8e49d1bdb8c0,None,Secondary,Doctor,Farmer,"1,000,000-2,000,000",6,Very Involved
+60141de9-f54a-40a2-a874-66d7ad66a1bd,Secondary,Secondary,Unemployed,Engineer,"2,000,000-5,000,000",3,Very Involved
+3e2b6091-a092-452a-94a0-57a7b0cc1b3b,Primary,Secondary,Nurse,Trader,"1,000,000-2,000,000",3,Very Involved
+cbd58bf6-1efd-46e9-8e37-14af99b49350,Secondary,None,Farmer,Teacher,"Above 5,000,000",5,Slightly involved
+a5c5650c-8186-4576-91a7-26095eddbbbf,Secondary,Secondary,Doctor,Nurse,"Above 5,000,000",4,Very Involved
+5cb85aed-f5f6-4c97-aefb-63b11b049863,Primary,Primary,Teacher,Nurse,"Above 5,000,000",4,Slightly involved
+859131d2-bbda-4242-ad17-4fc96f7c15ea,Primary,Tertiary,Farmer,Nurse,"Above 5,000,000",6,Very Involved
+7701f7bb-7bc6-4e1f-864e-e6e389c5b31a,Tertiary,Tertiary,Doctor,Teacher,"Above 5,000,000",4,Always busy
+ef43613c-d4aa-49a3-bed8-c56cda09dfa0,None,Primary,Farmer,Engineer,"Above 5,000,000",4,Involved
+ab0e664e-9c3e-42d5-91e1-aa9676f72255,None,Tertiary,Civil Servant,Engineer,"1,000,000-2,000,000",4,Very Involved
+5ad5cf06-364d-4c87-bcd0-129d2e8d0e87,Secondary,Secondary,Farmer,Nurse,"Below 1,000,000",3,Slightly involved
+8e485223-46b9-4991-a14e-b70db380c73a,Secondary,Secondary,Doctor,Nurse,"1,000,000-2,000,000",2,Always busy
+8e200724-7d13-4018-a80b-ac63b856d035,Secondary,Primary,Unemployed,Teacher,"Below 1,000,000",6,Involved
+046a0df5-cafd-4613-b2bb-912d7da67785,None,Primary,Doctor,Doctor,"2,000,000-5,000,000",3,Always busy
+5e781fd7-94e0-43ba-a9f9-48b24e6384bb,Secondary,Secondary,Farmer,Farmer,"1,000,000-2,000,000",6,Slightly involved
+5a104129-54ae-4d1b-8ce6-424dbef59fe6,Tertiary,Primary,Trader,Civil Servant,"Above 5,000,000",2,Very Involved
+50c7c006-314d-4441-b8a6-171f1ee34dc4,Secondary,Secondary,Unemployed,Unemployed,"Below 1,000,000",6,Always busy
+bd1531c8-3764-4bda-b108-d4482f65fafa,Secondary,None,Doctor,Civil Servant,"1,000,000-2,000,000",4,Involved
+d52721e7-19bc-443e-bb02-bebb48729a4d,None,Secondary,Civil Servant,Civil Servant,"Above 5,000,000",4,Always busy
+2067bdac-88bd-43d1-b540-b30e039f3a25,None,Tertiary,Trader,Unemployed,"Above 5,000,000",3,Always busy
+a34b6cf6-2053-4a42-b1af-db65b289f224,Tertiary,Secondary,Nurse,Engineer,"Below 1,000,000",2,Involved
+7a8d03aa-782a-45e0-88ca-765192f5df7b,None,Secondary,Farmer,Engineer,"Above 5,000,000",4,Always busy
+1d34d08e-7a4c-45d4-9c99-e04cf0e98b3b,Secondary,Tertiary,Nurse,Unemployed,"2,000,000-5,000,000",2,Slightly involved
+26d794d3-0db9-4301-afbb-411aa1235a8c,Secondary,Tertiary,Unemployed,Unemployed,"1,000,000-2,000,000",6,Slightly involved
+8edddfcd-1e52-4770-bf89-7142fe716b14,Secondary,Primary,Doctor,Unemployed,"1,000,000-2,000,000",6,Always busy
+61607459-85c7-404b-8693-da1139c6a1ca,None,Primary,Farmer,Engineer,"Below 1,000,000",4,Slightly involved
+9191b363-4e2d-4645-adc7-cac7fd72b050,Primary,None,Nurse,Trader,"2,000,000-5,000,000",5,Slightly involved
+a021c0ca-3531-468d-8342-bd2bf295456e,Secondary,Primary,Unemployed,Civil Servant,"2,000,000-5,000,000",5,Involved
+2812859a-1337-439e-8d4f-5d272c7f0b79,Tertiary,Primary,Teacher,Trader,"Above 5,000,000",5,Always busy
+49c13de7-3b42-46c5-885b-15fb4a8ff810,None,Tertiary,Engineer,Nurse,"2,000,000-5,000,000",4,Always busy
+43b9da13-ec85-4f37-bbc1-a987aff8754d,Tertiary,Primary,Farmer,Civil Servant,"2,000,000-5,000,000",6,Involved
+1d61fac3-6cd5-4859-b2a4-47b2ef04e57d,None,Tertiary,Teacher,Unemployed,"Above 5,000,000",3,Slightly involved
+0f44704f-1247-4a4e-a469-98e8d39e198b,None,None,Engineer,Nurse,"1,000,000-2,000,000",3,Involved
+706c5c56-49e2-423d-abd3-461691b78d8e,Secondary,Tertiary,Doctor,Engineer,"Below 1,000,000",6,Involved
+8a3c3b5e-801e-41da-85b1-ed25f1533ae8,Tertiary,Tertiary,Civil Servant,Doctor,"Below 1,000,000",4,Involved
+069f14f1-4018-4c6e-9a8c-fa3c5283aac7,Tertiary,Secondary,Engineer,Civil Servant,"2,000,000-5,000,000",4,Very Involved
+054f92ff-f366-4ad4-964d-b03f93403fad,Tertiary,None,Unemployed,Doctor,"Above 5,000,000",2,Involved
+7135f221-a6c9-437f-84da-d06a7872bdeb,Tertiary,Tertiary,Farmer,Teacher,"Below 1,000,000",5,Very Involved
+f8140102-7de1-4dfe-9072-5b5ca2814044,Tertiary,None,Farmer,Civil Servant,"Below 1,000,000",6,Always busy
+292bd156-db94-4570-9ac7-0ec0ab8ddeb4,None,Tertiary,Teacher,Trader,"1,000,000-2,000,000",3,Slightly involved
+c2b01cfd-d045-4d1c-a684-09e3f1f8343e,Primary,Secondary,Nurse,Unemployed,"Below 1,000,000",6,Very Involved
+c5c5b37a-f85e-46a1-9dad-09b252c21221,None,Primary,Nurse,Farmer,"1,000,000-2,000,000",2,Always busy
+764414fd-8ae7-49ed-9e8e-de0ba85c6e4a,Tertiary,Primary,Teacher,Teacher,"1,000,000-2,000,000",6,Slightly involved
+71299889-a01a-4992-bf9d-3e64c1a6423b,Primary,None,Engineer,Engineer,"1,000,000-2,000,000",6,Involved
+e17f29e1-7028-4046-89bc-473fed7bf656,Tertiary,Primary,Unemployed,Engineer,"Above 5,000,000",4,Very Involved
+b5b453ca-3d42-493c-8c9f-d3349bdf0377,Tertiary,Primary,Nurse,Engineer,"2,000,000-5,000,000",6,Slightly involved
+d7665cda-fe04-4059-b985-fb6217dc8eff,Secondary,Primary,Doctor,Nurse,"Below 1,000,000",3,Involved
+eec259dc-7f95-497c-a76a-a6ced50755d9,Secondary,Tertiary,Teacher,Trader,"Below 1,000,000",4,Always busy
+78e3654b-faf1-4ff0-bb85-179ad5b077e0,Primary,Tertiary,Trader,Doctor,"Above 5,000,000",3,Involved
+bf0d073d-821c-4336-9970-cf60ebff8d15,Tertiary,None,Engineer,Teacher,"1,000,000-2,000,000",2,Slightly involved
+57021049-6a39-4aa6-9aba-c50dca3dd859,Tertiary,Tertiary,Doctor,Teacher,"Below 1,000,000",3,Always busy
+d664d264-4c6e-47ff-b9de-7a3a486822b9,None,Secondary,Unemployed,Farmer,"Below 1,000,000",2,Involved
+7bfdcc12-89e0-4ab3-b250-ee18260a5962,Secondary,None,Trader,Nurse,"Above 5,000,000",5,Involved
+de9e3757-5260-401e-aecf-67d2749176f4,Primary,Secondary,Engineer,Doctor,"Above 5,000,000",6,Always busy
+69288e92-c68a-452f-9b23-aa8c3bcabf85,None,Primary,Nurse,Trader,"2,000,000-5,000,000",3,Slightly involved
+fd08b32c-62d6-4e93-a198-5d54cfb87e6f,Tertiary,Secondary,Doctor,Teacher,"Above 5,000,000",4,Involved
+2051acef-097a-4e10-b6fe-bc0e7ecddbaf,Secondary,Tertiary,Doctor,Engineer,"2,000,000-5,000,000",3,Slightly involved
+1986b4b2-70b7-4868-9854-80f0dfcaf0b7,Tertiary,Secondary,Trader,Nurse,"1,000,000-2,000,000",3,Involved
+f84f16b3-a79f-4faf-9ef5-768968f45bce,Tertiary,Tertiary,Civil Servant,Unemployed,"Below 1,000,000",2,Always busy
+65c17795-b155-46bc-9f8d-ed9756abf2f1,Secondary,Tertiary,Engineer,Nurse,"Below 1,000,000",5,Very Involved
+f4427e0b-6148-4bb3-889b-78d5dbfdd97e,Tertiary,Primary,Engineer,Farmer,"2,000,000-5,000,000",2,Always busy
+9e11d2cd-0930-4ef6-8a80-068ddf547e50,Secondary,None,Doctor,Unemployed,"Above 5,000,000",4,Slightly involved
+1723199d-bf2c-44a0-ba3c-8a71ff574e2b,None,Primary,Civil Servant,Unemployed,"Above 5,000,000",2,Involved
+2a96e1e2-7194-4ae2-99ba-d7aedf615a5c,Secondary,Tertiary,Trader,Farmer,"2,000,000-5,000,000",3,Slightly involved
+5bc440f1-4b1a-469b-8e5d-d462cbd00ef2,None,Secondary,Farmer,Civil Servant,"1,000,000-2,000,000",6,Always busy
+2e183554-cae2-4e66-ae8a-781390e0a95b,Primary,Primary,Farmer,Trader,"Above 5,000,000",4,Very Involved
+7f671eec-3da7-4577-aee1-e86b9ea556aa,Primary,None,Farmer,Unemployed,"Above 5,000,000",3,Always busy
+aab612c9-415d-474a-b5a6-69814104a8b5,None,None,Trader,Farmer,"2,000,000-5,000,000",6,Very Involved
+12e89d10-2871-4733-8bed-db12ad77e82f,Primary,Primary,Farmer,Engineer,"Below 1,000,000",6,Always busy
+b0b862ef-6c9f-42b9-b647-8986a3917c99,Secondary,Tertiary,Trader,Unemployed,"Above 5,000,000",2,Always busy
+1b4da0fe-7bb3-4605-9a74-3152627b41a1,None,None,Engineer,Civil Servant,"Above 5,000,000",3,Slightly involved
+059dd55d-4b94-4e30-b303-f438fe2110d0,None,Primary,Doctor,Civil Servant,"1,000,000-2,000,000",3,Always busy
+c73f6e1b-af90-4e3c-9d75-0e9890e0b95f,Primary,Tertiary,Doctor,Civil Servant,"1,000,000-2,000,000",2,Slightly involved
+e726be23-e776-4886-9534-ee1d7f2984f5,Primary,Tertiary,Teacher,Civil Servant,"Below 1,000,000",4,Involved
+30ac7d7b-a2f9-43a3-b810-ae665a31b4cc,Tertiary,Secondary,Farmer,Engineer,"1,000,000-2,000,000",3,Involved
+2303f6c6-d69d-42f1-ae4c-84ffa8c01f05,Primary,Secondary,Farmer,Civil Servant,"1,000,000-2,000,000",3,Slightly involved
+088a93ec-70d9-49f8-89e2-60744f1639a0,Secondary,Tertiary,Engineer,Doctor,"1,000,000-2,000,000",6,Slightly involved
+6a5e6920-bf5a-47e6-93a3-dd5a4b8c5bdc,Tertiary,Secondary,Civil Servant,Nurse,"Below 1,000,000",3,Involved
+80759f1f-87e5-40fe-9da8-d6d2f8b38a8b,None,Primary,Trader,Civil Servant,"Below 1,000,000",6,Slightly involved
+f7a67b94-7b5a-411a-b1b6-4afed31edf1a,None,None,Farmer,Engineer,"Below 1,000,000",2,Slightly involved
+1346d1a9-f680-4cdb-b7e4-90c71d7bc313,Primary,None,Nurse,Nurse,"Above 5,000,000",6,Slightly involved
+65bcc272-fadd-4ea3-aca5-e2fdb966442a,Tertiary,None,Nurse,Nurse,"1,000,000-2,000,000",2,Always busy
+43b38eb4-0390-4c5d-a502-d6a2ca6a2224,Secondary,Secondary,Unemployed,Civil Servant,"1,000,000-2,000,000",6,Always busy
+618ae305-95a5-4afa-831d-029fac1e86d8,Tertiary,Primary,Civil Servant,Doctor,"2,000,000-5,000,000",4,Very Involved
+9e9a9f83-0668-43ee-b8b2-b5493bdbc09e,Secondary,Primary,Engineer,Doctor,"2,000,000-5,000,000",2,Slightly involved
+a2a9d4d8-102e-4de5-a5cc-8bf738ab854c,Tertiary,Tertiary,Unemployed,Engineer,"2,000,000-5,000,000",4,Very Involved
+0b9bd934-23c8-4d30-9dde-7969688613db,Primary,Secondary,Engineer,Teacher,"Above 5,000,000",2,Involved
+899ca782-e323-4d1a-bc1b-dacc18e19331,None,Tertiary,Teacher,Doctor,"Above 5,000,000",4,Slightly involved
+8a4a0e2d-f22b-4b98-b24c-c64fbe3e6e57,None,Secondary,Nurse,Nurse,"1,000,000-2,000,000",3,Slightly involved
+d56ce8ea-1959-4b5a-a7a8-f6366a35df59,Tertiary,Primary,Trader,Nurse,"Below 1,000,000",5,Involved
+71d79665-7181-4dcf-b79e-fc6e5edb0d3c,Tertiary,None,Teacher,Doctor,"Below 1,000,000",4,Slightly involved
+e6d5901d-8b62-4d41-9e09-a9eeaf88bdec,None,None,Trader,Civil Servant,"1,000,000-2,000,000",5,Involved
+f2f25eef-1f45-4bfd-b7dc-67e030974b2b,None,None,Trader,Engineer,"Above 5,000,000",3,Very Involved
+f8999246-98de-4ebb-a3b5-cecea446be72,Secondary,Tertiary,Unemployed,Farmer,"Below 1,000,000",4,Involved
+34885a46-9088-4eaf-8977-6598203c8c25,Primary,Tertiary,Teacher,Farmer,"Above 5,000,000",2,Slightly involved
+3ba5cd2f-dea4-4c19-9024-3d723748967f,Primary,None,Civil Servant,Teacher,"Below 1,000,000",6,Very Involved
+fbe94499-dbc0-40fd-86fb-7bf300b9d4a3,Tertiary,Primary,Teacher,Civil Servant,"2,000,000-5,000,000",2,Always busy
+ddcf8766-a93b-42cd-9c24-220e2cabd7e7,None,Secondary,Farmer,Nurse,"2,000,000-5,000,000",4,Always busy
+040a3aae-52e2-4fd9-96bf-10ab3ce915e7,None,None,Unemployed,Civil Servant,"2,000,000-5,000,000",3,Involved
+104556e5-bee3-4b79-9d18-1ee986ad8a8c,Primary,None,Doctor,Unemployed,"2,000,000-5,000,000",3,Always busy
+38b77c07-80fb-4296-b3b6-a09b1beaf6ac,Primary,Secondary,Doctor,Civil Servant,"1,000,000-2,000,000",4,Slightly involved
+4d37a539-857d-43b3-a8ad-df36ddf275eb,None,Primary,Trader,Unemployed,"2,000,000-5,000,000",4,Always busy
+6d204496-66d0-4371-98e8-8ebb7a9e8eef,Secondary,Secondary,Civil Servant,Engineer,"1,000,000-2,000,000",4,Very Involved
+5275eb94-14ae-4f5c-a636-58c912d0498d,None,Tertiary,Teacher,Doctor,"1,000,000-2,000,000",3,Always busy
+b64fa54a-8c61-4654-95da-75c1a21150f9,Tertiary,Secondary,Unemployed,Unemployed,"2,000,000-5,000,000",4,Involved
+6e218b09-9afd-4015-816b-cb9f7426b193,Tertiary,Primary,Engineer,Farmer,"1,000,000-2,000,000",4,Very Involved
+8d244e3e-c4da-4ddb-a0b1-5abaa6a27967,Secondary,Secondary,Farmer,Unemployed,"Below 1,000,000",2,Always busy
+d3d1bf0f-56c4-48e4-a9ef-afb13a7e8e14,None,None,Doctor,Nurse,"2,000,000-5,000,000",4,Very Involved
+4140752c-aa44-4259-9001-8b7b6d4067f4,Secondary,Primary,Nurse,Teacher,"1,000,000-2,000,000",6,Always busy
+15da705c-d4ef-40aa-975a-81ec112fa612,Secondary,Primary,Teacher,Teacher,"Above 5,000,000",6,Slightly involved
+0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd,Tertiary,None,Engineer,Farmer,"Above 5,000,000",5,Involved
+dfa4bb9f-5a85-4750-a92a-c1391f4a8ca1,Secondary,Secondary,Unemployed,Nurse,"2,000,000-5,000,000",5,Very Involved
+49a214ae-f7e8-48e5-8d2b-91efb8976ec5,Tertiary,Tertiary,Farmer,Teacher,"Above 5,000,000",6,Slightly involved
+7b70c3b8-a81f-4ec3-a79c-658a36760ce5,None,None,Teacher,Engineer,"Above 5,000,000",3,Involved
+47503f1d-c33a-4f6c-9d69-1fba5e187b24,Tertiary,Tertiary,Farmer,Civil Servant,"2,000,000-5,000,000",6,Slightly involved
+9f294a8b-d184-4c39-8476-7556f97be2dd,Primary,None,Farmer,Teacher,"1,000,000-2,000,000",3,Involved
+b18753e6-d457-4ad9-a867-a096edd877c8,Tertiary,None,Doctor,Trader,"2,000,000-5,000,000",3,Slightly involved
+59dcabd0-56fe-4fb9-abe9-e2074f199ec0,Tertiary,Secondary,Doctor,Nurse,"1,000,000-2,000,000",4,Very Involved
+bdb025ff-2451-45a4-91d0-59b26699cd99,Secondary,Tertiary,Unemployed,Farmer,"Below 1,000,000",3,Involved
+74222167-6b7a-4460-a04e-46cb3712f2d1,Primary,Secondary,Doctor,Engineer,"Below 1,000,000",3,Always busy
+98a21f1c-914d-4fae-b100-13a7c6deb2f0,Primary,Secondary,Engineer,Teacher,"1,000,000-2,000,000",5,Always busy
+14e286e5-ac89-46bc-8cbd-3c039e2aa4ac,Primary,Tertiary,Farmer,Unemployed,"Below 1,000,000",6,Very Involved
+372f871a-45ee-432d-aa07-f2137129cec7,Secondary,None,Nurse,Doctor,"2,000,000-5,000,000",5,Always busy
+97d7a560-adb1-4670-ad9f-b00d4882d73c,None,None,Civil Servant,Farmer,"Above 5,000,000",4,Always busy
+345512f7-01f7-47ec-8e06-30cd996d5c50,Tertiary,Secondary,Unemployed,Nurse,"Below 1,000,000",4,Always busy
+1eb74b56-53ff-43a2-8a19-35014169b9fc,None,None,Teacher,Nurse,"Below 1,000,000",4,Always busy
+3ae88926-b423-4cde-8857-511761554667,Tertiary,Primary,Engineer,Doctor,"1,000,000-2,000,000",5,Slightly involved
+bdf66ba5-dc9c-46de-a5a6-74c212738a23,Tertiary,Primary,Trader,Doctor,"1,000,000-2,000,000",5,Involved
+6de59332-9364-43d0-9024-bdc6dcb33df3,None,Secondary,Nurse,Engineer,"1,000,000-2,000,000",3,Very Involved
+f758dce2-0556-4aea-a7b0-32831d7c0098,Secondary,Secondary,Doctor,Unemployed,"Below 1,000,000",6,Always busy
+5ca260c9-eb76-47c9-b08a-4895d4ffa666,Primary,None,Unemployed,Unemployed,"1,000,000-2,000,000",5,Slightly involved
+1422373f-8622-48d1-a683-e10796c044d0,None,None,Teacher,Teacher,"1,000,000-2,000,000",5,Involved
+138d994c-2b0a-4edd-8774-44cb5543fc3c,None,Primary,Trader,Doctor,"Above 5,000,000",2,Involved
+59e1ac09-5970-4859-86b6-e4ade7ea8d5a,Secondary,None,Teacher,Nurse,"1,000,000-2,000,000",4,Slightly involved
+4187222b-257d-4e52-9a51-65ca3c7c1d85,Primary,Tertiary,Civil Servant,Engineer,"Below 1,000,000",2,Involved
+f387e1bd-2d59-42c6-934a-5a2fa7cf705c,Primary,Secondary,Farmer,Teacher,"1,000,000-2,000,000",4,Always busy
+ae5ec365-72eb-4474-9458-054ec2874f06,Primary,Primary,Engineer,Nurse,"Below 1,000,000",3,Involved
+f891b0c3-dd3f-487e-92bd-c6619fe0a8c7,Secondary,Primary,Nurse,Unemployed,"2,000,000-5,000,000",6,Very Involved
+cbdc4318-4d85-43d2-a1a2-748571348c2a,Primary,Primary,Teacher,Nurse,"Above 5,000,000",6,Involved
+09a0a0f6-73b0-4091-b634-c1694f76e388,Primary,Primary,Teacher,Engineer,"1,000,000-2,000,000",5,Slightly involved
+171dabf9-daf4-41a7-ba34-d2e8dd3f7d7e,Tertiary,Primary,Civil Servant,Doctor,"Below 1,000,000",5,Slightly involved
+bd29ede9-cab4-423b-b448-83858de7ad6c,Tertiary,Tertiary,Unemployed,Civil Servant,"1,000,000-2,000,000",3,Involved
+9ae1a991-524f-43ff-b030-7633a6ded1d8,Secondary,None,Civil Servant,Doctor,"Above 5,000,000",4,Involved
+d65e59dd-e62d-4d06-8f9b-85581a7f195b,Secondary,Primary,Doctor,Doctor,"2,000,000-5,000,000",4,Very Involved
+b526b22d-3f6c-41f7-8a05-37f02c2cd22b,Secondary,Primary,Unemployed,Doctor,"Above 5,000,000",5,Very Involved
+eafde7d9-5f73-4a3e-9d28-6aa428a39779,Primary,None,Nurse,Doctor,"2,000,000-5,000,000",3,Always busy
+a181c85e-ca0a-46ac-8d67-d38e990f0c5b,Tertiary,None,Farmer,Civil Servant,"1,000,000-2,000,000",6,Always busy
+4082cbb9-48bd-4b3e-a2f5-df2badaa44ca,Secondary,None,Engineer,Trader,"Above 5,000,000",4,Always busy
+14dd5061-5557-46f8-a67e-ddcedf8f4197,Primary,Primary,Doctor,Nurse,"Below 1,000,000",2,Involved
+a981b098-b2cf-452d-a7f3-33b3f7baf55e,Primary,Primary,Nurse,Trader,"2,000,000-5,000,000",5,Always busy
+a4bbf962-606e-4e1c-8f15-84494f40c22f,Tertiary,Secondary,Engineer,Trader,"2,000,000-5,000,000",4,Always busy
+ff4625af-bd20-463b-b275-b5f3d436a7a8,Primary,Secondary,Doctor,Trader,"1,000,000-2,000,000",3,Always busy
+04aac1b7-5ca0-4428-822c-4d326c645c15,Secondary,None,Nurse,Civil Servant,"Below 1,000,000",2,Always busy
+31274148-7c7c-404e-8422-d03ef29a6339,Tertiary,Tertiary,Teacher,Unemployed,"1,000,000-2,000,000",3,Slightly involved
+81f7f3fb-19e4-4c6a-89c2-3e69d82c7565,Primary,None,Teacher,Engineer,"Below 1,000,000",4,Very Involved
+e05b46c5-5636-4094-a974-31db09a9d1c1,Secondary,None,Nurse,Nurse,"1,000,000-2,000,000",4,Slightly involved
+b15e54f6-d4d3-4795-ae4b-ebc429890880,Primary,Tertiary,Civil Servant,Unemployed,"1,000,000-2,000,000",5,Very Involved
+5d42b9e9-692e-47b6-8b2f-6d5c700b5d5f,Tertiary,Primary,Farmer,Nurse,"2,000,000-5,000,000",4,Always busy
+c8a723e9-bfa0-46c2-809c-b50648f1096d,None,Secondary,Civil Servant,Doctor,"Below 1,000,000",3,Always busy
+e76adca9-7811-4802-88cc-7cfecf01f944,Secondary,Primary,Farmer,Trader,"Above 5,000,000",6,Slightly involved
+c4f9eccd-7630-48a7-b0ca-fdd8fc043f08,Primary,Tertiary,Unemployed,Engineer,"1,000,000-2,000,000",5,Involved
+331f63fb-d11f-48c0-a97c-a4fff75d599f,Secondary,Secondary,Doctor,Nurse,"Below 1,000,000",2,Very Involved
+5f07c1a5-dfc6-40ce-bb07-fd31a4244f23,None,Primary,Trader,Nurse,"1,000,000-2,000,000",4,Very Involved
+1578d709-48f9-43d0-9fea-e1e0d9e604b3,Secondary,None,Farmer,Farmer,"1,000,000-2,000,000",5,Always busy
+177a8a5f-6ffe-43b3-94bf-7a4b25b8a42f,Primary,Primary,Teacher,Civil Servant,"Below 1,000,000",4,Very Involved
+6a36af18-06d3-4b93-ae33-688d597e6845,Tertiary,Secondary,Farmer,Civil Servant,"Below 1,000,000",5,Slightly involved
+397b5f51-5ffa-46ef-94e4-180cfe9936a3,Secondary,Tertiary,Teacher,Teacher,"Above 5,000,000",6,Slightly involved
+25637cc3-ca97-4bf5-95d5-96afa663d2cd,Tertiary,Primary,Engineer,Doctor,"2,000,000-5,000,000",5,Involved
+c24369e7-2387-4af6-94c3-a832b231c60b,None,Primary,Trader,Doctor,"1,000,000-2,000,000",6,Involved
+3735262d-4184-4b03-84dd-7054144823f7,Tertiary,Primary,Trader,Unemployed,"1,000,000-2,000,000",4,Always busy
+c6b33fe6-1c76-4df6-ac5a-6c93871c0884,Primary,Primary,Trader,Civil Servant,"1,000,000-2,000,000",6,Always busy
+9f708368-cb3c-48ca-a392-57316b79afcc,Tertiary,Primary,Engineer,Doctor,"Below 1,000,000",2,Always busy
+a1c7cc8a-0435-4b64-893a-d23298c3e3ca,Secondary,Tertiary,Trader,Nurse,"Below 1,000,000",3,Very Involved
+5a5226e6-9d64-4932-8066-853d6de299a1,None,Secondary,Unemployed,Farmer,"Below 1,000,000",3,Involved
+5c508720-f982-44e0-8603-156a15eacbcf,Secondary,Tertiary,Teacher,Civil Servant,"1,000,000-2,000,000",2,Very Involved
+0534a101-8ddc-4719-81f3-8dd4fd034ada,Primary,None,Trader,Unemployed,"2,000,000-5,000,000",6,Slightly involved
+bf5023f4-40ef-4935-9f90-bed6fb25664d,None,Tertiary,Teacher,Trader,"1,000,000-2,000,000",5,Involved
+1a89b71e-a0d5-42c8-a837-fe68bba205ca,Secondary,Tertiary,Doctor,Civil Servant,"2,000,000-5,000,000",3,Always busy
+56ab087a-8bc7-4e81-9a30-45280b599562,Secondary,Primary,Teacher,Teacher,"Above 5,000,000",4,Slightly involved
+7a8104de-b205-47bb-bb16-f75776f186ab,Primary,Primary,Civil Servant,Farmer,"1,000,000-2,000,000",5,Always busy
+0977c513-752a-4d25-b190-1b7ec6b469ef,Primary,Secondary,Farmer,Unemployed,"1,000,000-2,000,000",3,Slightly involved
+4f612217-eef1-4694-90ca-e32d0aba590e,Tertiary,Tertiary,Farmer,Doctor,"Below 1,000,000",6,Very Involved
+a59b457f-c0d7-4c73-895f-fa8140d92bce,Primary,Tertiary,Teacher,Civil Servant,"2,000,000-5,000,000",4,Very Involved
+45f18619-54f9-4429-a7de-02ccdda4f4a7,Tertiary,None,Civil Servant,Farmer,"2,000,000-5,000,000",3,Slightly involved
+f4dbca07-e506-4670-b092-947dbe4969ec,None,Primary,Nurse,Unemployed,"Above 5,000,000",4,Involved
+cc1b4157-ec9f-4c54-9e0a-72ab7f5db163,Secondary,Tertiary,Engineer,Doctor,"2,000,000-5,000,000",5,Always busy
+febec0db-9a3a-4103-ae3c-453214348f62,Secondary,None,Nurse,Teacher,"Above 5,000,000",5,Involved
+4baf0f5e-a932-4094-93f2-8f11147f6570,Tertiary,None,Teacher,Civil Servant,"2,000,000-5,000,000",6,Slightly involved
+727716ec-59fe-4bbc-b1a3-fad2b0946d2a,Tertiary,Primary,Farmer,Farmer,"1,000,000-2,000,000",3,Involved
+a3b442bd-4649-4296-af58-42c3ff86cc31,Tertiary,Secondary,Farmer,Farmer,"1,000,000-2,000,000",4,Very Involved
+83599af6-5d01-455f-a7fd-64c4a334058a,Tertiary,Secondary,Trader,Trader,"Below 1,000,000",6,Involved
+ad973b67-9b89-45cb-9942-644c248d31ec,Tertiary,Secondary,Engineer,Unemployed,"Below 1,000,000",5,Slightly involved
+5cb5e69c-5dc7-43e6-a529-64ffc74cc890,Secondary,Secondary,Trader,Unemployed,"1,000,000-2,000,000",2,Slightly involved
+5ef787b8-f2e6-495f-b32e-2016add702c9,Tertiary,None,Farmer,Doctor,"Below 1,000,000",4,Involved
+507b9072-65e5-4f34-9df0-6e8c878aaed9,Secondary,None,Unemployed,Trader,"Below 1,000,000",4,Involved
+848af440-7fc1-4858-afa0-d842bc55300b,Secondary,None,Engineer,Unemployed,"Above 5,000,000",4,Always busy
+36ee1640-723e-4466-b43b-d27f42a259a6,Secondary,Tertiary,Trader,Engineer,"1,000,000-2,000,000",4,Always busy
+12f5131a-da52-42ee-a2bf-18f51f652a87,None,Tertiary,Civil Servant,Teacher,"2,000,000-5,000,000",5,Very Involved
+f7b217c7-ae92-4a71-8f7d-cb431679742f,Tertiary,None,Farmer,Doctor,"2,000,000-5,000,000",5,Very Involved
+4a552ea0-8acb-4e09-8ccc-9cea109fd8ee,None,Secondary,Doctor,Trader,"1,000,000-2,000,000",3,Slightly involved
+2c913a7c-a340-4f08-b341-91b8ed6522b4,Tertiary,Secondary,Teacher,Trader,"2,000,000-5,000,000",3,Very Involved
+3c9abe10-238d-4f44-8ac4-d0eb3373730e,Primary,None,Teacher,Teacher,"1,000,000-2,000,000",3,Slightly involved
+fba6abf7-cdbc-4653-b7a7-e8b75e70f65f,None,None,Engineer,Farmer,"2,000,000-5,000,000",3,Always busy
+b788f5d1-ffe5-45f6-a5ed-cfe34f2dad3f,None,Tertiary,Doctor,Civil Servant,"Above 5,000,000",2,Very Involved
+20156a72-12e1-43a6-932c-ae01d2c65ee4,Tertiary,Secondary,Civil Servant,Doctor,"Above 5,000,000",4,Involved
+20da8972-5832-4ee4-8471-b4b0ae1b9f69,Tertiary,None,Civil Servant,Unemployed,"Below 1,000,000",3,Slightly involved
+21084dd9-f75d-4e3c-848d-56502e9522d6,None,Tertiary,Farmer,Doctor,"Below 1,000,000",6,Very Involved
+4ddb1b36-272c-4588-84a2-576c1fc905f8,None,Tertiary,Engineer,Civil Servant,"1,000,000-2,000,000",3,Always busy
+84d67c4f-f0df-4684-b28e-41225894f7f1,Tertiary,None,Engineer,Teacher,"Below 1,000,000",3,Very Involved
+46426c45-8d03-417a-b4d3-75c1a29319fa,Secondary,None,Trader,Teacher,"Above 5,000,000",5,Always busy
+9780c215-2b2b-48e9-a417-c09380a8a23d,Tertiary,Primary,Teacher,Unemployed,"2,000,000-5,000,000",6,Very Involved
+566e3cbe-9aea-422f-a6e9-87cab87b6384,Primary,Tertiary,Civil Servant,Farmer,"1,000,000-2,000,000",4,Very Involved
+f2d3f761-0ba3-4279-94cb-056407437c3b,None,Secondary,Engineer,Teacher,"2,000,000-5,000,000",4,Slightly involved
+9e3c5a88-6aa5-4e6d-9277-9574c4576cc3,None,Tertiary,Engineer,Teacher,"2,000,000-5,000,000",3,Slightly involved
+4d560a3d-f4e7-469a-a454-09374a27ebf2,Primary,Tertiary,Farmer,Doctor,"1,000,000-2,000,000",4,Involved
+2877f5d9-0f56-45f8-b048-faa112ae5c22,Secondary,Secondary,Trader,Nurse,"1,000,000-2,000,000",4,Very Involved
+dc8a4922-5005-480f-a4c7-78a59b4e164b,Tertiary,None,Civil Servant,Farmer,"1,000,000-2,000,000",6,Involved
+c2baf0e0-2179-43f0-a612-4ab4f9b21e6e,Tertiary,Secondary,Teacher,Unemployed,"2,000,000-5,000,000",5,Very Involved
+7318b96d-4479-4612-9f5d-988f776abf09,Tertiary,Tertiary,Nurse,Teacher,"Below 1,000,000",5,Always busy
+6b0ae0e3-9d89-4047-9d39-d7936257a4a2,Primary,Primary,Nurse,Doctor,"2,000,000-5,000,000",6,Always busy
+b89bdf7f-93e3-4c35-af0a-573d53d2d56d,Secondary,Primary,Farmer,Teacher,"Below 1,000,000",2,Always busy
+e10b1a47-7fae-4748-b781-321e83c501cb,Secondary,Secondary,Teacher,Unemployed,"1,000,000-2,000,000",3,Slightly involved
+3da06476-f778-4676-b50d-112e8164ceec,Secondary,Tertiary,Nurse,Nurse,"1,000,000-2,000,000",5,Involved
+d7c4fe9c-e1e0-4ffc-98f6-fd7f7eb162f1,Tertiary,Primary,Doctor,Unemployed,"2,000,000-5,000,000",5,Slightly involved
+22498f66-6e51-484d-9b84-edc3d8e049de,Secondary,Secondary,Engineer,Trader,"Below 1,000,000",6,Slightly involved
+0d18ab95-668c-4477-8b95-017c5dae1201,Secondary,Secondary,Farmer,Nurse,"Below 1,000,000",2,Slightly involved
+734a6ca3-8116-43fc-a2e7-c1a612d2fa06,Primary,Primary,Teacher,Teacher,"Above 5,000,000",4,Involved
+20f0156a-1e6a-4628-9c6d-52d5ae2e9af9,Primary,Primary,Nurse,Civil Servant,"1,000,000-2,000,000",3,Slightly involved
+5d986115-f05e-4efe-8ece-112856ce4b42,Primary,None,Farmer,Trader,"Below 1,000,000",4,Involved
+09f64405-0b99-4034-8a4e-255280051b10,Tertiary,Primary,Unemployed,Farmer,"2,000,000-5,000,000",3,Involved
+e4a4474c-9b33-43a4-a620-f9a974fd33d1,Primary,None,Doctor,Nurse,"2,000,000-5,000,000",5,Always busy
+9dd2f9de-fd98-4e33-a498-abe92999bbef,Tertiary,Secondary,Trader,Doctor,"Below 1,000,000",3,Slightly involved
+7d66971e-8847-4c56-827c-9f8cd40ac5e9,Primary,None,Nurse,Unemployed,"1,000,000-2,000,000",3,Very Involved
+1c0f0bdc-ac7e-437c-94cc-1e2a5e4cb287,Tertiary,Tertiary,Engineer,Nurse,"1,000,000-2,000,000",2,Very Involved
+a1173719-b023-40ea-9f41-e335b9aed8e4,Primary,None,Trader,Engineer,"1,000,000-2,000,000",2,Very Involved
+9416e4dc-c6b2-4def-b8d8-b7f1c86c6544,Secondary,None,Doctor,Nurse,"1,000,000-2,000,000",5,Slightly involved
+b89f7039-a107-4c46-8634-17182ba6adb3,Secondary,Secondary,Doctor,Engineer,"Below 1,000,000",5,Always busy
+9293f705-0815-4147-be00-980eae441e21,Tertiary,Secondary,Unemployed,Unemployed,"2,000,000-5,000,000",2,Involved
+69b7c0fa-26c4-42f6-ab35-2f85504e2687,Tertiary,Secondary,Nurse,Nurse,"Above 5,000,000",4,Always busy
+d92f3c1e-df70-4b2a-b8bb-22a5eba742d2,Primary,Secondary,Trader,Doctor,"2,000,000-5,000,000",6,Involved
+ff84faef-5336-423b-8f96-468535145890,Primary,None,Teacher,Civil Servant,"Below 1,000,000",5,Very Involved
+887b03e5-e980-4808-b5ac-824c2c55aef7,Secondary,Tertiary,Civil Servant,Farmer,"Above 5,000,000",3,Always busy
+cdbc2c1c-a4af-47bd-ae45-5cc6b88e830f,Primary,Primary,Teacher,Doctor,"Above 5,000,000",2,Slightly involved
+4c6a70f4-8ede-444d-876c-f68c3f1be0d0,Secondary,None,Teacher,Civil Servant,"1,000,000-2,000,000",2,Very Involved
+b0b39015-3510-4852-b474-634949fc2cd8,Primary,Primary,Farmer,Nurse,"1,000,000-2,000,000",6,Involved
+b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb,None,Secondary,Trader,Unemployed,"2,000,000-5,000,000",5,Always busy
+65001423-faeb-4d19-a550-8ea26133a34d,Secondary,Tertiary,Doctor,Engineer,"1,000,000-2,000,000",4,Always busy
+f48f709c-49a2-4441-8ac4-de854a5b1aff,None,Tertiary,Engineer,Teacher,"2,000,000-5,000,000",5,Very Involved
+36c7d6fa-7aa4-4052-bf51-936241a64fed,None,Tertiary,Doctor,Doctor,"Above 5,000,000",4,Slightly involved
+1bf645f6-2324-4211-8588-fc1bb2384849,Tertiary,None,Nurse,Farmer,"1,000,000-2,000,000",2,Always busy
+39c59df9-87f2-45d6-a7ba-26acab7a3d1c,Primary,Tertiary,Farmer,Civil Servant,"Below 1,000,000",2,Involved
+ae62990c-19bd-4f93-b8ef-7666b7a4c719,None,Primary,Nurse,Engineer,"2,000,000-5,000,000",6,Slightly involved
+a723fb72-682b-463a-a86e-d390edd97a1a,None,Primary,Teacher,Nurse,"1,000,000-2,000,000",2,Very Involved
+4988e418-f6c3-4218-8183-6315330f8be1,None,Primary,Civil Servant,Unemployed,"Above 5,000,000",2,Slightly involved
+3b72c86d-92fa-475f-a6fd-0cb116e6e5c0,Secondary,Tertiary,Nurse,Civil Servant,"Below 1,000,000",5,Slightly involved
+6afa828c-2cd1-4b9f-abe5-841fe9c96c52,Primary,Tertiary,Engineer,Unemployed,"Below 1,000,000",4,Slightly involved
+c9b7c9bc-65a1-4fa9-9611-69a1ff46a6bf,Primary,Tertiary,Farmer,Trader,"2,000,000-5,000,000",5,Involved
+4c636e95-025f-4543-8997-623ae0723d96,Primary,Tertiary,Doctor,Teacher,"2,000,000-5,000,000",4,Very Involved
+a42d0cd7-fd35-4f6a-b450-388748d90846,Tertiary,Secondary,Farmer,Doctor,"Below 1,000,000",3,Involved
+45d8a6ad-77d0-459e-8114-14f8d9df0d0e,None,Secondary,Unemployed,Engineer,"1,000,000-2,000,000",2,Slightly involved
+b7f60cdf-41dc-4c60-a5f6-0735757b6b29,Primary,None,Engineer,Unemployed,"Above 5,000,000",3,Involved
+317304b5-c1dd-484a-aca5-8d95915a1c30,Secondary,Primary,Engineer,Unemployed,"Below 1,000,000",5,Involved
+53f30073-83e9-4ef4-ad7d-f5d0d3b59af7,None,Tertiary,Doctor,Doctor,"1,000,000-2,000,000",3,Slightly involved
+ef9240b6-52d7-4f10-ba3a-6e9623ff23d3,Secondary,Secondary,Civil Servant,Farmer,"2,000,000-5,000,000",5,Very Involved
+546252e7-f43b-4052-8459-bd6ec0f63229,Tertiary,Tertiary,Engineer,Farmer,"1,000,000-2,000,000",2,Very Involved
+3c7e5368-b159-4847-9c0b-9b10a757cb10,Tertiary,Secondary,Farmer,Doctor,"1,000,000-2,000,000",5,Always busy
+ec50ace4-80a5-4e65-afa2-855967c96204,Tertiary,Secondary,Unemployed,Civil Servant,"Below 1,000,000",6,Involved
+f0cd7f05-ea87-455e-a382-95d31e0ef546,Secondary,Primary,Trader,Engineer,"2,000,000-5,000,000",2,Involved
+74797b61-2737-4b52-ba6a-210722319050,Tertiary,Secondary,Engineer,Trader,"Below 1,000,000",4,Involved
+c1e1b94a-7888-4058-a9ad-0e9b8c9aa1e9,Tertiary,Secondary,Teacher,Civil Servant,"Below 1,000,000",4,Slightly involved
+98874bfe-c136-4c65-ae2a-e3413f59e4f2,Secondary,Primary,Unemployed,Teacher,"Below 1,000,000",4,Involved
+ead08c89-13fe-4a29-9c9d-eee0b42a0456,Tertiary,Primary,Unemployed,Farmer,"1,000,000-2,000,000",5,Involved
+89628f6e-929c-43b3-b3c0-8bf18167999f,Tertiary,Secondary,Engineer,Engineer,"2,000,000-5,000,000",5,Very Involved
+b787ef8d-3495-411e-ae27-d4321dc1e7eb,Primary,Primary,Trader,Nurse,"2,000,000-5,000,000",4,Involved
+21c71aa3-7414-43b5-8e3e-25f2cf0671c7,Primary,None,Trader,Trader,"Above 5,000,000",2,Very Involved
+4ee4334e-ce92-4136-ac3a-812f765e6cb5,Tertiary,Secondary,Nurse,Doctor,"Below 1,000,000",4,Very Involved
+12b2102d-940c-4503-b7c8-6152beed0af9,Secondary,Secondary,Civil Servant,Trader,"1,000,000-2,000,000",4,Involved
+e4eb8000-ef40-4162-8f6c-e9bffe7ee362,Primary,None,Trader,Unemployed,"Above 5,000,000",5,Very Involved
+22ab7752-c4db-4a62-ae13-418d68ab80ea,Tertiary,Secondary,Engineer,Teacher,"Above 5,000,000",2,Involved
+e42e707a-fe2b-4987-9fdc-abbf6b9cd71c,Primary,None,Nurse,Unemployed,"2,000,000-5,000,000",3,Always busy
+f6d22a7b-aec7-4a82-948b-4376602a4e57,None,Primary,Civil Servant,Trader,"Above 5,000,000",2,Always busy
+fe2b34d8-2db0-428d-9e5e-be5459077299,Tertiary,Secondary,Unemployed,Civil Servant,"Below 1,000,000",3,Very Involved
+c194f97f-00e3-4026-95b6-de85390239d9,Tertiary,Primary,Trader,Trader,"Above 5,000,000",3,Always busy
+6118433b-882c-4d1e-ac93-a7918b60c511,Primary,None,Trader,Farmer,"2,000,000-5,000,000",4,Always busy
+e00da49d-effa-4002-b040-413c4690fb15,Tertiary,Tertiary,Teacher,Nurse,"Above 5,000,000",3,Very Involved
+efad49e9-c41c-447e-9d6b-9b626b535a19,None,Tertiary,Nurse,Trader,"2,000,000-5,000,000",5,Slightly involved
+7249f62c-0898-4462-980c-b95c19d45deb,Secondary,Tertiary,Teacher,Trader,"2,000,000-5,000,000",4,Slightly involved
+705fddf5-66fa-4ca0-8b53-1932bd9419aa,Secondary,Primary,Trader,Teacher,"2,000,000-5,000,000",5,Always busy
+fe54ee4b-80ff-4173-a3df-ecd70e731dd7,Secondary,Primary,Engineer,Nurse,"Below 1,000,000",5,Very Involved
+c5c51060-9911-41e7-93d5-63ae51a3ac26,Primary,Secondary,Civil Servant,Farmer,"1,000,000-2,000,000",2,Involved
+8570b59f-a903-4e67-bc56-8b5324acb722,None,Tertiary,Civil Servant,Nurse,"Above 5,000,000",6,Involved
+bc36dc59-e134-4dfc-9777-7f10f2d2393f,Secondary,None,Unemployed,Engineer,"Above 5,000,000",5,Very Involved
+582b91ee-f8e8-435b-8c00-988a7ee1011a,Tertiary,Secondary,Trader,Doctor,"2,000,000-5,000,000",4,Involved
+6883ac6e-6a94-4054-b241-4482519894d8,Tertiary,Primary,Farmer,Teacher,"Above 5,000,000",6,Always busy
+39b02e2a-d96e-484f-bdb0-174e7938878a,None,None,Farmer,Engineer,"Above 5,000,000",6,Always busy
+69a53b4f-8ff8-469d-8ec0-713dea2c7a51,Secondary,None,Engineer,Engineer,"1,000,000-2,000,000",5,Very Involved
+548c1d84-340d-4049-8147-65063e2bf9c9,Tertiary,Secondary,Engineer,Unemployed,"1,000,000-2,000,000",5,Slightly involved
+d453f867-b97e-4224-891f-691217abb863,Tertiary,Secondary,Teacher,Trader,"Above 5,000,000",3,Involved
+12a1fe7d-dfa5-4722-8a1f-c9df9a591974,Tertiary,Tertiary,Teacher,Farmer,"Below 1,000,000",6,Slightly involved
+3579c143-7ab9-4428-b78e-65108f10d33e,Primary,Primary,Teacher,Teacher,"Above 5,000,000",2,Slightly involved
+30a5648e-efe9-43d0-b639-08bf03ece8ff,Secondary,None,Civil Servant,Farmer,"Above 5,000,000",3,Involved
+b2149062-3e1a-463e-aa18-d32c7a9a8ef5,Tertiary,Primary,Farmer,Unemployed,"2,000,000-5,000,000",4,Slightly involved
+48769153-c688-43fe-9255-5c758d55119e,Secondary,Primary,Nurse,Unemployed,"Above 5,000,000",4,Slightly involved
+e1fff6c0-8347-41da-9c11-ab6d42f5b3f5,Tertiary,Tertiary,Nurse,Doctor,"2,000,000-5,000,000",4,Always busy
+340029c3-ea11-405b-91fa-cefad6f89f7a,Primary,None,Doctor,Teacher,"Below 1,000,000",5,Involved
+0426fcc9-255b-40e2-bdc2-b74b38a56b49,Secondary,None,Trader,Farmer,"Above 5,000,000",3,Involved
+32399ffb-2704-4f25-8b91-b8cb6ae66582,Primary,Tertiary,Civil Servant,Nurse,"Above 5,000,000",3,Very Involved
+f186e47a-a794-4320-8cf6-e8b87fd238c3,None,Secondary,Trader,Civil Servant,"2,000,000-5,000,000",3,Very Involved
+bd5609c4-a446-4663-b93b-17fbf76d15fd,Secondary,Primary,Teacher,Doctor,"2,000,000-5,000,000",3,Always busy
+2f1dc121-7d02-4c6d-8bea-75c1b86677aa,Primary,None,Trader,Farmer,"2,000,000-5,000,000",5,Always busy
+d6cd3155-08a8-4c7f-8621-38ad0f09105c,None,Primary,Unemployed,Teacher,"2,000,000-5,000,000",5,Involved
+2332a50e-6992-496e-81a2-5ed1c3abb5f1,None,None,Civil Servant,Engineer,"Below 1,000,000",6,Always busy
+74bd0c93-8177-4661-b7fe-032c02571851,Tertiary,None,Farmer,Engineer,"2,000,000-5,000,000",3,Very Involved
+a8c6dbc0-7bb3-447b-a9aa-144b9dd43675,Primary,None,Civil Servant,Engineer,"2,000,000-5,000,000",5,Slightly involved
+892621df-4655-48b7-b8e1-9f568787ea21,Tertiary,Primary,Trader,Civil Servant,"Above 5,000,000",3,Involved
+f090f5a0-ce61-4199-ae3a-0ba8ac8d6c7d,Primary,None,Doctor,Engineer,"Above 5,000,000",3,Very Involved
+9ea9f508-3122-4592-bdb0-2235261e2555,Primary,Primary,Civil Servant,Engineer,"1,000,000-2,000,000",4,Very Involved
+f5948a54-5f80-4eeb-943a-9aff659b0105,Primary,Primary,Trader,Unemployed,"2,000,000-5,000,000",2,Involved
+d3fbe043-af1d-4a1a-8ccb-235539d1c7ff,Secondary,Tertiary,Civil Servant,Civil Servant,"Above 5,000,000",4,Always busy
+67c0518b-17ef-4621-881c-79d4c27437eb,Tertiary,Tertiary,Farmer,Farmer,"1,000,000-2,000,000",5,Involved
+152aeaec-2bdf-4b41-b3ed-a8f1026b5383,Tertiary,Tertiary,Unemployed,Unemployed,"Above 5,000,000",5,Very Involved
+eb4d8f42-8735-40a2-a511-09611869a217,Secondary,Secondary,Teacher,Civil Servant,"1,000,000-2,000,000",3,Involved
+45667c48-79ba-430a-9118-c400e336c243,Primary,Tertiary,Teacher,Engineer,"2,000,000-5,000,000",4,Very Involved
+a879d8f8-9042-4eb7-8b04-0f53e63949d4,Primary,Secondary,Trader,Nurse,"1,000,000-2,000,000",6,Slightly involved
+24e9bcfd-9647-4f9f-b508-507af622d842,None,Secondary,Trader,Civil Servant,"Below 1,000,000",4,Slightly involved
+905f9096-2996-46e2-8c9d-690713b22cec,Primary,Primary,Nurse,Doctor,"Below 1,000,000",5,Always busy
+6243bed7-54ec-4f33-8a62-4cbde582b678,Tertiary,Tertiary,Engineer,Trader,"Below 1,000,000",5,Always busy
+bed63da0-8033-45c2-9413-d64db962c8a7,Tertiary,Tertiary,Unemployed,Civil Servant,"2,000,000-5,000,000",5,Always busy
+9aec56a8-5731-4609-9375-ee90d6b361e4,Tertiary,Primary,Teacher,Teacher,"1,000,000-2,000,000",2,Very Involved
+a255e1bb-0795-4c1f-938d-6b8cc607b1e9,Primary,Tertiary,Teacher,Trader,"Below 1,000,000",2,Involved
+601bfbcb-f0ee-4cce-8d93-e14a5b167158,Tertiary,None,Civil Servant,Engineer,"2,000,000-5,000,000",2,Very Involved
+4b9dfd58-9e5d-4c7a-85ac-c35415f00cb4,Secondary,None,Doctor,Farmer,"2,000,000-5,000,000",4,Slightly involved
+c8ad0899-b630-494d-a147-adeb277b0667,Secondary,Tertiary,Nurse,Trader,"2,000,000-5,000,000",5,Slightly involved
+f165d779-0154-4950-976d-e21f1b46ebdc,Primary,None,Engineer,Teacher,"2,000,000-5,000,000",3,Slightly involved
+6e54ac6d-2ff8-487e-9659-1c8921ebfaa9,Secondary,None,Unemployed,Farmer,"1,000,000-2,000,000",4,Involved
+8de1596c-5a9a-406a-96f1-42a206b919aa,Primary,Primary,Engineer,Unemployed,"Below 1,000,000",5,Involved
+69ef74e3-4ab6-421c-8328-c136629ef3d8,None,Tertiary,Farmer,Engineer,"1,000,000-2,000,000",2,Always busy
+3e245fbf-fa69-4cd2-be23-90f3e7bbaefc,Secondary,Primary,Unemployed,Doctor,"1,000,000-2,000,000",2,Always busy
+44b64ec1-4d16-4049-84d7-df9a238b05b7,Primary,Tertiary,Trader,Doctor,"2,000,000-5,000,000",5,Always busy
+5c72aebd-13b1-4e59-885c-d7147bf69552,Primary,Secondary,Teacher,Engineer,"2,000,000-5,000,000",3,Always busy
+75366b9f-320f-42c0-9dde-01889803b22e,Secondary,Secondary,Doctor,Trader,"1,000,000-2,000,000",4,Very Involved
+614077d3-9ec4-4a48-9773-f98d550c2fe9,Tertiary,Tertiary,Trader,Teacher,"Below 1,000,000",4,Very Involved
+a6aa59e5-dc08-4f29-92d3-3488d0c30018,None,None,Farmer,Teacher,"1,000,000-2,000,000",2,Always busy
+7aa061e9-336b-40cb-b1fe-ad13f280df1d,Secondary,None,Farmer,Engineer,"1,000,000-2,000,000",2,Slightly involved
+a205e54f-b1e8-409d-bc20-b9f24a9c589e,Tertiary,Primary,Engineer,Doctor,"Below 1,000,000",6,Slightly involved
+5d71a898-6497-4593-892e-8c93d105c8d6,Secondary,None,Engineer,Doctor,"Below 1,000,000",4,Involved
+c4829b71-ae84-481c-ae0f-b5b38bae591e,Secondary,Tertiary,Farmer,Nurse,"Above 5,000,000",4,Always busy
+cc351e4f-703e-457f-b5ab-8466b5578b00,Secondary,Tertiary,Trader,Farmer,"Above 5,000,000",6,Involved
+ac484366-68bd-40d7-8b88-1c32cbb02a8b,Secondary,Primary,Nurse,Civil Servant,"1,000,000-2,000,000",4,Slightly involved
+72f60958-12ef-4101-a082-786fca00ef58,Primary,Tertiary,Civil Servant,Unemployed,"Below 1,000,000",6,Very Involved
+6b15c11b-b113-450b-9ea0-50c6eb9ed274,None,Primary,Trader,Nurse,"Above 5,000,000",4,Involved
+98049562-8972-4bbd-8ff2-b1c4e53f9644,Primary,None,Engineer,Trader,"2,000,000-5,000,000",2,Involved
+2a9528c3-5ae1-4bad-aa29-60fda85894df,None,None,Nurse,Nurse,"1,000,000-2,000,000",2,Involved
+f780ef2f-664d-4922-a590-fd3cad6ecc57,Tertiary,Tertiary,Civil Servant,Teacher,"Above 5,000,000",2,Very Involved
+38d5101f-423c-4d9d-993e-478302b34254,Secondary,Tertiary,Engineer,Farmer,"Above 5,000,000",2,Slightly involved
+5fc64cd0-721e-4b1f-b895-89399342a09f,Primary,Primary,Engineer,Nurse,"1,000,000-2,000,000",3,Always busy
+ff69723d-584f-485b-a697-384d801e8690,Secondary,Secondary,Unemployed,Doctor,"Above 5,000,000",6,Very Involved
+d4d13d55-1db6-4844-95fa-9483f633cc2d,Primary,Secondary,Nurse,Doctor,"Above 5,000,000",4,Slightly involved
+8567c805-34f5-41c0-88c5-eb2a7490adeb,Tertiary,Primary,Teacher,Nurse,"1,000,000-2,000,000",6,Very Involved
+0b705933-4cde-4b6b-9132-567c51a40d2a,Tertiary,Tertiary,Unemployed,Engineer,"Below 1,000,000",3,Involved
+ccd015c1-ad59-40dd-9bff-3142a5e15b55,Secondary,None,Civil Servant,Civil Servant,"Below 1,000,000",4,Very Involved
+54bbbcf8-28fe-4761-8d49-fe3f2ca8f783,Primary,Primary,Teacher,Engineer,"1,000,000-2,000,000",5,Always busy
+2fb70dab-2f38-4b43-a137-f8e467b13040,Primary,Primary,Nurse,Doctor,"Below 1,000,000",6,Slightly involved
+7317591a-3283-4aa4-a212-ab7c9d361cb6,Tertiary,Tertiary,Trader,Farmer,"1,000,000-2,000,000",5,Slightly involved
+b4299924-c098-4750-8741-9b4834ae4abd,Secondary,Secondary,Unemployed,Unemployed,"2,000,000-5,000,000",5,Very Involved
+5da49cb9-2fdc-4992-8971-8eeadf3a098a,Primary,None,Doctor,Engineer,"1,000,000-2,000,000",6,Involved
+f7464c02-8718-44c1-bd4e-d26edcd5bfae,Tertiary,None,Civil Servant,Civil Servant,"Above 5,000,000",4,Slightly involved
+5a1baf0e-5911-46dc-9d3e-503a9645f0e4,None,Primary,Farmer,Teacher,"1,000,000-2,000,000",3,Slightly involved
+eb2ec80e-4c25-4823-8cf4-ffb0b4bba73f,None,Secondary,Farmer,Civil Servant,"Below 1,000,000",3,Slightly involved
+1df05d18-4e2d-4255-bd13-1a3d1e2c2e7d,Primary,Secondary,Farmer,Farmer,"Above 5,000,000",2,Very Involved
+93267d25-234b-4562-98af-5cca6b11b7cb,None,Primary,Unemployed,Nurse,"Above 5,000,000",5,Involved
+ee4205ee-a52f-43ec-ab4e-2281b184d1fc,Primary,Secondary,Teacher,Unemployed,"Below 1,000,000",3,Always busy
+dd92dd7c-0db9-47a9-9e91-a71c7374ccbf,None,Tertiary,Nurse,Teacher,"1,000,000-2,000,000",4,Involved
+8fc3d7d3-f6bd-40c7-a24a-2a50d0b1fde0,None,Tertiary,Nurse,Unemployed,"Above 5,000,000",4,Always busy
+71a0449d-d703-462f-b5cb-e3f56a66c184,Secondary,Primary,Farmer,Unemployed,"2,000,000-5,000,000",2,Always busy
+398f569b-465c-42cb-885e-b4894ac66780,None,None,Farmer,Nurse,"Above 5,000,000",3,Slightly involved
+7eccdaf4-c413-4dc2-85c5-ae8abe15ad12,Secondary,Secondary,Nurse,Unemployed,"1,000,000-2,000,000",5,Involved
+fdab3441-d2c2-4960-8b09-01abc66dceb3,Primary,None,Teacher,Engineer,"Below 1,000,000",3,Always busy
+37f25d36-8bdd-4ee3-b0fd-6672b80f16c5,Secondary,None,Unemployed,Teacher,"Above 5,000,000",3,Involved
+0840405a-ffd2-4491-9ff3-89aa4c36a70c,Tertiary,None,Trader,Civil Servant,"Above 5,000,000",5,Involved
+1e0d02b5-fe74-42cd-9d83-ad037066e289,Tertiary,Secondary,Doctor,Civil Servant,"Below 1,000,000",5,Slightly involved
+dc6dafff-59c2-4153-b06b-0f0c96822e22,None,Secondary,Engineer,Trader,"1,000,000-2,000,000",4,Slightly involved
+d0437e4c-34e5-4699-88eb-e27a23a4e70e,Tertiary,Secondary,Civil Servant,Trader,"Above 5,000,000",4,Always busy
+2b1ac76c-89ec-4c51-98cb-aa5247f53019,Primary,Secondary,Engineer,Teacher,"2,000,000-5,000,000",5,Very Involved
+83b0b35c-dba6-4df8-b3d0-4ffb44709848,Tertiary,Tertiary,Nurse,Nurse,"Below 1,000,000",5,Involved
+0f2d5c15-eb34-4d3a-a95e-5ea9c9230c64,Secondary,Secondary,Engineer,Teacher,"Below 1,000,000",3,Involved
+5274ee11-b61d-4906-a570-35db3fead90a,Tertiary,Tertiary,Trader,Nurse,"1,000,000-2,000,000",6,Involved
+a1e518a2-93d2-48d4-a465-5c397d4d2add,Primary,Tertiary,Teacher,Engineer,"2,000,000-5,000,000",6,Always busy
+c4d598f7-e14f-4093-8b6a-d0c7a2356dd4,Primary,Tertiary,Teacher,Trader,"2,000,000-5,000,000",3,Always busy
+7466ef02-5e7b-42c8-a097-dedbefb3b939,Tertiary,Tertiary,Civil Servant,Nurse,"2,000,000-5,000,000",4,Very Involved
+17d821b8-bb93-4d40-98df-f535c62dbaea,None,Tertiary,Engineer,Trader,"2,000,000-5,000,000",6,Always busy
+cbb18c79-1036-408d-99a0-90075bb47c18,Primary,Secondary,Teacher,Farmer,"Above 5,000,000",6,Very Involved
+52a74a41-44be-4486-bea5-a387363be5cb,Tertiary,None,Teacher,Doctor,"2,000,000-5,000,000",6,Slightly involved
+c9ce44bd-7c3f-4add-9a38-5db590eeb067,Primary,Tertiary,Nurse,Engineer,"Below 1,000,000",2,Always busy
+d6321d31-c8ac-4fcf-a04d-4d14197dbae1,None,Primary,Trader,Doctor,"2,000,000-5,000,000",3,Slightly involved
+fde91c42-002c-4c22-b4de-5f7070f81dba,Tertiary,Tertiary,Engineer,Unemployed,"Below 1,000,000",3,Very Involved
+4d470ed6-a666-4769-a1d4-6f8221c50e41,None,Primary,Teacher,Trader,"Above 5,000,000",2,Involved
+1519830c-4019-4303-9c45-7e4da79313b8,Secondary,Primary,Unemployed,Nurse,"Above 5,000,000",5,Involved
+b9da5f8c-4e35-4a80-a027-9a186576a410,Primary,Primary,Farmer,Teacher,"2,000,000-5,000,000",5,Always busy
+36a2c52b-0047-4139-985d-f528b4258e19,Primary,Tertiary,Trader,Farmer,"2,000,000-5,000,000",2,Slightly involved
+02106371-0260-4123-b1ef-e72aae13591e,Primary,None,Civil Servant,Civil Servant,"Below 1,000,000",3,Very Involved
+7a4a902f-21d6-4b0f-b1ac-040d6c1cc405,None,None,Nurse,Teacher,"1,000,000-2,000,000",5,Involved
+5e1885c3-5037-4d6b-9a6b-6a7d1a38aad6,Secondary,Secondary,Civil Servant,Trader,"Below 1,000,000",5,Involved
+a43e558c-2215-4f00-9fdf-0e05c0cef31b,None,Primary,Engineer,Trader,"2,000,000-5,000,000",6,Involved
+59e7703a-70aa-4b0d-aa03-8ad4a667b982,Primary,Secondary,Nurse,Teacher,"Below 1,000,000",3,Always busy
+714011a1-afc2-4cfc-9db7-284b6965d1d1,None,Tertiary,Doctor,Nurse,"1,000,000-2,000,000",4,Slightly involved
+bae1e137-96ee-40e5-9f87-3b46c0a0473a,Tertiary,Primary,Engineer,Nurse,"Below 1,000,000",2,Involved
+a505da9c-46e7-4a2c-bf6e-ed9d23cbe943,Tertiary,Tertiary,Farmer,Nurse,"Below 1,000,000",5,Involved
+f0f7ad22-c76a-4e0f-88f0-91f09b8b38ae,Primary,None,Trader,Farmer,"1,000,000-2,000,000",2,Involved
+9b5f8f39-848b-44f0-b498-17354d38e415,None,Secondary,Trader,Civil Servant,"Above 5,000,000",2,Involved
+cb35097a-e5dd-48f1-88a7-38ab0df83e12,None,Tertiary,Engineer,Farmer,"1,000,000-2,000,000",6,Very Involved
+122dd7be-980b-481e-a359-5d1f7fe4a42e,None,Secondary,Farmer,Unemployed,"2,000,000-5,000,000",2,Slightly involved
+6307d4d1-21c9-415d-9104-5a16ef15ab72,Primary,Tertiary,Doctor,Trader,"2,000,000-5,000,000",6,Always busy
+78946a15-c342-41db-ac3a-acdcaed54a46,Tertiary,Primary,Engineer,Teacher,"1,000,000-2,000,000",3,Very Involved
+373aedf8-431e-430f-8387-f74d1149d096,Primary,None,Nurse,Farmer,"Below 1,000,000",2,Always busy
+b66edbf4-a0ea-4251-8957-43a281b13b80,Secondary,Primary,Doctor,Civil Servant,"Above 5,000,000",2,Involved
+89a3c811-895c-4fde-a3fa-40691519fd38,Tertiary,None,Civil Servant,Nurse,"1,000,000-2,000,000",4,Always busy
+f96c9a0a-3404-402a-abc1-bb5282e4dd4a,Primary,Tertiary,Teacher,Trader,"2,000,000-5,000,000",3,Always busy
+a65be22b-d5a3-46d9-8362-a810a2611b8d,None,Secondary,Engineer,Nurse,"1,000,000-2,000,000",2,Slightly involved
+3d175712-d8b2-4277-b413-db19bade8d5d,Primary,Secondary,Engineer,Doctor,"Below 1,000,000",6,Slightly involved
+0e165b12-9bdc-40d1-9cbf-7b8c74102d5d,Tertiary,Primary,Doctor,Farmer,"2,000,000-5,000,000",3,Slightly involved
+23204ff5-b538-496c-833e-02f71e93d127,Secondary,Tertiary,Trader,Doctor,"2,000,000-5,000,000",4,Always busy
+d28fcf68-c871-47b3-8468-b74d85e3ade5,None,None,Farmer,Engineer,"2,000,000-5,000,000",3,Very Involved
+bba1aed9-44cd-4fdd-9f9b-141ec7f7bda1,Tertiary,Primary,Trader,Doctor,"1,000,000-2,000,000",4,Very Involved
+861b4f5b-45a0-4539-ade8-370ace9e9ebd,Secondary,Secondary,Teacher,Teacher,"1,000,000-2,000,000",6,Slightly involved
+82c299f0-7487-4772-bf03-86fa13badc91,Tertiary,Primary,Teacher,Nurse,"Above 5,000,000",3,Very Involved
+c5f8e2f8-414f-4994-a845-77805e20c957,None,Secondary,Unemployed,Nurse,"2,000,000-5,000,000",5,Very Involved
+00a85473-8242-4912-bda3-c1623a78b64a,Primary,None,Teacher,Unemployed,"2,000,000-5,000,000",3,Slightly involved
+eb93f78c-620a-4158-9d2d-904f78c59073,Secondary,Primary,Civil Servant,Trader,"2,000,000-5,000,000",2,Always busy
+b6ca1127-e9f8-4970-8d98-f9e28d888beb,Tertiary,Secondary,Trader,Nurse,"Above 5,000,000",3,Slightly involved
+51e744e4-b864-4a08-aa75-752d6a8fcacb,Secondary,Primary,Unemployed,Trader,"2,000,000-5,000,000",6,Involved
+0d7bec04-e6e5-4b32-ac5f-12ef8085c147,Secondary,Primary,Engineer,Doctor,"2,000,000-5,000,000",3,Slightly involved
+e0827f76-11a5-49b4-a6a3-02d6f43e8c48,Primary,Secondary,Teacher,Civil Servant,"Above 5,000,000",3,Involved
+74ed5145-8d97-45c7-961d-5c8753c9fe59,Primary,Primary,Engineer,Engineer,"Above 5,000,000",5,Very Involved
+3e19fc1d-9f6a-4a65-bd54-da044dcd0009,None,Primary,Farmer,Trader,"2,000,000-5,000,000",5,Always busy
+bb82b796-3207-443e-86a0-7656c5c9fb91,None,None,Unemployed,Trader,"1,000,000-2,000,000",3,Slightly involved
+061efb95-68f8-4063-aeb1-9ad201a1fb0f,Secondary,None,Trader,Doctor,"Below 1,000,000",5,Involved
+55c3b2db-f374-490d-8274-ce40e09016b6,Tertiary,None,Nurse,Trader,"2,000,000-5,000,000",6,Always busy
+34879e41-1a9c-472a-8eb9-047dba2ac3d9,Secondary,Primary,Civil Servant,Doctor,"Below 1,000,000",2,Involved
+247296a4-ff38-4918-b8f9-a45d0f554896,Tertiary,Tertiary,Trader,Unemployed,"Above 5,000,000",3,Always busy
+69be173a-850e-40ad-9872-f72ee5b4a1ae,None,None,Civil Servant,Nurse,"Above 5,000,000",6,Always busy
+8163b6ce-1877-4c06-94ad-625215bc2a3e,Primary,Primary,Unemployed,Farmer,"2,000,000-5,000,000",4,Involved
+a995ecc3-6f5b-49a6-8ff1-c51f915cb31b,Secondary,Primary,Doctor,Unemployed,"Above 5,000,000",2,Involved
+64988bde-cd02-44db-ad11-15d750a46c85,Secondary,Secondary,Farmer,Teacher,"Above 5,000,000",3,Slightly involved
+f18cccdc-131e-4723-bbcd-f203459ee674,Secondary,Secondary,Teacher,Doctor,"1,000,000-2,000,000",5,Very Involved
+7316ce64-2a14-4a96-9b0c-62eb27c8fc6c,None,Primary,Teacher,Engineer,"2,000,000-5,000,000",3,Slightly involved
+73b0d676-3527-45c8-8534-ca08f6f24d1c,Primary,Secondary,Doctor,Engineer,"Above 5,000,000",5,Always busy
+4de1087b-afa1-4a55-8ebe-abaa28597b34,Primary,None,Unemployed,Trader,"1,000,000-2,000,000",4,Slightly involved
+25f88c74-53ea-4919-9b48-62c2d5ff2a1f,Primary,Secondary,Farmer,Unemployed,"Below 1,000,000",5,Always busy
+4c80d33a-ad5b-43c8-8c88-0714837217e0,Secondary,Secondary,Engineer,Engineer,"2,000,000-5,000,000",6,Slightly involved
+8e52fc42-73c3-44a6-9ac7-26b667863fb3,Tertiary,None,Civil Servant,Civil Servant,"Below 1,000,000",2,Slightly involved
+1f178f93-23c9-4a1e-8b37-1d97cdcc2d6a,Primary,Primary,Nurse,Doctor,"Below 1,000,000",2,Involved
+668c879b-d2dc-42c8-b2b8-d8aa21768dd7,Secondary,None,Doctor,Trader,"Below 1,000,000",3,Always busy
+eadc9960-4242-41e2-960b-e0f495132c22,Secondary,Secondary,Trader,Teacher,"2,000,000-5,000,000",3,Slightly involved
+cf2e3296-7184-4713-a55f-65b7e709fba6,Secondary,Secondary,Doctor,Trader,"1,000,000-2,000,000",4,Slightly involved
+f1394e3c-0aee-4557-9f5d-f91254e07431,Tertiary,Tertiary,Unemployed,Trader,"1,000,000-2,000,000",2,Involved
+7f0223bc-651e-4252-b974-4cded259f960,None,None,Nurse,Doctor,"Below 1,000,000",6,Involved
+46653497-2fe9-42aa-a886-a01136f7a26c,Secondary,Tertiary,Trader,Farmer,"2,000,000-5,000,000",4,Slightly involved
+a5b40983-3eeb-404a-9df2-372e9e825aae,None,Primary,Farmer,Farmer,"2,000,000-5,000,000",4,Slightly involved
+620d4a1f-479f-4628-9674-eb650f9c5300,Secondary,Secondary,Doctor,Engineer,"Below 1,000,000",2,Very Involved
+fe7c80e9-a179-4e93-bfc8-25ac869bc00f,Primary,Primary,Civil Servant,Trader,"Below 1,000,000",2,Very Involved
+7acc9970-5bee-4570-b69f-75c5c82ba1be,Secondary,Secondary,Engineer,Doctor,"1,000,000-2,000,000",5,Very Involved
+453b45fe-636c-4499-9254-aad3809cd839,None,Tertiary,Doctor,Unemployed,"Above 5,000,000",6,Slightly involved
+47eb340d-c74e-48ff-8f89-569de550d736,Secondary,Tertiary,Civil Servant,Nurse,"Above 5,000,000",5,Slightly involved
+3b964c74-ffe6-4994-9580-4c2ac44fc4b8,None,Secondary,Doctor,Trader,"2,000,000-5,000,000",2,Very Involved
+ca8e858c-d0f8-4063-889f-e107443b1d0f,None,Tertiary,Unemployed,Farmer,"Below 1,000,000",4,Slightly involved
+fb8fe8c4-d8b4-4ead-9360-8edf382b5b86,None,Tertiary,Civil Servant,Teacher,"1,000,000-2,000,000",6,Always busy
+3c8e9d78-2d14-49f4-ac78-644fd86065a2,Primary,None,Teacher,Civil Servant,"Above 5,000,000",5,Slightly involved
+b4157cea-0738-4ba4-9770-a3dbe9fa97e2,None,None,Civil Servant,Engineer,"Above 5,000,000",6,Involved
+d631c383-3030-44d0-b2c8-47439027e770,Tertiary,Tertiary,Civil Servant,Unemployed,"2,000,000-5,000,000",5,Involved
+0e61065f-171b-4b80-89b7-fdf77d8d3ddd,None,Tertiary,Unemployed,Nurse,"Below 1,000,000",6,Very Involved
+9d37efb6-eafb-4e90-94ec-84ce002ccb25,Tertiary,Tertiary,Farmer,Civil Servant,"Below 1,000,000",2,Always busy
+de4379cb-d823-4076-8d6b-b03beb3537a0,Tertiary,Tertiary,Nurse,Nurse,"Below 1,000,000",3,Involved
+1c654aa2-c63c-421d-a443-5958eacf33a9,None,Secondary,Civil Servant,Trader,"Below 1,000,000",4,Slightly involved
+a981fa54-f121-4129-b45c-9a545fa3a531,Primary,Primary,Doctor,Doctor,"1,000,000-2,000,000",2,Very Involved
+bb7b6c05-2852-4ca2-b9d2-014a22ee7f07,Primary,Primary,Farmer,Civil Servant,"Below 1,000,000",4,Involved
+b509f08a-2c98-4bca-9139-7c06a630ad9d,Primary,None,Unemployed,Doctor,"2,000,000-5,000,000",4,Very Involved
+aa604892-3926-42e9-9b58-eb49c9784b52,Secondary,Tertiary,Doctor,Trader,"1,000,000-2,000,000",2,Always busy
+2d7e4a45-2099-471f-8b65-7bccb0416f19,Secondary,None,Unemployed,Nurse,"2,000,000-5,000,000",2,Involved
+c55523ed-fe89-46c8-99cb-3540643ffdae,Tertiary,Primary,Civil Servant,Farmer,"Above 5,000,000",2,Involved
+9c8379ae-f7b0-4805-8f0d-f860ebc92914,Primary,Primary,Nurse,Trader,"Below 1,000,000",2,Slightly involved
+13eb22c9-bece-421a-94c7-743b2401342a,Primary,Tertiary,Trader,Engineer,"Below 1,000,000",6,Involved
+d2586d90-16b6-4f61-b68c-62e6e2a45909,Secondary,Secondary,Nurse,Nurse,"Above 5,000,000",2,Involved
+35adde88-43e4-4668-82ea-d2df725656e3,None,Tertiary,Teacher,Doctor,"Below 1,000,000",2,Involved
+0c53644b-0053-4649-b86d-066b1ba827c6,Secondary,Secondary,Teacher,Doctor,"Above 5,000,000",3,Always busy
+e1bbb8cd-7e3a-4f07-a9fd-28e6e271fff9,Secondary,None,Farmer,Farmer,"Above 5,000,000",3,Slightly involved
+93fb71d0-dd32-4d9c-89ea-356a7abfcebf,None,Tertiary,Civil Servant,Farmer,"Above 5,000,000",2,Very Involved
+088dbd82-d883-43f8-8c98-03de12de9e5a,Tertiary,Secondary,Civil Servant,Engineer,"1,000,000-2,000,000",5,Involved
+e34f76b4-2b8c-43bf-9780-be1712fecc2b,Tertiary,Tertiary,Nurse,Engineer,"1,000,000-2,000,000",6,Always busy
+5683ede0-17d5-4563-ba60-ede1e5eb772d,Tertiary,Primary,Trader,Civil Servant,"2,000,000-5,000,000",2,Slightly involved
+a754a29f-f143-4545-ae6b-34b907ef2ba8,None,Primary,Trader,Trader,"Below 1,000,000",2,Involved
+f9722cc1-349e-44a9-94c2-9d5c19ec0829,None,Secondary,Civil Servant,Trader,"Above 5,000,000",4,Very Involved
+a91cf192-43e8-444b-8a45-a905badf9397,Secondary,Tertiary,Teacher,Teacher,"1,000,000-2,000,000",5,Involved
+7daec949-d700-4461-8cb6-b0ba925f8199,None,Secondary,Trader,Nurse,"Above 5,000,000",3,Always busy
+a005f5e1-a97a-4846-92ea-ef184b6797a1,Tertiary,Secondary,Doctor,Unemployed,"1,000,000-2,000,000",4,Involved
+fa207403-4ab4-47e3-a360-76812bbba89d,Primary,Primary,Unemployed,Doctor,"1,000,000-2,000,000",3,Very Involved
+e516b0d4-7d35-42cc-b88f-d0cd65c06b93,None,Primary,Civil Servant,Teacher,"2,000,000-5,000,000",4,Involved
+61a66444-e2af-4629-9efb-336e2f546033,Secondary,None,Farmer,Teacher,"2,000,000-5,000,000",3,Involved
+d64acb1f-39eb-438a-836e-3c49770e09db,Secondary,Secondary,Nurse,Doctor,"1,000,000-2,000,000",2,Slightly involved
+ab0b4cc5-15f0-4a19-98c1-80d2aadf3692,Tertiary,Tertiary,Unemployed,Teacher,"Above 5,000,000",6,Very Involved
+0f9ca17b-8db8-4adf-ba3e-46b096f84ff7,Primary,Primary,Civil Servant,Engineer,"Below 1,000,000",5,Involved
+efb56207-ddec-440b-afe3-af13891778e8,Primary,Secondary,Civil Servant,Teacher,"2,000,000-5,000,000",2,Involved
+da9bccc1-e71c-481a-a511-e61a143665f5,Secondary,Tertiary,Farmer,Teacher,"Above 5,000,000",6,Very Involved
+fb95d0fc-ad72-4d05-924c-de09ccea5031,Secondary,None,Trader,Farmer,"1,000,000-2,000,000",6,Involved
+2acb4fbd-fbff-4a7d-b2f5-b1762c41cbd3,None,Primary,Doctor,Trader,"Above 5,000,000",4,Always busy
+aee14f87-fcff-49e3-940f-f5896c624c2c,None,Primary,Unemployed,Civil Servant,"2,000,000-5,000,000",5,Always busy
+51db1a37-4204-4733-9855-0b1ed5881c1c,Secondary,Tertiary,Trader,Engineer,"2,000,000-5,000,000",3,Always busy
+8d536c75-65b9-4e94-8e6d-e263635a775d,Tertiary,None,Teacher,Engineer,"1,000,000-2,000,000",4,Involved
+b34e356a-c95b-41f8-832a-461adf9b7c1f,None,Primary,Unemployed,Nurse,"2,000,000-5,000,000",2,Very Involved
+910c4cb7-25f0-4b0a-a64e-f59d6a18e5af,Primary,Primary,Engineer,Nurse,"Above 5,000,000",5,Always busy
+c7903dc5-900c-4af7-9b0a-e22eecc817a6,Secondary,Tertiary,Trader,Nurse,"Above 5,000,000",2,Slightly involved
+439e754c-6930-46ea-a0bd-a1ee5807cf74,Tertiary,Primary,Trader,Civil Servant,"1,000,000-2,000,000",6,Always busy
+67294d3c-4681-4a88-ac15-4804099759a3,Primary,Tertiary,Farmer,Doctor,"Below 1,000,000",2,Slightly involved
+e1035e1c-e3bb-42ae-a552-ac5309eda6f5,None,Secondary,Teacher,Nurse,"Above 5,000,000",2,Involved
+5f584603-e5a3-48e9-84c1-f1b5ebbbd763,Tertiary,Tertiary,Farmer,Doctor,"1,000,000-2,000,000",3,Always busy
+dbb54645-7dda-41b6-97c4-caed47c4cc51,Tertiary,Tertiary,Trader,Farmer,"1,000,000-2,000,000",4,Involved
+be64ac2a-f966-41a5-8cec-495b226716e3,Secondary,Tertiary,Trader,Doctor,"1,000,000-2,000,000",3,Very Involved
+16db80db-a543-448e-9adf-e9816ab19e15,Tertiary,Primary,Nurse,Doctor,"Above 5,000,000",6,Always busy
+84396fc0-c26e-4706-bc05-9799bdae8eff,Primary,Secondary,Civil Servant,Nurse,"Above 5,000,000",2,Always busy
+b5a6571c-4fa5-435e-90cc-460428b26b1b,None,Secondary,Doctor,Trader,"1,000,000-2,000,000",3,Involved
+2c7a0d31-0769-4583-9194-821ee11bf0d4,Primary,None,Teacher,Engineer,"1,000,000-2,000,000",2,Slightly involved
+0cf173f9-74d9-41f5-8877-58043fde9814,Tertiary,Primary,Engineer,Civil Servant,"1,000,000-2,000,000",2,Involved
+659e0258-814f-4657-b6d7-0561d2d14ef5,Primary,Primary,Unemployed,Civil Servant,"1,000,000-2,000,000",4,Slightly involved
+7233d5af-9813-4da1-bd21-20ad5f59fb4d,Primary,Primary,Nurse,Doctor,"2,000,000-5,000,000",6,Very Involved
+d6707a21-29dc-473e-9820-b3f25989dd6c,Secondary,None,Civil Servant,Teacher,"2,000,000-5,000,000",3,Slightly involved
+0cb5ee5c-62f5-47c2-8706-fec248fa4e98,None,None,Trader,Civil Servant,"Above 5,000,000",5,Involved
+39a0f145-a5ba-4050-b8aa-76dfdb6ba39b,Primary,Tertiary,Doctor,Teacher,"Above 5,000,000",4,Always busy
+f796611f-c7c1-4b1b-9d58-631b052226b9,Tertiary,Tertiary,Teacher,Trader,"Above 5,000,000",4,Involved
+cd0579e2-99e4-404c-ac56-e0cda5ba2472,Primary,Tertiary,Teacher,Trader,"2,000,000-5,000,000",5,Always busy
+b599277f-f78e-49e8-b676-291d4e329b4b,Tertiary,Secondary,Unemployed,Farmer,"Below 1,000,000",4,Very Involved
+37dc8c78-4082-4cda-b580-e4e959450186,Primary,Primary,Teacher,Trader,"2,000,000-5,000,000",2,Slightly involved
+01e187d8-1a31-4044-95a0-f35665abc9ff,Primary,Tertiary,Teacher,Trader,"1,000,000-2,000,000",5,Very Involved
+98017a2f-a5b8-4693-8fbb-a7495fcd859e,Tertiary,Tertiary,Doctor,Nurse,"Above 5,000,000",4,Slightly involved
+46c79b36-fd05-4963-9616-af7e1057a002,Secondary,Secondary,Engineer,Doctor,"1,000,000-2,000,000",3,Very Involved
+a6c681b0-e472-4be5-b3c2-944ab60a3dcc,None,Secondary,Nurse,Unemployed,"2,000,000-5,000,000",3,Slightly involved
+db7904e0-ce30-461d-8e88-c8ece651e3e1,Tertiary,Secondary,Engineer,Nurse,"2,000,000-5,000,000",3,Very Involved
+06843c86-b8a6-4402-a3d2-6b8dae46024d,None,Primary,Farmer,Doctor,"Above 5,000,000",5,Involved
+bc9a7998-6365-4c2a-a793-cb096b271eff,None,Primary,Farmer,Engineer,"Above 5,000,000",3,Involved
+b69f5eab-b9ff-4c29-97d9-cbb0309e47ba,Secondary,Tertiary,Trader,Civil Servant,"Above 5,000,000",6,Slightly involved
+5bc677ca-abff-4286-b0cf-9d73e8121ef0,Tertiary,Primary,Farmer,Doctor,"Below 1,000,000",2,Slightly involved
+4b356e9a-2e5e-4b6a-8ee9-581ae061f65f,Primary,None,Civil Servant,Teacher,"1,000,000-2,000,000",5,Always busy
+e9a1c6d5-c34e-4baf-8f1c-b2ccceef9fa8,Secondary,Tertiary,Doctor,Engineer,"2,000,000-5,000,000",4,Very Involved
+392c04da-5af3-4a5a-b8e5-9b2716dc5a6e,Tertiary,Tertiary,Nurse,Doctor,"Below 1,000,000",2,Very Involved
+95e7f614-42b4-4281-9f26-946654d1332a,Secondary,None,Teacher,Civil Servant,"Below 1,000,000",5,Always busy
+948f664a-9565-457b-a267-d32fddcbf4bc,Secondary,Primary,Teacher,Trader,"Below 1,000,000",2,Very Involved
+ae423568-de14-453b-9eac-41d9801f4909,Tertiary,Tertiary,Nurse,Engineer,"2,000,000-5,000,000",3,Involved
+fe0a824e-232a-4e82-a699-6aabdaaf7529,None,Secondary,Trader,Engineer,"Below 1,000,000",5,Very Involved
+24aa5685-7523-46ce-bc95-0bbae8184f34,None,None,Civil Servant,Teacher,"1,000,000-2,000,000",5,Slightly involved
+fc9476b1-a18b-4d15-9527-34077cd2192f,Tertiary,Tertiary,Teacher,Nurse,"Above 5,000,000",3,Slightly involved
+c606ddc4-c2dd-401d-b59a-15334605ec0e,Secondary,Primary,Farmer,Civil Servant,"Below 1,000,000",5,Very Involved
+2120bfba-1689-40b8-879d-db62c37944c1,None,Secondary,Teacher,Engineer,"Below 1,000,000",6,Always busy
+0131ff3b-6221-4670-ba36-e788f71fb9a6,Secondary,Primary,Engineer,Teacher,"1,000,000-2,000,000",2,Very Involved
+c1c0c5e3-527c-4f50-a45a-87e8039a8ed5,Tertiary,Tertiary,Nurse,Nurse,"2,000,000-5,000,000",5,Involved
+39ec8ca1-3fb2-4f47-bbcd-6c18a06e8de5,Tertiary,Primary,Trader,Unemployed,"2,000,000-5,000,000",4,Very Involved
+4e5d8f12-96b3-4f4a-80da-a8ca62305d27,Secondary,Tertiary,Farmer,Engineer,"2,000,000-5,000,000",4,Involved
+85319f0f-ba53-4122-b4b7-96204a73b0bf,None,Tertiary,Doctor,Unemployed,"1,000,000-2,000,000",2,Always busy
+ff02f5b0-57bd-46c9-a240-063bfed747be,Tertiary,Primary,Farmer,Trader,"1,000,000-2,000,000",3,Involved
+cfdfc6f9-eb0f-427c-a82a-3879f2b5a7ea,Tertiary,Tertiary,Doctor,Doctor,"Above 5,000,000",3,Very Involved
+059c1ba0-bbec-421d-b610-901c2196b3b5,Primary,Primary,Trader,Civil Servant,"1,000,000-2,000,000",6,Involved
+600c9c71-0990-4647-8ac8-d87ea689d07f,None,Tertiary,Civil Servant,Engineer,"2,000,000-5,000,000",4,Involved
+0c472187-fea3-4d37-980b-68530c7031eb,Secondary,None,Farmer,Civil Servant,"2,000,000-5,000,000",2,Slightly involved
+71be94c3-6ab1-4db6-9da4-66feb0937085,Secondary,Secondary,Unemployed,Nurse,"Below 1,000,000",4,Always busy
+af8ca888-b1f8-4ad9-b49b-508927335670,None,Primary,Doctor,Engineer,"2,000,000-5,000,000",5,Always busy
+9f6facc1-451d-48fe-8532-fc74a9987bdf,Tertiary,Tertiary,Engineer,Civil Servant,"2,000,000-5,000,000",6,Very Involved
+9e21741f-b801-4026-82f7-38611adba8cf,None,None,Teacher,Unemployed,"1,000,000-2,000,000",3,Always busy
+c72850c1-3322-468b-9be7-8aec32da81f0,Primary,Tertiary,Engineer,Nurse,"2,000,000-5,000,000",5,Always busy
+290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,Secondary,Tertiary,Trader,Nurse,"1,000,000-2,000,000",6,Always busy
+3c088990-54a2-4051-bb0c-cad9eee13cae,Primary,Secondary,Engineer,Trader,"2,000,000-5,000,000",2,Very Involved
+7e7d9a19-ab45-4578-92fb-acf6d5d1c669,Secondary,Tertiary,Unemployed,Farmer,"Above 5,000,000",5,Slightly involved
+e79f9f3d-19ee-4c3b-b93c-4b0bb93b770c,Primary,Tertiary,Trader,Civil Servant,"1,000,000-2,000,000",6,Very Involved
+0cd20e43-76da-4194-839d-b29d4bc81c16,Primary,Primary,Unemployed,Trader,"2,000,000-5,000,000",5,Always busy
+ad409244-cd35-46ef-9c37-07394a629c5e,Secondary,Secondary,Doctor,Civil Servant,"Below 1,000,000",6,Very Involved
+0279e2ab-0bbf-4334-a3ea-2d7fc219a845,None,Secondary,Nurse,Nurse,"Below 1,000,000",2,Slightly involved
+f480b91e-700e-4efc-a4ff-c31a5b86ea69,None,None,Unemployed,Nurse,"1,000,000-2,000,000",4,Always busy
+1d24181c-2ed0-47d4-97bc-ad3ad0a17fe8,None,Secondary,Teacher,Engineer,"Below 1,000,000",6,Very Involved
+7a6e43d0-d9c5-4cd9-b09d-721b62be4009,Tertiary,Secondary,Unemployed,Engineer,"Below 1,000,000",4,Always busy
+b9f6143b-b238-4056-a1ec-47541cf14654,Tertiary,Tertiary,Teacher,Engineer,"Above 5,000,000",6,Slightly involved
+7b90942f-973b-4977-a946-28206a80cac2,Secondary,None,Engineer,Teacher,"Above 5,000,000",5,Always busy
+9c81fc46-5bcd-436c-8777-4fae613758c3,Primary,Tertiary,Trader,Nurse,"Below 1,000,000",3,Slightly involved
+7bab1baa-2172-40aa-a44a-913af933a9fa,Secondary,Tertiary,Teacher,Unemployed,"Above 5,000,000",6,Always busy
+a7ac590c-42f9-4f92-9036-ca810bc4d7ba,Tertiary,Tertiary,Engineer,Engineer,"Above 5,000,000",3,Involved
+b9493906-939f-44eb-be5e-215ec47cc30b,Secondary,Tertiary,Trader,Farmer,"Below 1,000,000",4,Very Involved
+b0309aaf-85ea-46e0-84e3-b774569adef0,None,Primary,Engineer,Engineer,"Above 5,000,000",3,Always busy
+a9e8f0d8-5883-49de-bb5f-be413fa2bde0,Secondary,Tertiary,Farmer,Unemployed,"1,000,000-2,000,000",6,Always busy
+9ce7eed1-fcdf-4961-a45e-2ad08eefa5dd,Primary,Secondary,Nurse,Unemployed,"Above 5,000,000",4,Slightly involved
+7eef09ab-da14-4a47-b823-51d9d94df188,Primary,Secondary,Civil Servant,Engineer,"Below 1,000,000",2,Very Involved
+47354e4f-f85b-4d0a-94b5-86353dab1614,Primary,Primary,Doctor,Teacher,"1,000,000-2,000,000",4,Always busy
+142e3df0-3c28-45dc-912d-aea8673d2920,Secondary,Primary,Unemployed,Teacher,"1,000,000-2,000,000",3,Involved
+50e96888-7273-4e7b-bf9a-d277db496e6d,Secondary,Primary,Nurse,Farmer,"Above 5,000,000",2,Very Involved
+092c4801-698f-44f8-a747-d24a1a46d536,Tertiary,Tertiary,Civil Servant,Teacher,"1,000,000-2,000,000",4,Very Involved
+a335b2c8-9e7b-4e95-b692-641a9aad10ce,Secondary,None,Trader,Civil Servant,"Below 1,000,000",5,Involved
+57423882-f34a-4949-b4ca-0ad7abe5be96,Tertiary,Tertiary,Doctor,Teacher,"Above 5,000,000",6,Involved
+c47566bf-8f66-4bbd-94fc-286f74577d47,Tertiary,Primary,Civil Servant,Nurse,"2,000,000-5,000,000",2,Slightly involved
+18f1a1e4-1d30-4290-b3d9-2aceb7461b72,None,None,Farmer,Civil Servant,"1,000,000-2,000,000",6,Involved
+ccc7147f-f6e5-403c-a237-9e6fd4734534,Tertiary,Primary,Engineer,Teacher,"Below 1,000,000",3,Involved
+7e0f60b2-2a06-4609-a599-bd3c0bb81d38,Primary,Secondary,Nurse,Nurse,"1,000,000-2,000,000",5,Involved
+3227e8d8-9c60-481b-8119-1aa71b61d453,Secondary,None,Engineer,Teacher,"2,000,000-5,000,000",6,Very Involved
+30c9c51f-c80b-4af7-9315-fafa7500f785,Primary,Primary,Farmer,Trader,"Above 5,000,000",5,Very Involved
+ac117bab-d664-4fe8-a21c-0c06ed376567,Primary,None,Trader,Civil Servant,"Above 5,000,000",2,Slightly involved
+811317a8-f4c8-4393-96dd-6c82a8909e31,None,Primary,Trader,Doctor,"1,000,000-2,000,000",2,Slightly involved
+6ecca931-ef70-4d01-8da0-3d880c6f3051,Primary,Tertiary,Trader,Teacher,"2,000,000-5,000,000",5,Very Involved
+b11af726-2d5d-4395-a901-a768ebd14b0c,None,None,Civil Servant,Teacher,"1,000,000-2,000,000",4,Always busy
+9b2d5a2a-99bd-4240-a853-5961632d0302,Tertiary,Primary,Unemployed,Trader,"Above 5,000,000",3,Very Involved
+b148b2a6-ea79-47e1-9be7-02abfac08fc4,None,Primary,Nurse,Farmer,"Below 1,000,000",5,Involved
+ce072a52-73ed-4223-8b4e-f503f8722413,None,None,Doctor,Nurse,"Below 1,000,000",5,Involved
+d7d3b9d9-4c85-4233-8325-bd9ebf98e734,Secondary,Tertiary,Doctor,Nurse,"Above 5,000,000",6,Always busy
+37a3c30a-a1f0-4a7a-8db7-8572ef7db821,None,Secondary,Teacher,Trader,"1,000,000-2,000,000",6,Very Involved
+21f6c63d-ac20-4f11-abd3-3927586528e6,Primary,Primary,Engineer,Engineer,"Below 1,000,000",4,Involved
+b5d9ad36-5287-464d-a30a-6658b1be6df2,None,Tertiary,Doctor,Unemployed,"Above 5,000,000",4,Involved
+b5caa993-aaca-4101-b153-0f689215583a,Tertiary,None,Farmer,Doctor,"1,000,000-2,000,000",5,Slightly involved
+6c21835d-d8e8-497c-a0a2-59014932936e,None,Tertiary,Trader,Unemployed,"Below 1,000,000",2,Very Involved
+0e7da698-ab95-472f-8d95-aaf5253421bc,None,Secondary,Farmer,Nurse,"2,000,000-5,000,000",6,Slightly involved
+257c54bc-4024-4424-aef2-ab2f495fa2fc,Tertiary,Primary,Trader,Doctor,"Above 5,000,000",3,Always busy
+5bd29cb1-0845-4b2f-8a8a-4105c0eb8875,None,Secondary,Engineer,Doctor,"1,000,000-2,000,000",4,Always busy
+396c357b-dd66-4071-8fd7-b1a1bd4f6118,None,Secondary,Teacher,Nurse,"Above 5,000,000",2,Involved
+b2357a3c-cc7f-4517-8bfd-4a31c8c85ad6,None,Primary,Farmer,Civil Servant,"Below 1,000,000",5,Slightly involved
+c9c1ad45-f4ea-4b97-aaa4-15b56336c815,Secondary,Secondary,Doctor,Unemployed,"2,000,000-5,000,000",4,Always busy
+33fd862d-4057-4470-be61-27a80351b09d,Primary,Tertiary,Nurse,Farmer,"Above 5,000,000",5,Slightly involved
+a23ff67d-e957-4bc2-b9bd-8bd6d479cc36,Secondary,Secondary,Unemployed,Doctor,"Below 1,000,000",5,Slightly involved
+324bcc3d-9a77-41a2-bd0b-0fa28beef83f,Primary,Primary,Doctor,Farmer,"Below 1,000,000",5,Involved
+13106665-aec2-4b19-bbc3-98d82d6bc882,Secondary,Primary,Teacher,Nurse,"2,000,000-5,000,000",6,Involved
+4773e66a-6db2-4020-8a67-01436090103c,Primary,Tertiary,Trader,Farmer,"2,000,000-5,000,000",6,Slightly involved
+77617d80-549f-434c-8171-f5a74148bd11,Tertiary,Secondary,Teacher,Trader,"Below 1,000,000",4,Slightly involved
+c60ea4d5-0d04-4cb6-98cd-26555297e1ad,None,Secondary,Doctor,Nurse,"Below 1,000,000",3,Involved
+8cd74c27-929a-4586-8a37-6c367d94bf10,Tertiary,None,Teacher,Farmer,"Above 5,000,000",2,Slightly involved
+85467426-2f12-4b9e-b4fd-25b7384f6e3b,Primary,Secondary,Doctor,Unemployed,"1,000,000-2,000,000",4,Always busy
+597278c5-1789-4e63-a746-5743897b303d,Secondary,Secondary,Nurse,Doctor,"Above 5,000,000",3,Involved
+f3476736-37ec-47a6-8b27-b0795c5d3f1b,None,Primary,Trader,Unemployed,"2,000,000-5,000,000",6,Involved
+a6388854-fb2b-4b80-808b-d674d2dd3e26,Secondary,Primary,Engineer,Doctor,"1,000,000-2,000,000",5,Involved
+eb29d912-9d1b-43df-a46b-6fcee78d147c,Primary,Primary,Trader,Teacher,"1,000,000-2,000,000",5,Slightly involved
+cbd431cc-ea7a-4c21-a1a1-a29c5228ed8d,Primary,Tertiary,Nurse,Doctor,"Above 5,000,000",3,Very Involved
+84517303-e94d-4fbe-8653-1d4748677b30,Primary,None,Trader,Nurse,"1,000,000-2,000,000",5,Always busy
+4be318a8-0b39-4ccf-bc9f-3bc37210045a,Secondary,Secondary,Doctor,Civil Servant,"Below 1,000,000",4,Very Involved
+f8bca9ac-2ada-42ce-9890-99c9f2be029f,Primary,Tertiary,Teacher,Nurse,"2,000,000-5,000,000",3,Slightly involved
+a127dc6b-ab9b-453d-b5f5-c65410c2c2e5,None,Secondary,Farmer,Civil Servant,"Below 1,000,000",5,Always busy
+d428df6c-89aa-4293-b4a0-dcd41a9af29e,Tertiary,Tertiary,Farmer,Teacher,"1,000,000-2,000,000",5,Very Involved
+12767d13-f093-4776-9116-d014a5850828,Primary,None,Engineer,Farmer,"2,000,000-5,000,000",3,Very Involved
+12c0620c-1667-4518-89b2-eae654eb4c91,None,Tertiary,Civil Servant,Farmer,"2,000,000-5,000,000",5,Slightly involved
+e9366a85-3a46-4be3-9255-a4de9330ba83,None,None,Unemployed,Nurse,"Above 5,000,000",2,Involved
+63b664f4-0452-4779-90ff-de646edaba8c,Tertiary,Primary,Nurse,Engineer,"Above 5,000,000",2,Slightly involved
+bef6a59a-c186-4221-9030-56b79e4c24dd,Primary,Tertiary,Civil Servant,Teacher,"1,000,000-2,000,000",3,Always busy
+4a32bb22-1b2b-42ec-80b9-ec30ed94898b,Secondary,Primary,Farmer,Trader,"1,000,000-2,000,000",4,Always busy
+61a451ff-700b-4b43-ad3b-9d13c3e90323,Primary,Tertiary,Civil Servant,Teacher,"Above 5,000,000",3,Slightly involved
+bf2b43b4-22e9-4527-b849-1ecc889157fd,Secondary,None,Unemployed,Nurse,"2,000,000-5,000,000",5,Slightly involved
+4c4d6e40-24e2-426c-a250-d133f5cb5be4,Tertiary,Tertiary,Engineer,Doctor,"2,000,000-5,000,000",2,Involved
+f5179e72-5f85-4b21-a5df-6f85bab503fb,Secondary,Tertiary,Farmer,Teacher,"Below 1,000,000",2,Very Involved
+929daf9f-0149-42af-8ab1-a5041f8c56e0,Tertiary,Tertiary,Unemployed,Unemployed,"Below 1,000,000",4,Always busy
+bdce635f-bf90-4d6a-b5c6-06b54e003d55,Secondary,None,Doctor,Teacher,"1,000,000-2,000,000",5,Slightly involved
+2477f047-8336-4758-99f9-3502a55bc44f,Secondary,None,Farmer,Engineer,"2,000,000-5,000,000",4,Involved
+abc53545-2e6d-4a04-9d57-e73431bf5cf6,None,Primary,Farmer,Doctor,"Below 1,000,000",4,Very Involved
+8c8181b4-fe8b-4ccb-bd75-a5f3eeafca83,Primary,None,Doctor,Teacher,"Below 1,000,000",2,Very Involved
+3289f58b-1923-4afc-802d-105b113eaf84,Secondary,Primary,Civil Servant,Doctor,"2,000,000-5,000,000",2,Very Involved
+3c0a584e-a7cd-43cb-abda-06b220d2b528,Tertiary,Secondary,Farmer,Farmer,"1,000,000-2,000,000",4,Slightly involved
+540e7d01-735d-48f3-bc61-66df515a6b43,Primary,Secondary,Trader,Civil Servant,"2,000,000-5,000,000",3,Slightly involved
+cec56969-5d4f-4107-911d-dc7990c80420,Secondary,None,Doctor,Nurse,"1,000,000-2,000,000",2,Slightly involved
+b652ae99-38b5-489a-8921-057c3f05557c,Secondary,None,Doctor,Trader,"Below 1,000,000",2,Always busy
+54e14f3a-bba4-4ae0-adf8-f7672261ddef,Secondary,Secondary,Engineer,Engineer,"Above 5,000,000",3,Slightly involved
+1bdc74a9-8d3a-4d76-bcaa-281b4e336644,None,Tertiary,Engineer,Nurse,"1,000,000-2,000,000",2,Very Involved
+e42c0aea-23d7-463d-9391-d017dbd4a86d,None,Tertiary,Civil Servant,Trader,"2,000,000-5,000,000",2,Very Involved
+e4610160-134d-495a-ba38-8c8f139309d1,None,Secondary,Teacher,Engineer,"Below 1,000,000",4,Always busy
+c4ea4ece-67b6-4467-9432-d79794f6c67a,Primary,Tertiary,Nurse,Civil Servant,"Below 1,000,000",4,Involved
+8a284792-ffac-4645-a4dc-43068b20ce3e,Tertiary,Secondary,Nurse,Unemployed,"Above 5,000,000",4,Always busy
+96f01335-c5ab-48da-a435-4021392a9fc4,Secondary,Secondary,Trader,Trader,"Above 5,000,000",3,Always busy
+5d264b1b-6593-4659-972e-8c6882aa5c46,Primary,Secondary,Nurse,Engineer,"Below 1,000,000",4,Very Involved
+af2537f5-9d31-462a-bb5a-bb36ce7968b7,None,Secondary,Unemployed,Unemployed,"2,000,000-5,000,000",4,Always busy
+90d9170c-f2de-475c-90fc-c9f12ddc756b,Secondary,Secondary,Civil Servant,Doctor,"1,000,000-2,000,000",5,Involved
+0a58f43c-5bda-4655-b06d-ca247bc6e121,Primary,Secondary,Nurse,Engineer,"Below 1,000,000",5,Slightly involved
+ab286d09-0af5-4e60-bbe8-a5df5e934de0,Primary,Secondary,Nurse,Civil Servant,"Above 5,000,000",4,Involved
+e1ad640c-7463-435e-aafb-9f20783c91eb,Secondary,Primary,Unemployed,Farmer,"2,000,000-5,000,000",4,Involved
+a2317211-8578-41c6-b7eb-c69ab4280f0d,Primary,Primary,Trader,Trader,"Below 1,000,000",3,Slightly involved
+606cc2f5-2c81-4bf0-91f6-04068b5a8683,Secondary,Secondary,Unemployed,Civil Servant,"1,000,000-2,000,000",6,Involved
+4067f790-8444-4504-93ed-280ad5e14d1f,Primary,Secondary,Engineer,Farmer,"Below 1,000,000",6,Slightly involved
+585409d9-de22-4c3f-9136-6db15a578607,None,Primary,Doctor,Teacher,"1,000,000-2,000,000",3,Slightly involved
+3ae0acdb-2a65-44af-b09d-338b23936d45,Secondary,None,Civil Servant,Nurse,"Above 5,000,000",3,Always busy
+9a1e0036-5cba-4496-a848-92402fd90ce1,Primary,Primary,Civil Servant,Engineer,"Above 5,000,000",6,Slightly involved
+1d03c3d5-b862-4cc3-9489-9c37cfa9026b,Primary,None,Civil Servant,Nurse,"1,000,000-2,000,000",2,Always busy
+3e612d66-05bf-4618-a930-b0c4d5576899,Secondary,Primary,Nurse,Civil Servant,"2,000,000-5,000,000",3,Always busy
+e40b50e4-0a08-4989-833c-8f55a1298fa2,Secondary,None,Unemployed,Engineer,"1,000,000-2,000,000",4,Involved
+67cbfc39-f54f-4b92-8442-906f2e16f0b6,Primary,Secondary,Unemployed,Unemployed,"2,000,000-5,000,000",5,Involved
+d240ef02-a968-4fc1-ba5c-865db8344070,Tertiary,None,Engineer,Civil Servant,"Above 5,000,000",5,Very Involved
+7b4e9ecd-de07-47b1-b8ae-8d5dfe268e77,Tertiary,Tertiary,Trader,Engineer,"Below 1,000,000",6,Involved
+c47a3b7e-d209-483b-9528-4c0acb6bf562,Primary,Primary,Teacher,Unemployed,"Above 5,000,000",3,Very Involved
+ec1f41ce-57b9-4dfb-af82-e70cb9644e4f,Secondary,None,Farmer,Farmer,"Below 1,000,000",5,Involved
+043d72db-1bcb-404c-a1d8-b96a62ada157,Primary,None,Civil Servant,Civil Servant,"2,000,000-5,000,000",2,Very Involved
+9b02c535-2649-4478-9396-6f0a6b77af9e,Primary,Tertiary,Unemployed,Teacher,"Above 5,000,000",5,Always busy
+880bcb0e-c8ab-46ac-a0b4-659a09fe4cdd,None,Primary,Doctor,Nurse,"Below 1,000,000",5,Involved
+8a0ea57a-9a7d-409d-a6e8-790b215d3b1f,None,Secondary,Unemployed,Doctor,"1,000,000-2,000,000",2,Slightly involved
+6bb1f2bc-85a4-40cb-ae76-936aa6340d1a,Secondary,None,Nurse,Farmer,"1,000,000-2,000,000",4,Always busy
+7b6c7129-cd63-4ba8-b03c-664b3abf9c65,None,Secondary,Farmer,Doctor,"2,000,000-5,000,000",5,Involved
+d6521e08-c2f4-4c10-a869-707cbdcbfffc,Secondary,Secondary,Nurse,Trader,"Below 1,000,000",3,Very Involved
+e8fb5a96-3b85-46e1-840f-54057a25ed81,Secondary,Primary,Trader,Teacher,"1,000,000-2,000,000",4,Always busy
+01667221-3063-4e7f-81ff-81d1689d1205,None,Secondary,Unemployed,Farmer,"2,000,000-5,000,000",6,Very Involved
+6001f54d-01d7-4831-850f-1cdc1e2a03f1,Primary,Tertiary,Farmer,Doctor,"1,000,000-2,000,000",6,Always busy
+6d130705-279f-41ab-9b49-09b65cbdb682,None,None,Unemployed,Doctor,"Below 1,000,000",5,Always busy
+9ca4364d-5d9a-49f1-908e-3a956c6e8796,Tertiary,Primary,Teacher,Teacher,"Above 5,000,000",2,Involved
+8ebc6d7e-c8a6-4b85-8d56-bff669c9520f,None,Primary,Trader,Teacher,"1,000,000-2,000,000",2,Always busy
+c6319c16-5827-4c1d-93e0-f2354e80d10b,Primary,Tertiary,Farmer,Engineer,"Below 1,000,000",2,Very Involved
+3ad24ac8-bf70-4042-9e7c-6795a8c6c2df,Secondary,Tertiary,Unemployed,Engineer,"Above 5,000,000",6,Involved
+c93c9cc6-668b-48da-8222-cd7f36e6ba85,Primary,Primary,Engineer,Doctor,"Above 5,000,000",5,Always busy
+639c4c6c-2926-405d-8d53-551ab4f02f6f,Primary,None,Civil Servant,Teacher,"2,000,000-5,000,000",4,Slightly involved
+99a9af6a-ed05-4732-b8bf-46fa25343e85,Secondary,Primary,Nurse,Trader,"1,000,000-2,000,000",6,Very Involved
+b9787c4b-09aa-4570-9be9-50c7147d7bfc,Primary,None,Nurse,Farmer,"1,000,000-2,000,000",3,Involved
+f6a9e3e3-b62b-4cb1-8956-0c3685609e8a,None,Tertiary,Engineer,Civil Servant,"Above 5,000,000",2,Involved
+02bdeabe-7060-48eb-be8e-ed12a3ea21a2,Secondary,Tertiary,Farmer,Nurse,"2,000,000-5,000,000",2,Always busy
+c8b190e1-089a-4f4f-b1da-e8174937b90f,Secondary,Tertiary,Trader,Civil Servant,"2,000,000-5,000,000",4,Slightly involved
+5c17ebb5-093b-4d72-ac8c-dcaf2b633b18,Secondary,Primary,Teacher,Civil Servant,"1,000,000-2,000,000",5,Very Involved
+66414954-c798-4445-86a3-cc71ff2f6883,Primary,Tertiary,Teacher,Unemployed,"1,000,000-2,000,000",3,Always busy
+b4209103-bca7-46eb-83ef-0f77848ac924,None,Primary,Trader,Trader,"Above 5,000,000",4,Always busy
+953b0f1f-ea3e-472a-8f22-1604d46b7756,None,Primary,Nurse,Engineer,"2,000,000-5,000,000",3,Always busy
+746b161a-31cc-4738-b68a-e9b79b3aa1d1,Tertiary,Primary,Trader,Nurse,"Below 1,000,000",2,Involved
+8f026c2c-1b41-4999-8198-d1f56839f98f,Primary,Primary,Engineer,Doctor,"Below 1,000,000",2,Involved
+41f83199-f4ea-4769-8366-c189cd8d9f75,Tertiary,Primary,Unemployed,Teacher,"Below 1,000,000",5,Slightly involved
+60885550-f74f-4900-b159-4914b1b68ecd,Secondary,Tertiary,Engineer,Engineer,"Above 5,000,000",3,Always busy
+ae7cfd14-7577-4730-868d-a4b2f613bda0,None,None,Engineer,Unemployed,"Above 5,000,000",6,Involved
+61f6dfbe-114b-4c79-8200-79f51dc3c26e,Tertiary,None,Unemployed,Engineer,"2,000,000-5,000,000",3,Involved
+6994bf84-50d3-4a03-8cd7-608f3adcb38c,Tertiary,Primary,Unemployed,Doctor,"1,000,000-2,000,000",6,Very Involved
+498bcf67-3f8d-4f96-836a-e2bbd5098e07,Tertiary,Primary,Teacher,Nurse,"Below 1,000,000",6,Always busy
+2db13deb-ee6f-4bea-8df7-164713769ff9,Primary,Primary,Doctor,Civil Servant,"Below 1,000,000",2,Involved
+bf0418a9-f276-4513-aeca-f62944e22691,Secondary,Tertiary,Unemployed,Nurse,"2,000,000-5,000,000",3,Slightly involved
+3df76a69-bc45-444a-bc1f-dff0331d58bb,Tertiary,Primary,Trader,Civil Servant,"Above 5,000,000",6,Involved
+5b249c2a-9e5c-4dcd-961a-080a3fec0a37,Primary,None,Doctor,Trader,"Above 5,000,000",2,Slightly involved
+7e1f48c4-a9d6-490d-b4ad-fa22ad0205f5,Primary,Secondary,Civil Servant,Farmer,"1,000,000-2,000,000",4,Always busy
+5f06bc76-7b77-4e71-9917-38f80ad1c18c,Secondary,None,Farmer,Engineer,"1,000,000-2,000,000",4,Always busy
+4654e77d-de67-4278-9313-b3a7e5a1c6e4,Secondary,Primary,Trader,Doctor,"1,000,000-2,000,000",2,Involved
+20d4ba18-93a0-4478-800b-19de38db128d,Tertiary,Primary,Trader,Farmer,"1,000,000-2,000,000",2,Involved
+58e7edf8-80a2-4721-8856-06848a6fc4b3,None,None,Unemployed,Trader,"1,000,000-2,000,000",6,Involved
+84a91789-b2c0-47e8-9ed0-72e9f9fc6034,Tertiary,Secondary,Trader,Nurse,"Below 1,000,000",5,Always busy
+19ca9c1b-94bc-447a-a122-318935f3de4a,None,Secondary,Civil Servant,Trader,"2,000,000-5,000,000",6,Involved
+44f7f01a-3cb5-46d7-834a-130e8c6ea6ad,Primary,Tertiary,Nurse,Teacher,"Above 5,000,000",3,Involved
+6b49acc6-35e5-44e0-ac87-85467faf6458,Secondary,Secondary,Nurse,Farmer,"2,000,000-5,000,000",6,Always busy
+9247e851-2e0d-4860-b362-f9b74795cd1d,Secondary,None,Doctor,Engineer,"2,000,000-5,000,000",6,Involved
+cdd8af09-451b-4267-b887-5caf1991103f,None,None,Farmer,Doctor,"1,000,000-2,000,000",3,Very Involved
+bd1116ee-f58a-47c7-8ccf-4130255603d4,Tertiary,None,Civil Servant,Doctor,"1,000,000-2,000,000",5,Slightly involved
+e4ad5e9b-fedd-42d9-a26c-bc6a7fe5a4b6,Secondary,Tertiary,Unemployed,Engineer,"2,000,000-5,000,000",6,Involved
+403fd582-4ccf-4a4b-bc93-243ec90b9454,Primary,Primary,Doctor,Engineer,"2,000,000-5,000,000",2,Very Involved
+3728ddc2-0f5e-4b47-a9d0-c613b0c77002,Secondary,Tertiary,Farmer,Farmer,"Below 1,000,000",2,Slightly involved
+42803aa0-55ac-4d06-be9d-a9517329af6e,Tertiary,None,Teacher,Teacher,"Below 1,000,000",6,Slightly involved
+696929b2-0513-4da8-9819-93cc41f9994a,None,Secondary,Civil Servant,Farmer,"Below 1,000,000",6,Slightly involved
+a65d958e-936d-41a8-93ac-b00e32eeeb38,Secondary,None,Trader,Trader,"2,000,000-5,000,000",4,Always busy
+82ac7e1d-ac56-4da6-9339-1df45ae86d18,Secondary,Tertiary,Civil Servant,Trader,"Below 1,000,000",5,Very Involved
+f4e35f7b-a1b7-43d8-b6b8-74d349599bed,None,Tertiary,Engineer,Nurse,"2,000,000-5,000,000",3,Very Involved
+9cc05b67-a19b-424a-abfc-2a47565f1491,Secondary,Primary,Trader,Doctor,"1,000,000-2,000,000",5,Always busy
+50405c43-3a6c-4da6-97f7-d71f2978cc73,Secondary,Tertiary,Civil Servant,Farmer,"2,000,000-5,000,000",4,Very Involved
+e33fc52c-4570-43e4-a53c-8f74a5076897,Tertiary,None,Farmer,Doctor,"1,000,000-2,000,000",2,Very Involved
+73461e07-f72c-46c8-855c-0a9796405fcd,Tertiary,None,Civil Servant,Civil Servant,"2,000,000-5,000,000",5,Always busy
+406bf02d-a97a-4f4e-bc10-871bba4f4b03,Secondary,Tertiary,Trader,Trader,"Above 5,000,000",4,Always busy
+18763576-1a5e-4196-a5a4-c79b2abaa4f9,None,None,Nurse,Trader,"2,000,000-5,000,000",2,Very Involved
+8623bc74-65a2-4cc8-855b-e95d06bfd9c4,Primary,None,Civil Servant,Doctor,"Above 5,000,000",5,Involved
+ee7ca782-a7a3-4d25-9595-6c4227c00f89,Primary,Primary,Nurse,Trader,"Above 5,000,000",5,Always busy
+205c8491-a061-49db-b172-f63648bfb602,Primary,Tertiary,Teacher,Civil Servant,"Below 1,000,000",4,Slightly involved
+ea4f4a80-dc41-4176-9b59-f28ea9de5b26,Secondary,Tertiary,Unemployed,Farmer,"1,000,000-2,000,000",6,Slightly involved
+8c6d768e-45bc-43ba-af52-d36e8a63b93c,Primary,Secondary,Unemployed,Farmer,"Above 5,000,000",3,Very Involved
+74e0079a-98fb-4727-9740-b2122d5245f4,Tertiary,Primary,Nurse,Teacher,"2,000,000-5,000,000",2,Slightly involved
+88a613b4-a3b8-4f92-a3c9-0c6a86017633,Tertiary,Secondary,Engineer,Teacher,"Above 5,000,000",3,Involved
+4ed0730d-711d-41dd-96ed-0330ce015413,Primary,Primary,Farmer,Nurse,"2,000,000-5,000,000",2,Always busy
+c21f84fc-d0bc-4ad5-85f8-0d9b00060d5a,Secondary,Tertiary,Trader,Teacher,"2,000,000-5,000,000",3,Always busy
+7def3b8e-ec0d-4c3a-b011-b125022111e5,Secondary,None,Engineer,Civil Servant,"1,000,000-2,000,000",5,Always busy
+98d53cf5-4afc-49e8-8c47-6b726e310234,None,Secondary,Unemployed,Teacher,"Above 5,000,000",5,Involved
+6fe633f1-8f80-4d8b-a1d5-5f8569678586,Secondary,Secondary,Unemployed,Farmer,"1,000,000-2,000,000",2,Slightly involved
+3878becf-60dc-42eb-9413-c85063c4e76d,Primary,Primary,Engineer,Teacher,"2,000,000-5,000,000",4,Always busy
+9cfbbce7-e8f2-4584-8cca-1e14c3b8c80f,Tertiary,Primary,Civil Servant,Trader,"Above 5,000,000",3,Involved
+44d18524-cf0e-4567-882d-7fc1be3074f8,Primary,Primary,Engineer,Nurse,"Above 5,000,000",3,Involved
+74915c14-a30b-469c-9c40-50454a22eae9,Primary,Tertiary,Farmer,Trader,"Above 5,000,000",5,Slightly involved
+26f341c8-04f7-48c8-9215-b5033012f819,Tertiary,Tertiary,Farmer,Trader,"Below 1,000,000",4,Involved
+200291bb-44e9-48fb-8838-a8881a2e9864,Tertiary,Primary,Teacher,Nurse,"Below 1,000,000",2,Very Involved
+3799a376-7e5b-4ac9-83c5-01fe269334ef,Tertiary,Secondary,Unemployed,Engineer,"1,000,000-2,000,000",6,Slightly involved
+b26a51a5-76b4-4672-9f13-e10bff7a884d,None,None,Farmer,Trader,"2,000,000-5,000,000",2,Slightly involved
+4439940d-0e58-4770-a566-0316f39ef1be,None,None,Engineer,Doctor,"2,000,000-5,000,000",6,Slightly involved
+4005353d-d76f-4e65-a54c-87393133839e,Tertiary,None,Doctor,Nurse,"Above 5,000,000",5,Always busy
+62821d61-3fbb-4f57-b6f5-6f1cc4a531cd,Primary,None,Trader,Doctor,"1,000,000-2,000,000",3,Always busy
+bc3e1d19-75f9-4230-b2fd-73c508942176,Primary,Primary,Nurse,Farmer,"Above 5,000,000",6,Involved
+f6121d2c-ae73-40eb-a39d-8fe7790b185c,Secondary,None,Trader,Unemployed,"Above 5,000,000",6,Involved
+8cb1457e-effa-415b-bea6-450f0accb23c,Primary,Tertiary,Teacher,Doctor,"Above 5,000,000",3,Very Involved
+0d559b64-e334-4bac-9c44-ebd132df8d45,Primary,Tertiary,Engineer,Farmer,"2,000,000-5,000,000",2,Always busy
+03db7a2e-5313-40e0-af25-37cea206527c,Tertiary,Secondary,Farmer,Teacher,"2,000,000-5,000,000",6,Always busy
+f80590f0-0249-4a09-be3b-1a40ca0553a2,Tertiary,None,Trader,Engineer,"1,000,000-2,000,000",4,Very Involved
+c552f3c5-5f13-4b98-a7ad-8d5198a15e4f,Primary,Primary,Civil Servant,Unemployed,"Below 1,000,000",2,Always busy
+f83b1806-ee4c-4b18-96a2-d49d9e5f8273,Secondary,Tertiary,Civil Servant,Unemployed,"2,000,000-5,000,000",6,Slightly involved
+1b7e0502-ca9d-4831-894e-7397b38a3db1,None,None,Doctor,Unemployed,"1,000,000-2,000,000",5,Very Involved
+58e9d0aa-c1b6-4dd4-a507-84cbc9df301e,Primary,None,Civil Servant,Unemployed,"2,000,000-5,000,000",4,Slightly involved
+b972393a-5bb0-4d76-a0b5-7717b072afc8,Primary,Secondary,Doctor,Unemployed,"Above 5,000,000",4,Slightly involved
+8af09ec3-4b72-4a7c-8f1c-3fa070000009,Primary,Tertiary,Unemployed,Doctor,"Above 5,000,000",5,Involved
+77e8b762-bb7e-4979-92dc-bffd59008d65,Primary,Tertiary,Farmer,Teacher,"1,000,000-2,000,000",2,Slightly involved
+87f89f62-11a1-4557-a90c-44148df50b01,None,Primary,Farmer,Doctor,"Above 5,000,000",5,Slightly involved
+c6a28e4e-002f-4ca4-b43e-85315dfb1922,Secondary,Primary,Nurse,Teacher,"Below 1,000,000",6,Slightly involved
+5d340833-db59-4a19-9ea6-ed4a04cad30a,Secondary,None,Engineer,Civil Servant,"Above 5,000,000",5,Always busy
+d1ad3e51-89f9-4de9-b798-0131a885a7b4,Primary,None,Doctor,Teacher,"2,000,000-5,000,000",4,Always busy
+487b25d7-9cf0-43dd-a775-29a28d2cfe83,None,None,Nurse,Farmer,"2,000,000-5,000,000",5,Always busy
+0b34fc84-1111-4e29-a8ad-153985f0786a,Secondary,Primary,Civil Servant,Nurse,"Above 5,000,000",2,Slightly involved
+310dc9d1-7c41-4a2a-9b67-f7bb33bb7382,Tertiary,None,Teacher,Unemployed,"1,000,000-2,000,000",2,Slightly involved
+9fbc879e-869c-4a8e-bd6a-b7c2a86d8706,Primary,Primary,Nurse,Trader,"2,000,000-5,000,000",5,Involved
+03599c6d-1224-4bd2-b7c4-b3ee9b1fc6d1,Secondary,None,Doctor,Civil Servant,"Above 5,000,000",2,Very Involved
+77d2b94f-1478-4c9d-9503-0b43e3c7ca9a,Tertiary,Tertiary,Trader,Farmer,"2,000,000-5,000,000",3,Always busy
+d2705470-6a7b-48b1-a3f3-42a8f030bfd4,Secondary,Secondary,Doctor,Doctor,"2,000,000-5,000,000",5,Always busy
+bbfb1b71-0a68-4eb8-876d-e8c5440c7e5b,None,Secondary,Teacher,Civil Servant,"Below 1,000,000",5,Always busy
+19e9e3a4-18dc-4eb6-84fc-fcb0f5e90352,None,None,Unemployed,Civil Servant,"1,000,000-2,000,000",3,Very Involved
+91ed554a-3fae-4f01-a829-0f3c86b4852c,Secondary,Primary,Farmer,Trader,"Above 5,000,000",6,Involved
+c42b266b-1b02-4a24-bf00-f56c6a4989a6,Primary,Secondary,Teacher,Trader,"1,000,000-2,000,000",3,Slightly involved
+1aa67474-e200-4157-ad54-c95aaa4d52a8,None,Primary,Civil Servant,Nurse,"1,000,000-2,000,000",5,Very Involved
+88adb388-287e-4086-a854-027e56673e49,Secondary,Tertiary,Doctor,Trader,"1,000,000-2,000,000",3,Very Involved
+698f546d-5f29-4290-9848-5a54531c8812,Secondary,Primary,Teacher,Nurse,"Above 5,000,000",4,Involved
+8bae295e-902a-405c-bd9f-fe599bc0fa93,Secondary,Secondary,Trader,Teacher,"Above 5,000,000",2,Very Involved
+73d0b6c7-f62e-4f88-9c29-850b410bfc29,None,None,Nurse,Engineer,"Above 5,000,000",4,Very Involved
+042c65ad-9883-49b1-88d3-d2cefba3091f,Primary,Primary,Farmer,Nurse,"1,000,000-2,000,000",2,Involved
+36fea0b4-38cd-4122-bc01-45e14ce2afa2,None,Tertiary,Engineer,Engineer,"Above 5,000,000",2,Very Involved
+eb4aede6-46a5-4064-9284-b528b0916fb7,Tertiary,Tertiary,Trader,Engineer,"Above 5,000,000",6,Slightly involved
+75dacbbe-09a9-461a-9823-3383279b637c,Tertiary,Secondary,Civil Servant,Farmer,"2,000,000-5,000,000",5,Very Involved
+4199322e-3ba5-4126-bff6-9f4195082801,None,Secondary,Teacher,Unemployed,"1,000,000-2,000,000",2,Slightly involved
+13c37b5d-bbf8-4a91-b7a9-f824eafa4d5b,Primary,Secondary,Doctor,Nurse,"2,000,000-5,000,000",3,Very Involved
+b3edd6ed-b089-4de4-a626-7164d3616b3a,None,None,Engineer,Civil Servant,"1,000,000-2,000,000",3,Very Involved
+ceef7261-bb15-42ea-8991-2f464ce6928b,None,None,Civil Servant,Nurse,"Below 1,000,000",3,Involved
+e13a14ca-5911-442e-959a-8f54c559cd0f,None,Primary,Unemployed,Farmer,"Above 5,000,000",6,Involved
+bf67de42-3a0a-4b59-8538-4872deaa543e,None,None,Doctor,Farmer,"1,000,000-2,000,000",3,Very Involved
+0ddb545b-61ea-4a65-a1d7-70eac704e80e,Primary,Tertiary,Trader,Farmer,"Above 5,000,000",3,Very Involved
+b2a0f778-809d-4444-93ab-3cce264ae04f,Secondary,Secondary,Doctor,Doctor,"2,000,000-5,000,000",5,Always busy
+c0ba22a4-7213-47cc-b896-17fa6493f5ef,Primary,Primary,Unemployed,Farmer,"Below 1,000,000",3,Always busy
+25e42403-64f2-402e-894f-6ed34a2f3876,Primary,Primary,Civil Servant,Nurse,"2,000,000-5,000,000",6,Very Involved
+4336ffe5-6631-46a7-8c53-b74c0c9fa6e6,Tertiary,Secondary,Civil Servant,Farmer,"2,000,000-5,000,000",5,Always busy
+7b1dbca3-2286-43f8-8314-96ea2160446e,None,None,Unemployed,Trader,"1,000,000-2,000,000",4,Involved
+ff408dcc-9db1-47f9-8fa8-ae3432339053,Primary,Tertiary,Trader,Civil Servant,"Below 1,000,000",3,Very Involved
+af4afcdd-52cb-4ae0-ae18-c9b3c6da85f1,None,Primary,Unemployed,Teacher,"2,000,000-5,000,000",3,Very Involved
+30c3ef8a-592a-443d-9d82-2e3a6c6d282b,Secondary,None,Nurse,Engineer,"Below 1,000,000",2,Very Involved
+5987038a-fcd6-418e-ab54-500d4e089bb4,Primary,Tertiary,Trader,Civil Servant,"Below 1,000,000",3,Always busy
+ec993c80-0b7d-4856-b0c2-360025545c1a,Tertiary,Secondary,Unemployed,Nurse,"2,000,000-5,000,000",3,Involved
+15f7ef61-da4e-404c-ba7e-1b86c1fad753,Primary,Primary,Unemployed,Nurse,"2,000,000-5,000,000",5,Always busy
+d51b1974-de66-4dd0-a5ce-2a21ed3e2846,None,Primary,Teacher,Doctor,"2,000,000-5,000,000",5,Slightly involved
+789fed96-7337-4c2f-8e1c-37621c7cb6ed,None,Secondary,Engineer,Unemployed,"1,000,000-2,000,000",3,Always busy
+c017466e-85f4-40a2-8be2-7516342c5348,Primary,None,Teacher,Engineer,"1,000,000-2,000,000",5,Slightly involved
+ab132032-b2e1-4f66-b1f0-2ea8242f5829,None,Secondary,Nurse,Unemployed,"Below 1,000,000",5,Very Involved
+0f635f4a-2b9a-418e-8165-964c0b21a308,Primary,Tertiary,Trader,Doctor,"Below 1,000,000",2,Very Involved
+f1f71605-a79e-4626-b707-ac0e0d96feb3,Primary,Primary,Unemployed,Unemployed,"1,000,000-2,000,000",2,Very Involved
+5c375254-a8fc-4690-a9b1-c4a1da221b85,Secondary,Tertiary,Unemployed,Nurse,"2,000,000-5,000,000",5,Slightly involved
+fad3b44c-3b2d-4dc9-a2f3-2faea63fcf12,None,Secondary,Civil Servant,Nurse,"Above 5,000,000",4,Involved
+98dbf732-dde4-4194-bc12-d19850c1b8f7,Primary,Secondary,Civil Servant,Doctor,"1,000,000-2,000,000",3,Very Involved
+b6646199-ed25-459e-8f89-37fa753e9662,Primary,None,Nurse,Doctor,"Below 1,000,000",2,Involved
+be9063fb-64b5-49a5-bd6c-3d2a5564d1d3,Primary,Tertiary,Nurse,Nurse,"2,000,000-5,000,000",6,Slightly involved
+fef97d57-3c77-4a4a-8d65-4036a00f230b,Secondary,Tertiary,Farmer,Civil Servant,"Below 1,000,000",6,Always busy
+631d9c8b-e0f0-4e79-81f7-4651a033edad,Primary,None,Doctor,Engineer,"2,000,000-5,000,000",4,Slightly involved
+39bfc9b6-47ba-48aa-b2f9-4b2c8e10814f,Primary,Primary,Teacher,Teacher,"Below 1,000,000",2,Involved
+854dc3bf-61d8-4365-bada-0c941679bbe0,Secondary,Tertiary,Civil Servant,Engineer,"2,000,000-5,000,000",2,Very Involved
+92a97acd-3d88-4938-aad6-5b8c3a38b844,None,Primary,Engineer,Farmer,"Above 5,000,000",2,Involved
+21bbd183-8acf-44d6-b2fc-c072544c0132,None,Primary,Trader,Trader,"Below 1,000,000",2,Involved
+235b275b-dcd2-4b97-b3ca-9a6bccd3af7c,Primary,None,Civil Servant,Teacher,"1,000,000-2,000,000",6,Slightly involved
+e8b45c6a-fee5-43b3-ae18-b184229fe85b,Secondary,None,Doctor,Unemployed,"Above 5,000,000",4,Slightly involved
+115c42cd-5147-4e86-a875-d40aeac7dc2e,None,Tertiary,Farmer,Unemployed,"2,000,000-5,000,000",6,Very Involved
+2540fbfe-e12f-46cd-96ea-f269514e1353,Secondary,None,Unemployed,Teacher,"Below 1,000,000",6,Always busy
+4da838b7-6947-4bac-b610-f40d69fe890f,Tertiary,Tertiary,Doctor,Doctor,"Above 5,000,000",4,Involved
