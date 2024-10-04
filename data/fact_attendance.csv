@@ -1,10 +1,8 @@
 Student_ID,Days_Attended,Days_Missed,Absence_Reason
-54c63cd8-8945-4f27-97fa-2d8dfb2ca025,30,0,Full Attendance
-fbc9f87a-f668-4617-94a1-875d2db69edb,30,0,Full Attendance
-6fb78271-504d-481f-8953-5b63ba81edd9,30,0,Full Attendance
+6fb78271-504d-481f-8953-5b63ba81edd9,18,12,Family Event
 0b5cea6a-4135-4e8c-b0a9-00ad939b462d,30,0,Full Attendance
 f0b5156b-b82c-4074-afd5-dea589d7fd6c,30,0,Full Attendance
-ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,30,0,Full Attendance
+ebb7a385-aa0b-4b14-b2e9-702d11e9cdaa,26,4,Family Event
 81d2c7de-4ce1-4b90-a669-7833b841d0a0,30,0,Full Attendance
 311c6eb6-2095-4ef6-8ded-f9fb4bb00f20,30,0,Full Attendance
 91b0e1d9-9d92-42af-ac8d-0e44e71e43a6,30,0,Full Attendance
@@ -25,7 +23,7 @@ c715b2b9-c40c-4d91-86fd-e062a33dc7af,30,0,Full Attendance
 620e99d3-3b33-43d8-a69c-d696236c7b87,30,0,Full Attendance
 7746d0ba-8ae8-405b-94b4-a48268586eba,30,0,Full Attendance
 f2311f17-9586-4a76-8511-55ffe7a37e81,30,0,Full Attendance
-f1578470-0182-47c4-ba1b-58066160a6b4,30,0,Full Attendance
+f1578470-0182-47c4-ba1b-58066160a6b4,28,2,Other
 89c8d2ab-6b44-4a8d-95f2-5073f41402b1,30,0,Full Attendance
 45df16b6-382c-443f-bcfc-9b793875394c,30,0,Full Attendance
 b963f37f-6781-4c1f-8c53-0e36addc3e13,30,0,Full Attendance
@@ -50,11 +48,11 @@ ab0e664e-9c3e-42d5-91e1-aa9676f72255,30,0,Full Attendance
 5ad5cf06-364d-4c87-bcd0-129d2e8d0e87,30,0,Full Attendance
 8e485223-46b9-4991-a14e-b70db380c73a,30,0,Full Attendance
 8e200724-7d13-4018-a80b-ac63b856d035,30,0,Full Attendance
-046a0df5-cafd-4613-b2bb-912d7da67785,30,0,Full Attendance
+046a0df5-cafd-4613-b2bb-912d7da67785,25,5,Other
 5e781fd7-94e0-43ba-a9f9-48b24e6384bb,30,0,Full Attendance
 5a104129-54ae-4d1b-8ce6-424dbef59fe6,30,0,Full Attendance
 50c7c006-314d-4441-b8a6-171f1ee34dc4,30,0,Full Attendance
-bd1531c8-3764-4bda-b108-d4482f65fafa,30,0,Full Attendance
+bd1531c8-3764-4bda-b108-d4482f65fafa,19,11,Other
 d52721e7-19bc-443e-bb02-bebb48729a4d,30,0,Full Attendance
 2067bdac-88bd-43d1-b540-b30e039f3a25,30,0,Full Attendance
 a34b6cf6-2053-4a42-b1af-db65b289f224,30,0,Full Attendance
@@ -70,17 +68,17 @@ a021c0ca-3531-468d-8342-bd2bf295456e,30,0,Full Attendance
 43b9da13-ec85-4f37-bbc1-a987aff8754d,30,0,Full Attendance
 1d61fac3-6cd5-4859-b2a4-47b2ef04e57d,30,0,Full Attendance
 0f44704f-1247-4a4e-a469-98e8d39e198b,30,0,Full Attendance
-706c5c56-49e2-423d-abd3-461691b78d8e,22,8,Other
+706c5c56-49e2-423d-abd3-461691b78d8e,30,0,Full Attendance
 8a3c3b5e-801e-41da-85b1-ed25f1533ae8,30,0,Full Attendance
 069f14f1-4018-4c6e-9a8c-fa3c5283aac7,30,0,Full Attendance
 054f92ff-f366-4ad4-964d-b03f93403fad,30,0,Full Attendance
 7135f221-a6c9-437f-84da-d06a7872bdeb,30,0,Full Attendance
 f8140102-7de1-4dfe-9072-5b5ca2814044,30,0,Full Attendance
-292bd156-db94-4570-9ac7-0ec0ab8ddeb4,23,7,Illness
+292bd156-db94-4570-9ac7-0ec0ab8ddeb4,30,0,Full Attendance
 c2b01cfd-d045-4d1c-a684-09e3f1f8343e,30,0,Full Attendance
 c5c5b37a-f85e-46a1-9dad-09b252c21221,30,0,Full Attendance
 764414fd-8ae7-49ed-9e8e-de0ba85c6e4a,30,0,Full Attendance
-71299889-a01a-4992-bf9d-3e64c1a6423b,30,0,Full Attendance
+71299889-a01a-4992-bf9d-3e64c1a6423b,28,2,Other
 e17f29e1-7028-4046-89bc-473fed7bf656,30,0,Full Attendance
 b5b453ca-3d42-493c-8c9f-d3349bdf0377,30,0,Full Attendance
 d7665cda-fe04-4059-b985-fb6217dc8eff,30,0,Full Attendance
@@ -108,13 +106,13 @@ aab612c9-415d-474a-b5a6-69814104a8b5,30,0,Full Attendance
 12e89d10-2871-4733-8bed-db12ad77e82f,30,0,Full Attendance
 b0b862ef-6c9f-42b9-b647-8986a3917c99,30,0,Full Attendance
 1b4da0fe-7bb3-4605-9a74-3152627b41a1,30,0,Full Attendance
-059dd55d-4b94-4e30-b303-f438fe2110d0,30,0,Full Attendance
+059dd55d-4b94-4e30-b303-f438fe2110d0,12,18,Family Event
 c73f6e1b-af90-4e3c-9d75-0e9890e0b95f,30,0,Full Attendance
 e726be23-e776-4886-9534-ee1d7f2984f5,30,0,Full Attendance
 30ac7d7b-a2f9-43a3-b810-ae665a31b4cc,30,0,Full Attendance
 2303f6c6-d69d-42f1-ae4c-84ffa8c01f05,30,0,Full Attendance
 088a93ec-70d9-49f8-89e2-60744f1639a0,30,0,Full Attendance
-6a5e6920-bf5a-47e6-93a3-dd5a4b8c5bdc,30,0,Full Attendance
+6a5e6920-bf5a-47e6-93a3-dd5a4b8c5bdc,20,10,Other
 80759f1f-87e5-40fe-9da8-d6d2f8b38a8b,30,0,Full Attendance
 f7a67b94-7b5a-411a-b1b6-4afed31edf1a,30,0,Full Attendance
 1346d1a9-f680-4cdb-b7e4-90c71d7bc313,30,0,Full Attendance
@@ -148,7 +146,7 @@ d3d1bf0f-56c4-48e4-a9ef-afb13a7e8e14,30,0,Full Attendance
 4140752c-aa44-4259-9001-8b7b6d4067f4,30,0,Full Attendance
 15da705c-d4ef-40aa-975a-81ec112fa612,30,0,Full Attendance
 0f5ae9d3-8e6e-4003-a14f-3f12cfd01cbd,30,0,Full Attendance
-dfa4bb9f-5a85-4750-a92a-c1391f4a8ca1,30,0,Full Attendance
+dfa4bb9f-5a85-4750-a92a-c1391f4a8ca1,21,9,Truancy
 49a214ae-f7e8-48e5-8d2b-91efb8976ec5,30,0,Full Attendance
 7b70c3b8-a81f-4ec3-a79c-658a36760ce5,30,0,Full Attendance
 47503f1d-c33a-4f6c-9d69-1fba5e187b24,30,0,Full Attendance
@@ -169,7 +167,7 @@ bdf66ba5-dc9c-46de-a5a6-74c212738a23,30,0,Full Attendance
 f758dce2-0556-4aea-a7b0-32831d7c0098,30,0,Full Attendance
 5ca260c9-eb76-47c9-b08a-4895d4ffa666,30,0,Full Attendance
 1422373f-8622-48d1-a683-e10796c044d0,30,0,Full Attendance
-138d994c-2b0a-4edd-8774-44cb5543fc3c,30,0,Full Attendance
+138d994c-2b0a-4edd-8774-44cb5543fc3c,11,19,Family Event
 59e1ac09-5970-4859-86b6-e4ade7ea8d5a,30,0,Full Attendance
 4187222b-257d-4e52-9a51-65ca3c7c1d85,30,0,Full Attendance
 f387e1bd-2d59-42c6-934a-5a2fa7cf705c,30,0,Full Attendance
@@ -182,33 +180,33 @@ bd29ede9-cab4-423b-b448-83858de7ad6c,30,0,Full Attendance
 9ae1a991-524f-43ff-b030-7633a6ded1d8,30,0,Full Attendance
 d65e59dd-e62d-4d06-8f9b-85581a7f195b,30,0,Full Attendance
 b526b22d-3f6c-41f7-8a05-37f02c2cd22b,30,0,Full Attendance
-eafde7d9-5f73-4a3e-9d28-6aa428a39779,30,0,Full Attendance
+eafde7d9-5f73-4a3e-9d28-6aa428a39779,15,15,Truancy
 a181c85e-ca0a-46ac-8d67-d38e990f0c5b,30,0,Full Attendance
 4082cbb9-48bd-4b3e-a2f5-df2badaa44ca,30,0,Full Attendance
 14dd5061-5557-46f8-a67e-ddcedf8f4197,30,0,Full Attendance
 a981b098-b2cf-452d-a7f3-33b3f7baf55e,30,0,Full Attendance
 a4bbf962-606e-4e1c-8f15-84494f40c22f,30,0,Full Attendance
 ff4625af-bd20-463b-b275-b5f3d436a7a8,30,0,Full Attendance
-04aac1b7-5ca0-4428-822c-4d326c645c15,30,0,Full Attendance
+04aac1b7-5ca0-4428-822c-4d326c645c15,12,18,Other
 31274148-7c7c-404e-8422-d03ef29a6339,30,0,Full Attendance
 81f7f3fb-19e4-4c6a-89c2-3e69d82c7565,30,0,Full Attendance
 e05b46c5-5636-4094-a974-31db09a9d1c1,30,0,Full Attendance
 b15e54f6-d4d3-4795-ae4b-ebc429890880,30,0,Full Attendance
-5d42b9e9-692e-47b6-8b2f-6d5c700b5d5f,30,0,Full Attendance
-c8a723e9-bfa0-46c2-809c-b50648f1096d,30,0,Full Attendance
+5d42b9e9-692e-47b6-8b2f-6d5c700b5d5f,25,5,Truancy
+c8a723e9-bfa0-46c2-809c-b50648f1096d,20,10,Truancy
 e76adca9-7811-4802-88cc-7cfecf01f944,30,0,Full Attendance
 c4f9eccd-7630-48a7-b0ca-fdd8fc043f08,30,0,Full Attendance
 331f63fb-d11f-48c0-a97c-a4fff75d599f,30,0,Full Attendance
 5f07c1a5-dfc6-40ce-bb07-fd31a4244f23,30,0,Full Attendance
 1578d709-48f9-43d0-9fea-e1e0d9e604b3,30,0,Full Attendance
 177a8a5f-6ffe-43b3-94bf-7a4b25b8a42f,30,0,Full Attendance
-6a36af18-06d3-4b93-ae33-688d597e6845,13,17,Other
+6a36af18-06d3-4b93-ae33-688d597e6845,30,0,Full Attendance
 397b5f51-5ffa-46ef-94e4-180cfe9936a3,30,0,Full Attendance
 25637cc3-ca97-4bf5-95d5-96afa663d2cd,30,0,Full Attendance
 c24369e7-2387-4af6-94c3-a832b231c60b,30,0,Full Attendance
-3735262d-4184-4b03-84dd-7054144823f7,10,20,Family Event
+3735262d-4184-4b03-84dd-7054144823f7,30,0,Full Attendance
 c6b33fe6-1c76-4df6-ac5a-6c93871c0884,30,0,Full Attendance
-9f708368-cb3c-48ca-a392-57316b79afcc,30,0,Full Attendance
+9f708368-cb3c-48ca-a392-57316b79afcc,25,5,Truancy
 a1c7cc8a-0435-4b64-893a-d23298c3e3ca,30,0,Full Attendance
 5a5226e6-9d64-4932-8066-853d6de299a1,30,0,Full Attendance
 5c508720-f982-44e0-8603-156a15eacbcf,30,0,Full Attendance
@@ -219,7 +217,7 @@ bf5023f4-40ef-4935-9f90-bed6fb25664d,30,0,Full Attendance
 7a8104de-b205-47bb-bb16-f75776f186ab,30,0,Full Attendance
 0977c513-752a-4d25-b190-1b7ec6b469ef,30,0,Full Attendance
 4f612217-eef1-4694-90ca-e32d0aba590e,30,0,Full Attendance
-a59b457f-c0d7-4c73-895f-fa8140d92bce,30,0,Full Attendance
+a59b457f-c0d7-4c73-895f-fa8140d92bce,12,18,Other
 45f18619-54f9-4429-a7de-02ccdda4f4a7,30,0,Full Attendance
 f4dbca07-e506-4670-b092-947dbe4969ec,30,0,Full Attendance
 cc1b4157-ec9f-4c54-9e0a-72ab7f5db163,30,0,Full Attendance
@@ -227,14 +225,14 @@ febec0db-9a3a-4103-ae3c-453214348f62,30,0,Full Attendance
 4baf0f5e-a932-4094-93f2-8f11147f6570,30,0,Full Attendance
 727716ec-59fe-4bbc-b1a3-fad2b0946d2a,30,0,Full Attendance
 a3b442bd-4649-4296-af58-42c3ff86cc31,30,0,Full Attendance
-83599af6-5d01-455f-a7fd-64c4a334058a,30,0,Full Attendance
+83599af6-5d01-455f-a7fd-64c4a334058a,20,10,Illness
 ad973b67-9b89-45cb-9942-644c248d31ec,30,0,Full Attendance
-5cb5e69c-5dc7-43e6-a529-64ffc74cc890,30,0,Full Attendance
+5cb5e69c-5dc7-43e6-a529-64ffc74cc890,11,19,Other
 5ef787b8-f2e6-495f-b32e-2016add702c9,30,0,Full Attendance
 507b9072-65e5-4f34-9df0-6e8c878aaed9,30,0,Full Attendance
 848af440-7fc1-4858-afa0-d842bc55300b,30,0,Full Attendance
 36ee1640-723e-4466-b43b-d27f42a259a6,30,0,Full Attendance
-12f5131a-da52-42ee-a2bf-18f51f652a87,12,18,Truancy
+12f5131a-da52-42ee-a2bf-18f51f652a87,30,0,Full Attendance
 f7b217c7-ae92-4a71-8f7d-cb431679742f,30,0,Full Attendance
 4a552ea0-8acb-4e09-8ccc-9cea109fd8ee,30,0,Full Attendance
 2c913a7c-a340-4f08-b341-91b8ed6522b4,30,0,Full Attendance
@@ -261,7 +259,7 @@ b89bdf7f-93e3-4c35-af0a-573d53d2d56d,30,0,Full Attendance
 e10b1a47-7fae-4748-b781-321e83c501cb,30,0,Full Attendance
 3da06476-f778-4676-b50d-112e8164ceec,30,0,Full Attendance
 d7c4fe9c-e1e0-4ffc-98f6-fd7f7eb162f1,30,0,Full Attendance
-22498f66-6e51-484d-9b84-edc3d8e049de,30,0,Full Attendance
+22498f66-6e51-484d-9b84-edc3d8e049de,15,15,Illness
 0d18ab95-668c-4477-8b95-017c5dae1201,30,0,Full Attendance
 734a6ca3-8116-43fc-a2e7-c1a612d2fa06,30,0,Full Attendance
 20f0156a-1e6a-4628-9c6d-52d5ae2e9af9,30,0,Full Attendance
@@ -272,7 +270,7 @@ e4a4474c-9b33-43a4-a620-f9a974fd33d1,30,0,Full Attendance
 7d66971e-8847-4c56-827c-9f8cd40ac5e9,30,0,Full Attendance
 1c0f0bdc-ac7e-437c-94cc-1e2a5e4cb287,30,0,Full Attendance
 a1173719-b023-40ea-9f41-e335b9aed8e4,30,0,Full Attendance
-9416e4dc-c6b2-4def-b8d8-b7f1c86c6544,26,4,Family Event
+9416e4dc-c6b2-4def-b8d8-b7f1c86c6544,30,0,Full Attendance
 b89f7039-a107-4c46-8634-17182ba6adb3,30,0,Full Attendance
 9293f705-0815-4147-be00-980eae441e21,30,0,Full Attendance
 69b7c0fa-26c4-42f6-ab35-2f85504e2687,30,0,Full Attendance
@@ -286,7 +284,7 @@ b8beff3d-cb9f-4f6d-af3a-6f27ef06fccb,30,0,Full Attendance
 65001423-faeb-4d19-a550-8ea26133a34d,30,0,Full Attendance
 f48f709c-49a2-4441-8ac4-de854a5b1aff,30,0,Full Attendance
 36c7d6fa-7aa4-4052-bf51-936241a64fed,30,0,Full Attendance
-1bf645f6-2324-4211-8588-fc1bb2384849,30,0,Full Attendance
+1bf645f6-2324-4211-8588-fc1bb2384849,23,7,Illness
 39c59df9-87f2-45d6-a7ba-26acab7a3d1c,30,0,Full Attendance
 ae62990c-19bd-4f93-b8ef-7666b7a4c719,30,0,Full Attendance
 a723fb72-682b-463a-a86e-d390edd97a1a,30,0,Full Attendance
@@ -296,7 +294,7 @@ a723fb72-682b-463a-a86e-d390edd97a1a,30,0,Full Attendance
 c9b7c9bc-65a1-4fa9-9611-69a1ff46a6bf,30,0,Full Attendance
 4c636e95-025f-4543-8997-623ae0723d96,30,0,Full Attendance
 a42d0cd7-fd35-4f6a-b450-388748d90846,30,0,Full Attendance
-45d8a6ad-77d0-459e-8114-14f8d9df0d0e,30,0,Full Attendance
+45d8a6ad-77d0-459e-8114-14f8d9df0d0e,28,2,Other
 b7f60cdf-41dc-4c60-a5f6-0735757b6b29,30,0,Full Attendance
 317304b5-c1dd-484a-aca5-8d95915a1c30,30,0,Full Attendance
 53f30073-83e9-4ef4-ad7d-f5d0d3b59af7,30,0,Full Attendance
@@ -304,7 +302,7 @@ ef9240b6-52d7-4f10-ba3a-6e9623ff23d3,30,0,Full Attendance
 546252e7-f43b-4052-8459-bd6ec0f63229,30,0,Full Attendance
 3c7e5368-b159-4847-9c0b-9b10a757cb10,30,0,Full Attendance
 ec50ace4-80a5-4e65-afa2-855967c96204,30,0,Full Attendance
-f0cd7f05-ea87-455e-a382-95d31e0ef546,30,0,Full Attendance
+f0cd7f05-ea87-455e-a382-95d31e0ef546,10,20,Other
 74797b61-2737-4b52-ba6a-210722319050,30,0,Full Attendance
 c1e1b94a-7888-4058-a9ad-0e9b8c9aa1e9,30,0,Full Attendance
 98874bfe-c136-4c65-ae2a-e3413f59e4f2,30,0,Full Attendance
@@ -377,7 +375,7 @@ f165d779-0154-4950-976d-e21f1b46ebdc,30,0,Full Attendance
 3e245fbf-fa69-4cd2-be23-90f3e7bbaefc,30,0,Full Attendance
 44b64ec1-4d16-4049-84d7-df9a238b05b7,30,0,Full Attendance
 5c72aebd-13b1-4e59-885c-d7147bf69552,30,0,Full Attendance
-75366b9f-320f-42c0-9dde-01889803b22e,30,0,Full Attendance
+75366b9f-320f-42c0-9dde-01889803b22e,19,11,Family Event
 614077d3-9ec4-4a48-9773-f98d550c2fe9,30,0,Full Attendance
 a6aa59e5-dc08-4f29-92d3-3488d0c30018,30,0,Full Attendance
 7aa061e9-336b-40cb-b1fe-ad13f280df1d,30,0,Full Attendance
@@ -390,7 +388,7 @@ ac484366-68bd-40d7-8b88-1c32cbb02a8b,30,0,Full Attendance
 6b15c11b-b113-450b-9ea0-50c6eb9ed274,30,0,Full Attendance
 98049562-8972-4bbd-8ff2-b1c4e53f9644,30,0,Full Attendance
 2a9528c3-5ae1-4bad-aa29-60fda85894df,30,0,Full Attendance
-f780ef2f-664d-4922-a590-fd3cad6ecc57,30,0,Full Attendance
+f780ef2f-664d-4922-a590-fd3cad6ecc57,28,2,Family Event
 38d5101f-423c-4d9d-993e-478302b34254,30,0,Full Attendance
 5fc64cd0-721e-4b1f-b895-89399342a09f,30,0,Full Attendance
 ff69723d-584f-485b-a697-384d801e8690,30,0,Full Attendance
@@ -412,7 +410,7 @@ ee4205ee-a52f-43ec-ab4e-2281b184d1fc,30,0,Full Attendance
 dd92dd7c-0db9-47a9-9e91-a71c7374ccbf,30,0,Full Attendance
 8fc3d7d3-f6bd-40c7-a24a-2a50d0b1fde0,30,0,Full Attendance
 71a0449d-d703-462f-b5cb-e3f56a66c184,30,0,Full Attendance
-398f569b-465c-42cb-885e-b4894ac66780,30,0,Full Attendance
+398f569b-465c-42cb-885e-b4894ac66780,27,3,Other
 7eccdaf4-c413-4dc2-85c5-ae8abe15ad12,30,0,Full Attendance
 fdab3441-d2c2-4960-8b09-01abc66dceb3,30,0,Full Attendance
 37f25d36-8bdd-4ee3-b0fd-6672b80f16c5,30,0,Full Attendance
@@ -451,13 +449,13 @@ cb35097a-e5dd-48f1-88a7-38ab0df83e12,30,0,Full Attendance
 122dd7be-980b-481e-a359-5d1f7fe4a42e,30,0,Full Attendance
 6307d4d1-21c9-415d-9104-5a16ef15ab72,30,0,Full Attendance
 78946a15-c342-41db-ac3a-acdcaed54a46,30,0,Full Attendance
-373aedf8-431e-430f-8387-f74d1149d096,21,9,Illness
+373aedf8-431e-430f-8387-f74d1149d096,30,0,Full Attendance
 b66edbf4-a0ea-4251-8957-43a281b13b80,30,0,Full Attendance
 89a3c811-895c-4fde-a3fa-40691519fd38,30,0,Full Attendance
 f96c9a0a-3404-402a-abc1-bb5282e4dd4a,30,0,Full Attendance
 a65be22b-d5a3-46d9-8362-a810a2611b8d,30,0,Full Attendance
 3d175712-d8b2-4277-b413-db19bade8d5d,30,0,Full Attendance
-0e165b12-9bdc-40d1-9cbf-7b8c74102d5d,16,14,Family Event
+0e165b12-9bdc-40d1-9cbf-7b8c74102d5d,30,0,Full Attendance
 23204ff5-b538-496c-833e-02f71e93d127,30,0,Full Attendance
 d28fcf68-c871-47b3-8468-b74d85e3ade5,30,0,Full Attendance
 bba1aed9-44cd-4fdd-9f9b-141ec7f7bda1,30,0,Full Attendance
@@ -472,7 +470,7 @@ b6ca1127-e9f8-4970-8d98-f9e28d888beb,30,0,Full Attendance
 e0827f76-11a5-49b4-a6a3-02d6f43e8c48,30,0,Full Attendance
 74ed5145-8d97-45c7-961d-5c8753c9fe59,30,0,Full Attendance
 3e19fc1d-9f6a-4a65-bd54-da044dcd0009,30,0,Full Attendance
-bb82b796-3207-443e-86a0-7656c5c9fb91,30,0,Full Attendance
+bb82b796-3207-443e-86a0-7656c5c9fb91,12,18,Illness
 061efb95-68f8-4063-aeb1-9ad201a1fb0f,30,0,Full Attendance
 55c3b2db-f374-490d-8274-ce40e09016b6,30,0,Full Attendance
 34879e41-1a9c-472a-8eb9-047dba2ac3d9,30,0,Full Attendance
@@ -508,7 +506,7 @@ fb8fe8c4-d8b4-4ead-9360-8edf382b5b86,30,0,Full Attendance
 b4157cea-0738-4ba4-9770-a3dbe9fa97e2,30,0,Full Attendance
 d631c383-3030-44d0-b2c8-47439027e770,30,0,Full Attendance
 0e61065f-171b-4b80-89b7-fdf77d8d3ddd,30,0,Full Attendance
-9d37efb6-eafb-4e90-94ec-84ce002ccb25,30,0,Full Attendance
+9d37efb6-eafb-4e90-94ec-84ce002ccb25,28,2,Truancy
 de4379cb-d823-4076-8d6b-b03beb3537a0,30,0,Full Attendance
 1c654aa2-c63c-421d-a443-5958eacf33a9,30,0,Full Attendance
 a981fa54-f121-4129-b45c-9a545fa3a531,30,0,Full Attendance
@@ -532,7 +530,7 @@ f9722cc1-349e-44a9-94c2-9d5c19ec0829,30,0,Full Attendance
 a91cf192-43e8-444b-8a45-a905badf9397,30,0,Full Attendance
 7daec949-d700-4461-8cb6-b0ba925f8199,30,0,Full Attendance
 a005f5e1-a97a-4846-92ea-ef184b6797a1,30,0,Full Attendance
-fa207403-4ab4-47e3-a360-76812bbba89d,30,0,Full Attendance
+fa207403-4ab4-47e3-a360-76812bbba89d,24,6,Illness
 e516b0d4-7d35-42cc-b88f-d0cd65c06b93,30,0,Full Attendance
 61a66444-e2af-4629-9efb-336e2f546033,30,0,Full Attendance
 d64acb1f-39eb-438a-836e-3c49770e09db,30,0,Full Attendance
@@ -549,7 +547,7 @@ b34e356a-c95b-41f8-832a-461adf9b7c1f,30,0,Full Attendance
 910c4cb7-25f0-4b0a-a64e-f59d6a18e5af,30,0,Full Attendance
 c7903dc5-900c-4af7-9b0a-e22eecc817a6,30,0,Full Attendance
 439e754c-6930-46ea-a0bd-a1ee5807cf74,30,0,Full Attendance
-67294d3c-4681-4a88-ac15-4804099759a3,30,0,Full Attendance
+67294d3c-4681-4a88-ac15-4804099759a3,13,17,Truancy
 e1035e1c-e3bb-42ae-a552-ac5309eda6f5,30,0,Full Attendance
 5f584603-e5a3-48e9-84c1-f1b5ebbbd763,30,0,Full Attendance
 dbb54645-7dda-41b6-97c4-caed47c4cc51,30,0,Full Attendance
@@ -564,7 +562,7 @@ b5a6571c-4fa5-435e-90cc-460428b26b1b,30,0,Full Attendance
 d6707a21-29dc-473e-9820-b3f25989dd6c,30,0,Full Attendance
 0cb5ee5c-62f5-47c2-8706-fec248fa4e98,30,0,Full Attendance
 39a0f145-a5ba-4050-b8aa-76dfdb6ba39b,30,0,Full Attendance
-f796611f-c7c1-4b1b-9d58-631b052226b9,30,0,Full Attendance
+f796611f-c7c1-4b1b-9d58-631b052226b9,26,4,Illness
 cd0579e2-99e4-404c-ac56-e0cda5ba2472,30,0,Full Attendance
 b599277f-f78e-49e8-b676-291d4e329b4b,30,0,Full Attendance
 37dc8c78-4082-4cda-b580-e4e959450186,30,0,Full Attendance
@@ -586,10 +584,10 @@ ae423568-de14-453b-9eac-41d9801f4909,30,0,Full Attendance
 fe0a824e-232a-4e82-a699-6aabdaaf7529,30,0,Full Attendance
 24aa5685-7523-46ce-bc95-0bbae8184f34,30,0,Full Attendance
 fc9476b1-a18b-4d15-9527-34077cd2192f,30,0,Full Attendance
-c606ddc4-c2dd-401d-b59a-15334605ec0e,30,0,Full Attendance
-2120bfba-1689-40b8-879d-db62c37944c1,26,4,Illness
+c606ddc4-c2dd-401d-b59a-15334605ec0e,28,2,Illness
+2120bfba-1689-40b8-879d-db62c37944c1,30,0,Full Attendance
 0131ff3b-6221-4670-ba36-e788f71fb9a6,30,0,Full Attendance
-c1c0c5e3-527c-4f50-a45a-87e8039a8ed5,30,0,Full Attendance
+c1c0c5e3-527c-4f50-a45a-87e8039a8ed5,23,7,Other
 39ec8ca1-3fb2-4f47-bbcd-6c18a06e8de5,30,0,Full Attendance
 4e5d8f12-96b3-4f4a-80da-a8ca62305d27,30,0,Full Attendance
 85319f0f-ba53-4122-b4b7-96204a73b0bf,30,0,Full Attendance
@@ -597,22 +595,22 @@ ff02f5b0-57bd-46c9-a240-063bfed747be,30,0,Full Attendance
 cfdfc6f9-eb0f-427c-a82a-3879f2b5a7ea,30,0,Full Attendance
 059c1ba0-bbec-421d-b610-901c2196b3b5,30,0,Full Attendance
 600c9c71-0990-4647-8ac8-d87ea689d07f,30,0,Full Attendance
-0c472187-fea3-4d37-980b-68530c7031eb,30,0,Full Attendance
+0c472187-fea3-4d37-980b-68530c7031eb,22,8,Family Event
 71be94c3-6ab1-4db6-9da4-66feb0937085,30,0,Full Attendance
 af8ca888-b1f8-4ad9-b49b-508927335670,30,0,Full Attendance
 9f6facc1-451d-48fe-8532-fc74a9987bdf,30,0,Full Attendance
 9e21741f-b801-4026-82f7-38611adba8cf,30,0,Full Attendance
 c72850c1-3322-468b-9be7-8aec32da81f0,30,0,Full Attendance
 290e3e89-4b9c-42f4-a8e5-c8cdb4146e4a,30,0,Full Attendance
-3c088990-54a2-4051-bb0c-cad9eee13cae,30,0,Full Attendance
+3c088990-54a2-4051-bb0c-cad9eee13cae,25,5,Illness
 7e7d9a19-ab45-4578-92fb-acf6d5d1c669,30,0,Full Attendance
 e79f9f3d-19ee-4c3b-b93c-4b0bb93b770c,30,0,Full Attendance
 0cd20e43-76da-4194-839d-b29d4bc81c16,30,0,Full Attendance
 ad409244-cd35-46ef-9c37-07394a629c5e,30,0,Full Attendance
-0279e2ab-0bbf-4334-a3ea-2d7fc219a845,30,0,Full Attendance
+0279e2ab-0bbf-4334-a3ea-2d7fc219a845,13,17,Other
 f480b91e-700e-4efc-a4ff-c31a5b86ea69,30,0,Full Attendance
 1d24181c-2ed0-47d4-97bc-ad3ad0a17fe8,30,0,Full Attendance
-7a6e43d0-d9c5-4cd9-b09d-721b62be4009,30,0,Full Attendance
+7a6e43d0-d9c5-4cd9-b09d-721b62be4009,27,3,Truancy
 b9f6143b-b238-4056-a1ec-47541cf14654,30,0,Full Attendance
 7b90942f-973b-4977-a946-28206a80cac2,30,0,Full Attendance
 9c81fc46-5bcd-436c-8777-4fae613758c3,30,0,Full Attendance
@@ -627,7 +625,7 @@ a9e8f0d8-5883-49de-bb5f-be413fa2bde0,30,0,Full Attendance
 142e3df0-3c28-45dc-912d-aea8673d2920,30,0,Full Attendance
 50e96888-7273-4e7b-bf9a-d277db496e6d,30,0,Full Attendance
 092c4801-698f-44f8-a747-d24a1a46d536,30,0,Full Attendance
-a335b2c8-9e7b-4e95-b692-641a9aad10ce,30,0,Full Attendance
+a335b2c8-9e7b-4e95-b692-641a9aad10ce,16,14,Truancy
 57423882-f34a-4949-b4ca-0ad7abe5be96,30,0,Full Attendance
 c47566bf-8f66-4bbd-94fc-286f74577d47,30,0,Full Attendance
 18f1a1e4-1d30-4290-b3d9-2aceb7461b72,30,0,Full Attendance
@@ -635,7 +633,7 @@ ccc7147f-f6e5-403c-a237-9e6fd4734534,30,0,Full Attendance
 7e0f60b2-2a06-4609-a599-bd3c0bb81d38,30,0,Full Attendance
 3227e8d8-9c60-481b-8119-1aa71b61d453,30,0,Full Attendance
 30c9c51f-c80b-4af7-9315-fafa7500f785,30,0,Full Attendance
-ac117bab-d664-4fe8-a21c-0c06ed376567,30,0,Full Attendance
+ac117bab-d664-4fe8-a21c-0c06ed376567,18,12,Truancy
 811317a8-f4c8-4393-96dd-6c82a8909e31,30,0,Full Attendance
 6ecca931-ef70-4d01-8da0-3d880c6f3051,30,0,Full Attendance
 b11af726-2d5d-4395-a901-a768ebd14b0c,30,0,Full Attendance
@@ -661,7 +659,7 @@ a23ff67d-e957-4bc2-b9bd-8bd6d479cc36,30,0,Full Attendance
 4773e66a-6db2-4020-8a67-01436090103c,30,0,Full Attendance
 77617d80-549f-434c-8171-f5a74148bd11,30,0,Full Attendance
 c60ea4d5-0d04-4cb6-98cd-26555297e1ad,30,0,Full Attendance
-8cd74c27-929a-4586-8a37-6c367d94bf10,30,0,Full Attendance
+8cd74c27-929a-4586-8a37-6c367d94bf10,13,17,Illness
 85467426-2f12-4b9e-b4fd-25b7384f6e3b,30,0,Full Attendance
 597278c5-1789-4e63-a746-5743897b303d,30,0,Full Attendance
 f3476736-37ec-47a6-8b27-b0795c5d3f1b,30,0,Full Attendance
@@ -746,7 +744,7 @@ c8b190e1-089a-4f4f-b1da-e8174937b90f,30,0,Full Attendance
 66414954-c798-4445-86a3-cc71ff2f6883,30,0,Full Attendance
 b4209103-bca7-46eb-83ef-0f77848ac924,30,0,Full Attendance
 953b0f1f-ea3e-472a-8f22-1604d46b7756,30,0,Full Attendance
-746b161a-31cc-4738-b68a-e9b79b3aa1d1,26,4,Family Event
+746b161a-31cc-4738-b68a-e9b79b3aa1d1,30,0,Full Attendance
 8f026c2c-1b41-4999-8198-d1f56839f98f,30,0,Full Attendance
 41f83199-f4ea-4769-8366-c189cd8d9f75,30,0,Full Attendance
 60885550-f74f-4900-b159-4914b1b68ecd,30,0,Full Attendance
@@ -757,8 +755,8 @@ ae7cfd14-7577-4730-868d-a4b2f613bda0,30,0,Full Attendance
 2db13deb-ee6f-4bea-8df7-164713769ff9,30,0,Full Attendance
 bf0418a9-f276-4513-aeca-f62944e22691,30,0,Full Attendance
 3df76a69-bc45-444a-bc1f-dff0331d58bb,30,0,Full Attendance
-5b249c2a-9e5c-4dcd-961a-080a3fec0a37,30,0,Full Attendance
-7e1f48c4-a9d6-490d-b4ad-fa22ad0205f5,30,0,Full Attendance
+5b249c2a-9e5c-4dcd-961a-080a3fec0a37,10,20,Truancy
+7e1f48c4-a9d6-490d-b4ad-fa22ad0205f5,17,13,Truancy
 5f06bc76-7b77-4e71-9917-38f80ad1c18c,30,0,Full Attendance
 4654e77d-de67-4278-9313-b3a7e5a1c6e4,30,0,Full Attendance
 20d4ba18-93a0-4478-800b-19de38db128d,30,0,Full Attendance
@@ -785,12 +783,12 @@ e33fc52c-4570-43e4-a53c-8f74a5076897,30,0,Full Attendance
 406bf02d-a97a-4f4e-bc10-871bba4f4b03,30,0,Full Attendance
 18763576-1a5e-4196-a5a4-c79b2abaa4f9,30,0,Full Attendance
 8623bc74-65a2-4cc8-855b-e95d06bfd9c4,30,0,Full Attendance
-ee7ca782-a7a3-4d25-9595-6c4227c00f89,30,0,Full Attendance
+ee7ca782-a7a3-4d25-9595-6c4227c00f89,22,8,Other
 205c8491-a061-49db-b172-f63648bfb602,30,0,Full Attendance
 ea4f4a80-dc41-4176-9b59-f28ea9de5b26,30,0,Full Attendance
 8c6d768e-45bc-43ba-af52-d36e8a63b93c,30,0,Full Attendance
 74e0079a-98fb-4727-9740-b2122d5245f4,30,0,Full Attendance
-88a613b4-a3b8-4f92-a3c9-0c6a86017633,30,0,Full Attendance
+88a613b4-a3b8-4f92-a3c9-0c6a86017633,20,10,Family Event
 4ed0730d-711d-41dd-96ed-0330ce015413,30,0,Full Attendance
 c21f84fc-d0bc-4ad5-85f8-0d9b00060d5a,30,0,Full Attendance
 7def3b8e-ec0d-4c3a-b011-b125022111e5,30,0,Full Attendance
@@ -807,13 +805,13 @@ b26a51a5-76b4-4672-9f13-e10bff7a884d,30,0,Full Attendance
 4439940d-0e58-4770-a566-0316f39ef1be,30,0,Full Attendance
 4005353d-d76f-4e65-a54c-87393133839e,30,0,Full Attendance
 62821d61-3fbb-4f57-b6f5-6f1cc4a531cd,30,0,Full Attendance
-bc3e1d19-75f9-4230-b2fd-73c508942176,30,0,Full Attendance
+bc3e1d19-75f9-4230-b2fd-73c508942176,27,3,Illness
 f6121d2c-ae73-40eb-a39d-8fe7790b185c,30,0,Full Attendance
 8cb1457e-effa-415b-bea6-450f0accb23c,30,0,Full Attendance
 0d559b64-e334-4bac-9c44-ebd132df8d45,30,0,Full Attendance
 03db7a2e-5313-40e0-af25-37cea206527c,30,0,Full Attendance
-f80590f0-0249-4a09-be3b-1a40ca0553a2,30,0,Full Attendance
-c552f3c5-5f13-4b98-a7ad-8d5198a15e4f,30,0,Full Attendance
+f80590f0-0249-4a09-be3b-1a40ca0553a2,22,8,Family Event
+c552f3c5-5f13-4b98-a7ad-8d5198a15e4f,12,18,Other
 f83b1806-ee4c-4b18-96a2-d49d9e5f8273,30,0,Full Attendance
 1b7e0502-ca9d-4831-894e-7397b38a3db1,30,0,Full Attendance
 58e9d0aa-c1b6-4dd4-a507-84cbc9df301e,30,0,Full Attendance
@@ -870,7 +868,7 @@ ab132032-b2e1-4f66-b1f0-2ea8242f5829,30,0,Full Attendance
 f1f71605-a79e-4626-b707-ac0e0d96feb3,30,0,Full Attendance
 5c375254-a8fc-4690-a9b1-c4a1da221b85,30,0,Full Attendance
 fad3b44c-3b2d-4dc9-a2f3-2faea63fcf12,30,0,Full Attendance
-98dbf732-dde4-4194-bc12-d19850c1b8f7,26,4,Truancy
+98dbf732-dde4-4194-bc12-d19850c1b8f7,22,8,Other
 b6646199-ed25-459e-8f89-37fa753e9662,30,0,Full Attendance
 be9063fb-64b5-49a5-bd6c-3d2a5564d1d3,30,0,Full Attendance
 fef97d57-3c77-4a4a-8d65-4036a00f230b,30,0,Full Attendance
@@ -884,3 +882,4 @@ e8b45c6a-fee5-43b3-ae18-b184229fe85b,30,0,Full Attendance
 115c42cd-5147-4e86-a875-d40aeac7dc2e,30,0,Full Attendance
 2540fbfe-e12f-46cd-96ea-f269514e1353,30,0,Full Attendance
 4da838b7-6947-4bac-b610-f40d69fe890f,30,0,Full Attendance
+26e6a84a-4617-4161-bd03-d33beee9795e,30,0,Full Attendance

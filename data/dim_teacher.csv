@@ -1,11 +1,13 @@
 Teacher_ID,Name,Gender,Qualification,Subject_Specialization,Years_of_Experience,class_ID
-bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,Male,Diploma,Mathematics,4,SS2 Class C
-8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,Javier Johnson,Male,Diploma,English Language,3,SS3 Class D
-9a1de644-815e-46d1-bb8f-aa1837f8a88b,Cristian Santos,Male,Bachelor,Government,10,SS2 Class B
-72ff5d2a-386e-4be0-ab65-a6a48b8148f6,Rhonda Smith,Female,Master,Literature,11,SS2 Class D
-6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,Christopher Bernard,Male,Master,Economics,12,SS2 Class A
-6142ea7d-17be-4111-9a2a-73ed562b0f79,Ryan Munoz,Male,Diploma,CRK/Islam,11,SS1 Class E
-759cde66-bacf-43d0-8b1f-9163ce9ff57f,Valerie Gray,Male,Diploma,Biology,11,SS2 Class B
-a0ee89ae-d453-4d32-8b0d-bb418d5288f1,Shannon Ray,Male,Bachelor,Physics,3,SS2 Class F
-a9488d99-0bbb-4599-91ce-5dd2b45ed1f0,Dylan Miller,Male,Diploma,Chemistry,11,SS2 Class D
-614ff3d7-19db-4ad0-9dd1-dfb23b982ef8,Mark Diaz,Female,Diploma,Intro. Tech,17,SS3 Class C
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,Male,Master,Mathematics,16,SS1 Class B
+8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,Javier Johnson,Female,Master,English Language,2,SS2 Class F
+9a1de644-815e-46d1-bb8f-aa1837f8a88b,Cristian Santos,Female,Bachelor,Government,20,SS3 Class A
+72ff5d2a-386e-4be0-ab65-a6a48b8148f6,Rhonda Smith,Male,Bachelor,Literature,1,SS3 Class F
+6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,Christopher Bernard,Male,Bachelor,Economics,14,SS2 Class D
+6142ea7d-17be-4111-9a2a-73ed562b0f79,Ryan Munoz,Female,Bachelor,CRK/Islam,23,SS1 Class A
+759cde66-bacf-43d0-8b1f-9163ce9ff57f,Valerie Gray,Female,PhD,Biology,22,SS2 Class D
+a0ee89ae-d453-4d32-8b0d-bb418d5288f1,Shannon Ray,Male,PhD,Physics,16,SS1 Class C
+a9488d99-0bbb-4599-91ce-5dd2b45ed1f0,Dylan Miller,Female,Master,Chemistry,17,SS1 Class E
+614ff3d7-19db-4ad0-9dd1-dfb23b982ef8,Mark Diaz,Female,Diploma,Intro. Tech,6,SS3 Class C
+ab9099a4-35a2-40ae-9af3-05535ec42e08,Timothy Wong,Male,Diploma,Social Studies,18,SS2 Class E
+88bd6407-2bcf-4e01-a28d-efe39bf00273,Carla Gray,Female,Bachelor,Physical Education,13,SS3 Class B
