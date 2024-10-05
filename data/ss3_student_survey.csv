@@ -1,0 +1,360 @@
+Student_ID,Reason_For_Performance,Access_To_Resources,Study_Hours_Per_Week,Health_Issues,Teacher_Support,Parental_Support,Stress_Level,Peer_Influence,Additional_Tutoring,Use_Of_Study_Groups,Exam_Anxiety
+fc3d3348-008d-4127-a104-61e32a25a888,Difficulty understanding topics,Yes,38,Yes,2,2,No,Yes,Yes,Yes,Yes
+b7e99aca-a970-45e1-8e46-d534c88a618e,Lack of resources,No,1,No,1,2,Yes,Yes,Yes,No,No
+4bf50b52-309d-458c-a7a0-c3d77c967f79,Lack of preparation,Yes,29,No,2,2,No,No,No,Yes,No
+da4bd9ca-eb5c-4467-80ba-cd647a0ecfea,Personal issues,Yes,21,No,3,4,No,Yes,Yes,Yes,No
+f5f59b22-0e8f-48e0-a84d-82e587f7e1fb,Lack of resources,No,28,No,1,4,Yes,No,No,No,Yes
+b758588d-ab73-495b-b44a-54b842c18a62,Lack of preparation,No,8,No,4,2,Yes,No,No,Yes,Yes
+ff002d4d-9020-49e4-bf9a-b5c29f044aed,Difficulty understanding topics,Yes,3,Yes,2,4,Yes,No,No,Yes,Yes
+e117dac3-119c-4ea3-a180-50815958a499,Confidence issues,Yes,36,No,2,4,No,Yes,No,Yes,No
+fcbb4e59-fbdd-4f7c-9c96-e9ec4d71c366,Health challenges,Yes,9,Yes,4,2,No,Yes,No,No,No
+1d8cbbac-43b4-49ef-a260-e70fe0ccedc5,Lack of resources,Yes,8,Yes,5,5,No,No,No,No,No
+9ad620ab-4821-4ddb-85b8-9cd927cb6f2a,Confidence issues,Yes,15,No,4,3,Yes,No,Yes,No,No
+0279b6a6-8f97-47b0-ad7c-e3c9b4a69f3c,Personal issues,Yes,29,Yes,1,1,No,Yes,No,No,Yes
+e21342b0-f1ee-4ba3-9343-2e611ca3c448,Personal issues,Yes,37,Yes,4,1,No,Yes,No,Yes,Yes
+8babce3b-2628-4bfb-a767-dceab0e6a969,Health challenges,No,10,Yes,5,4,No,Yes,No,No,Yes
+951f58d0-5e84-4058-95a8-04eb093923de,Personal issues,Yes,8,No,5,3,Yes,Yes,Yes,Yes,No
+dc570131-f8e1-4aa7-8bce-abdeeededb07,Confidence issues,No,19,Yes,5,1,No,Yes,Yes,Yes,No
+1a50aec3-aabc-45fa-bfe1-2e47ae9bec36,Lack of preparation,Yes,14,No,5,2,Yes,No,Yes,Yes,Yes
+e256a6dc-8f54-46b7-87b5-b2bc5a8aaeca,Lack of preparation,Yes,5,Yes,4,4,Yes,No,No,Yes,No
+e1a47e10-2d53-4dd0-8f8e-bc5accc56569,Confidence issues,Yes,17,Yes,5,2,No,Yes,Yes,No,No
+bc8f7d29-2dea-4493-8658-663a698c206f,Difficulty understanding topics,Yes,34,Yes,3,3,Yes,No,No,Yes,Yes
+dd334cc7-ab7f-489a-8d5f-4822696608aa,Confidence issues,No,14,Yes,3,2,Yes,No,Yes,No,Yes
+dbccc477-09e9-4b0a-9f46-529061ee411a,Confidence issues,No,20,No,1,4,Yes,No,Yes,No,No
+4e20fd1a-5983-46e3-b5d6-6ed4eb1fa9f2,Personal issues,Yes,9,Yes,1,4,Yes,Yes,Yes,Yes,Yes
+1d870966-0710-4430-b071-d87954c63cd8,Lack of preparation,Yes,36,Yes,1,5,Yes,No,Yes,No,No
+2db69edb-42de-4fcc-b86c-2ca2e08596db,Difficulty understanding topics,Yes,34,No,2,1,Yes,No,No,No,Yes
+504d281f-c953-4b63-ba81-edd9587ef344,Difficulty understanding topics,No,37,Yes,5,3,No,No,Yes,Yes,Yes
+82ec9f2d-fbf6-416f-9b30-80d56fb78271,Lack of preparation,Yes,24,Yes,1,2,No,Yes,No,No,Yes
+b572f3d0-0b5c-4a6a-8135-7e8c30a900ad,Confidence issues,Yes,34,No,5,3,No,Yes,Yes,Yes,No
+b82c9074-afd5-4ea5-89d7-fd6cce777f00,Personal issues,No,6,No,4,1,Yes,Yes,Yes,Yes,Yes
+abae4f43-bcae-4081-bdf0-70aaf0b5156b,Lack of preparation,Yes,36,Yes,4,4,Yes,No,Yes,Yes,Yes
+49732d6c-4dca-4fb7-801a-9a8bd56f0350,Difficulty understanding topics,Yes,23,No,4,5,No,Yes,No,No,No
+9479e1e6-c927-4d9b-ae0d-264835ce8841,Confidence issues,Yes,35,Yes,5,5,Yes,No,Yes,No,No
+77097749-527e-4cfa-a79a-c9aa9b4e2c24,Difficulty understanding topics,No,27,No,5,1,No,Yes,No,Yes,Yes
+83f4a9a9-48a6-49d0-95b5-2908a8aa7158,Confidence issues,No,11,No,5,2,Yes,No,No,Yes,Yes
+55cee5db-9e87-404c-a208-6977a9f25336,Health challenges,Yes,21,Yes,1,4,No,Yes,Yes,Yes,No
+c04a96c4-f3b6-4fe1-9184-332417e8392a,Health challenges,No,15,No,4,3,No,No,Yes,No,Yes
+39820cff-4f77-4665-ac3c-56403c20592f,Health challenges,No,21,No,4,4,Yes,Yes,Yes,Yes,No
+79a28903-fbe3-4b24-beae-00320bd4a990,Personal issues,Yes,30,No,3,4,No,No,Yes,No,No
+b24445a7-b7e5-4481-b1c6-81ec935f2b0a,Difficulty understanding topics,Yes,12,No,3,2,Yes,Yes,No,Yes,No
+f53d4330-cdda-44ba-ad06-e8cf3805f907,Confidence issues,No,30,No,4,2,No,No,No,No,No
+0cdb1ca4-76ec-4dd6-8498-e113b227462c,Health challenges,No,8,No,5,1,No,Yes,No,No,Yes
+8c41561b-e827-41b9-94a0-2e536d3ee1dc,Lack of resources,No,14,Yes,1,2,Yes,No,No,No,Yes
+464c04af-3d3f-4799-a072-95e97c0e8cd8,Confidence issues,Yes,18,Yes,3,3,No,Yes,No,Yes,No
+49257af1-b6aa-405b-93d5-f2f7709b7d97,Confidence issues,No,27,No,2,4,Yes,No,Yes,No,Yes
+b1a6b1f1-620e-49d3-bb33-f3d8269cd696,Health challenges,Yes,26,No,5,5,Yes,Yes,No,Yes,Yes
+10714d51-36c5-4dac-b4d7-e28e271e3ee2,Lack of resources,Yes,19,Yes,2,2,No,Yes,No,No,No
+34f3193c-0ff0-455c-aa70-2e2f7746d0ba,Difficulty understanding topics,No,31,No,4,5,No,No,Yes,No,Yes
+b20dcb6e-f231-4f17-9586-3a76c51155ff,Lack of resources,Yes,3,Yes,2,4,Yes,Yes,Yes,Yes,No
+addc3e13-ab3b-4d37-960c-95ee638c254c,Health challenges,No,8,Yes,1,4,Yes,No,No,Yes,No
+06e745f9-88bc-439c-9f4c-3b79fb10987f,Health challenges,Yes,22,No,1,2,Yes,Yes,No,Yes,Yes
+7631de9d-dde9-4863-a2bd-33886db99102,Confidence issues,No,8,No,5,4,No,No,Yes,No,No
+610cf373-4299-4aa4-8cdf-742b2e85cb21,Lack of preparation,Yes,12,No,5,2,No,Yes,Yes,No,No
+59970043-f3b1-425b-bff9-f5850d557b61,Difficulty understanding topics,No,36,No,3,4,Yes,No,No,Yes,Yes
+c7fee39f-1190-4938-a66f-d7f739669fa7,Personal issues,No,8,No,2,5,No,No,Yes,Yes,Yes
+c1156d6d-0a4e-4b70-a6d9-64a3f510ab53,Confidence issues,No,33,Yes,3,1,Yes,Yes,No,Yes,Yes
+33094d35-3f4d-4561-b319-c12507f194f9,Difficulty understanding topics,Yes,5,Yes,3,3,Yes,Yes,No,No,Yes
+ab61a7b1-793b-4c32-a050-04943d114802,Difficulty understanding topics,Yes,27,No,5,5,Yes,No,No,No,No
+9b749245-9b1b-4895-aaf4-3ab75e6fea07,Lack of resources,No,0,No,4,1,Yes,No,No,Yes,No
+1d5206ab-b7e6-427c-bf78-0e3ff6b751f7,Confidence issues,Yes,26,No,2,4,No,No,Yes,Yes,No
+ad66a1bd-9367-4a02-8fdc-6e1bedcb8cb6,Confidence issues,Yes,22,No,4,5,No,No,Yes,No,Yes
+658b2523-6014-4de9-b54a-d0a2e87466d7,Personal issues,No,32,No,5,3,Yes,No,No,No,No
+58e25888-0a83-41be-885a-ca4690e0f4a0,Health challenges,No,10,No,1,1,Yes,Yes,No,No,Yes
+f5f62c97-6efb-43b1-9b04-98637d7ddbed,Confidence issues,Yes,2,Yes,2,3,Yes,No,Yes,No,Yes
+6f7c15ea-272a-4d8e-b512-2df875b17a55,Difficulty understanding topics,No,1,No,4,2,Yes,No,No,No,No
+bb2488a3-d363-47b6-af81-cf4f7701f7bb,Confidence issues,No,36,No,5,2,No,Yes,No,No,Yes
+cc3ebdde-5ad5-4f06-b64d-7c877cd0129d,Difficulty understanding topics,Yes,13,No,4,2,No,Yes,No,Yes,Yes
+4e6384bb-3e49-4f43-b118-f68d6786d506,Lack of resources,Yes,8,Yes,1,2,No,No,No,No,Yes
+54aebd1b-8ce6-424d-bef5-9fe6ff233d5f,Lack of preparation,Yes,18,Yes,1,3,No,Yes,No,No,No
+455ac762-7428-4656-b3ee-4d3b5a104129,Lack of resources,Yes,15,Yes,3,4,Yes,Yes,Yes,Yes,Yes
+c31edbbc-f36c-462b-892e-6161be2d740a,Personal issues,Yes,39,No,1,1,No,Yes,No,No,Yes
+19bc143e-fb02-4ebb-8872-9a4d98c7472a,Difficulty understanding topics,Yes,33,Yes,4,3,No,Yes,Yes,Yes,No
+3a3c563e-4bd6-4ee6-b1b1-b099d52721e7,Lack of resources,Yes,14,Yes,1,1,No,Yes,Yes,No,No
+70c2903f-7a8d-43aa-b82a-65e048ca7651,Confidence issues,No,24,Yes,2,1,Yes,No,No,Yes,Yes
+0d270659-f72a-4a9b-af32-751e5738811d,Lack of resources,Yes,20,Yes,1,3,Yes,No,Yes,No,Yes
+4dc82a1e-f2f9-45fa-9016-4161cfa701cd,Difficulty understanding topics,Yes,2,No,3,1,No,Yes,Yes,No,No
+9b37a22b-6a8a-416f-83b2-90d08edddfcd,Personal issues,Yes,33,Yes,2,5,Yes,No,Yes,Yes,No
+39c6a1ca-9e50-4a42-8a6d-fda1989bc4da,Difficulty understanding topics,No,17,No,4,3,Yes,No,Yes,Yes,No
+9c10c572-0f6b-40d0-9efb-a58b9191b363,Confidence issues,Yes,33,No,2,2,No,No,No,No,No
+f295456e-1967-4f06-bd76-7e35f5c9b047,Lack of preparation,No,17,No,3,3,Yes,Yes,Yes,Yes,Yes
+3605bf54-a021-40ca-b531-968dc342bd2b,Confidence issues,Yes,30,No,3,1,Yes,No,Yes,Yes,No
+b4fb0eb9-49c1-4de7-bb42-06c5085b15fb,Confidence issues,No,15,Yes,2,5,Yes,No,No,Yes,No
+743b65a2-dc0f-4fcf-b3f6-fe0d48603b32,Personal issues,Yes,37,No,4,4,Yes,Yes,No,Yes,No
+ec856f37-3bc1-4987-aff8-754d1238d630,Personal issues,Yes,36,Yes,4,4,Yes,No,No,Yes,Yes
+8b6870b5-1d61-4ac3-acd5-e85932a447b2,Health challenges,Yes,30,Yes,1,3,Yes,Yes,Yes,Yes,Yes
+e88da719-2624-4b40-a5cb-63a2398d1ca6,Lack of preparation,No,19,Yes,3,4,Yes,Yes,Yes,No,Yes
+1247ea4e-2469-48e8-939e-198b44007d5a,Personal issues,Yes,22,No,2,1,No,No,No,Yes,Yes
+b321bf21-4dd8-4b85-b04d-337677fc9703,Difficulty understanding topics,Yes,14,No,3,5,Yes,No,No,Yes,Yes
+6e996e3e-e3b1-47fc-8a34-50fc9918ee46,Confidence issues,Yes,14,Yes,1,5,No,No,No,No,No
+93403fad-dc4a-456b-9601-6237ac9ed156,Lack of resources,No,22,Yes,4,2,No,Yes,No,No,No
+ffe3fa49-054f-42ff-b366-bad4964db03f,Lack of preparation,Yes,1,Yes,1,3,No,No,Yes,No,Yes
+44feacae-d248-49a7-ac1a-a554c3c75611,Lack of preparation,No,24,No,4,4,No,Yes,No,No,Yes
+2e76128b-4735-44f9-aa83-bf007135f221,Confidence issues,Yes,24,Yes,5,3,No,Yes,Yes,Yes,No
+8cd321b0-c2b0-4cfd-9045-dd1c668409e3,Lack of resources,Yes,20,Yes,1,4,Yes,No,Yes,Yes,No
+50843242-168b-4625-b46f-78910964fbbf,Difficulty understanding topics,Yes,19,No,3,4,Yes,Yes,No,No,Yes
+f85e06a1-1dad-49b2-92c2-1221409d3602,Lack of preparation,No,0,Yes,1,2,No,No,Yes,No,Yes
+69ca97d2-7644-44fd-8ae7-69edde8ede0b,Difficulty understanding topics,No,27,No,2,1,No,Yes,No,No,Yes
+a01ac992-7f9d-4e64-81a6-423b9f64eeed,Health challenges,Yes,5,Yes,5,4,No,No,Yes,Yes,No
+341c6494-0d36-4dfc-828e-bd7071299889,Health challenges,No,31,Yes,1,1,Yes,Yes,No,Yes,No
+b2c08394-e17f-49e1-b028-604649bc473f,Lack of preparation,Yes,21,No,4,1,No,Yes,No,No,No
+8d03c91e-4f8d-4238-a88b-78b5b5b453ca,Confidence issues,Yes,2,No,1,4,Yes,Yes,No,No,No
+e9b5c5cf-d766-4cda-be04-90593985fb62,Lack of preparation,Yes,31,Yes,4,2,Yes,No,No,Yes,No
+7f95897c-276a-46ce-9507-55d9a5d04d53,Lack of preparation,No,25,Yes,3,1,No,Yes,No,No,Yes
+d5b077e0-6a5d-432b-85ff-2c83b495db4e,Difficulty understanding topics,No,22,No,2,4,No,No,No,No,No
+3e652603-78e3-454b-baf1-4ff07b85179a,Health challenges,No,16,No,5,5,No,No,Yes,No,Yes
+ca3dd859-c5ce-499c-86b8-265911df12d7,Lack of resources,No,26,No,2,4,Yes,No,Yes,No,Yes
+ffb8102d-9475-4bc9-9641-8cedd664d264,Difficulty understanding topics,Yes,40,No,3,3,Yes,No,Yes,Yes,Yes
+62d60e93-6198-4d54-8fb8-7e6fe9d68f23,Health challenges,Yes,12,Yes,2,5,Yes,No,No,No,Yes
+70b7e868-d854-40f0-9fca-f0b719b17e80,Health challenges,No,30,Yes,4,2,No,No,No,No,No
+68f45bce-24e7-4e8e-b8f2-142303edd1f8,Personal issues,Yes,13,No,2,4,Yes,No,Yes,Yes,Yes
+b15516bc-9f8d-4d97-96ab-f2f143d88870,Difficulty understanding topics,No,1,No,4,2,No,No,Yes,No,No
+5110b492-f442-4e0b-a148-4bb3889b78d5,Personal issues,No,26,Yes,5,3,No,Yes,No,Yes,Yes
+a193c4b2-3c19-471d-9184-05ad9e11d2cd,Confidence issues,No,0,Yes,5,2,Yes,No,No,Yes,No
+6f18c108-1723-499d-bf2c-14a03a3c8a71,Lack of resources,Yes,17,Yes,4,1,Yes,Yes,Yes,Yes,No
+a23d4c2f-c2a7-4689-9933-918cfa745761,Lack of resources,Yes,30,No,2,3,Yes,Yes,Yes,Yes,Yes
+5ff595ea-5bc4-40f1-8b1a-269b0e5dd462,Lack of preparation,No,16,No,1,3,Yes,No,Yes,No,No
+87fa841a-3e83-491f-a544-0fe06e417d47,Personal issues,Yes,3,Yes,2,5,Yes,Yes,Yes,Yes,Yes
+9ea556aa-61ee-4c5b-9eef-580f9c07a751,Difficulty understanding topics,Yes,32,Yes,3,5,No,Yes,Yes,Yes,Yes
+e9af299d-7f67-4eec-bda7-0577aee1e86b,Lack of resources,No,24,Yes,3,2,Yes,No,Yes,No,No
+760debbb-3b70-43a1-a4a3-5cf29549c931,Lack of preparation,Yes,13,No,4,3,No,No,Yes,Yes,No
+9326dffd-5be4-4f51-9269-869861a11729,Lack of preparation,Yes,12,No,1,1,No,No,No,No,Yes
+4b943e30-b303-4438-be21-10d04bbe4aff,Difficulty understanding topics,No,11,Yes,3,2,No,No,No,Yes,Yes
+9b3d74bd-e91e-414e-8c8e-29e3f93e08d5,Difficulty understanding topics,Yes,27,Yes,5,3,No,No,Yes,Yes,No
+9ef2b93e-30ac-4d7b-a2f9-63a33810ae66,Personal issues,Yes,3,No,5,4,No,No,No,No,Yes
+b88ec318-c16d-43ed-ad81-f8bd402913ec,Lack of preparation,Yes,3,Yes,3,5,No,No,Yes,No,No
+e7457704-18df-4c3c-a0d4-de3d2303f6c6,Personal issues,No,14,Yes,1,5,No,No,Yes,Yes,Yes
+f8b38a8b-e05f-48bc-8a16-a06cc958e75e,Personal issues,Yes,34,No,4,3,No,No,Yes,No,No
+41c8ca8c-2a1f-455a-9499-da9945c45a3e,Difficulty understanding topics,Yes,13,No,1,4,Yes,No,Yes,No,No
+dc322c97-39c1-4262-b76c-8edec1101266,Difficulty understanding topics,Yes,6,Yes,3,3,No,No,No,Yes,No
+fadd7ea3-aca5-42fd-b966-442aad238d36,Confidence issues,Yes,4,Yes,2,5,Yes,Yes,Yes,No,Yes
+cdf974a7-d882-45c1-b79e-fd7065bcc272,Health challenges,No,32,Yes,2,2,Yes,No,No,Yes,Yes
+95a5bafa-431d-429f-ac1e-86d8bfbf397b,Lack of preparation,Yes,6,No,2,5,Yes,Yes,No,No,No
+e25d36eb-9e9a-4f83-8668-03ee78b2b549,Confidence issues,Yes,4,Yes,2,5,No,No,Yes,Yes,Yes
+102efde5-a5cc-4bf7-b8ab-854c9c2e58de,Lack of preparation,Yes,9,Yes,5,2,Yes,No,No,No,Yes
+7421ff46-637e-4b01-a2ba-e10e899ca782,Health challenges,No,34,Yes,5,4,No,No,No,No,Yes
+19597b5a-a7a8-4636-aa35-df59e2aa7a5d,Lack of resources,Yes,1,No,2,5,Yes,No,Yes,No,Yes
+687a4850-9d9b-4231-bd45-d8efd56ce8ea,Lack of resources,No,5,No,5,5,No,No,No,Yes,Yes
+08601833-479d-4cda-b396-ea37f065c817,Difficulty understanding topics,Yes,13,Yes,2,2,No,No,Yes,No,Yes
+fa53e34d-e6d5-401d-8b62-1d415e09a9ee,Lack of resources,Yes,11,Yes,1,3,No,Yes,No,Yes,Yes
+a446be72-364c-411a-a9ab-364a1777e8cb,Confidence issues,No,38,No,5,5,Yes,No,Yes,Yes,Yes
+0577aea9-f899-4246-98de-8ebba3b5cece,Personal issues,Yes,12,Yes,1,4,Yes,Yes,Yes,Yes,Yes
+c3e15a85-d46e-4104-9190-6f5034885a46,Difficulty understanding topics,No,12,No,1,1,Yes,Yes,Yes,Yes,No
+541c7a86-3ba5-4d2f-9ea4-5c19d0243d72,Lack of preparation,No,40,No,1,3,Yes,Yes,Yes,Yes,No
+ca3c6f5f-5bb5-440c-83cd-e2e321bddb41,Difficulty understanding topics,No,3,No,5,5,No,Yes,No,Yes,No
+52e2afd9-96bf-40ab-bce9-15e7c9d6a63b,Personal issues,No,9,Yes,2,2,Yes,No,No,No,Yes
+0d6a05b3-43ef-4016-ac9b-662e040a3aae,Lack of resources,Yes,32,No,2,2,Yes,Yes,Yes,Yes,No
+79eb4168-1045-46e5-bee3-eb791d181ee9,Lack of resources,Yes,17,Yes,3,4,No,No,No,Yes,Yes
+83639007-5cae-4610-872c-1fe372c22a16,Confidence issues,No,29,Yes,5,3,Yes,Yes,Yes,No,No
+80fb9296-73b6-409b-9bea-f6ac97fa7f04,Lack of preparation,Yes,29,No,2,2,No,No,No,Yes,No
+0b19f88e-9d77-445e-b206-c26938b77c07,Personal issues,No,6,Yes,5,5,Yes,Yes,No,No,No
+ddf275eb-e8a3-4341-8881-9065ba2c98ce,Health challenges,Yes,7,No,3,3,Yes,No,No,Yes,No
+75424646-4d37-4539-857d-d3b3a8addf36,Personal issues,No,12,Yes,1,2,Yes,No,No,Yes,No
+66d06371-d8e8-4ebb-ba9e-8eefffa361be,Lack of resources,Yes,12,No,4,2,No,Yes,Yes,Yes,No
+7d824264-1ba3-42e7-afa4-15e56d204496,Personal issues,No,39,Yes,3,3,No,No,Yes,Yes,Yes
+9bb96155-5275-4b94-94ae-af5ce63658c9,Personal issues,No,37,No,2,5,No,Yes,No,Yes,No
+466772ce-204e-478c-90d0-8d1125f934bf,Lack of resources,No,35,Yes,3,1,Yes,Yes,Yes,Yes,Yes
+370bc063-dd90-479e-b888-f6ed8d244e3e,Lack of preparation,No,14,No,2,5,Yes,Yes,Yes,No,Yes
+3a7e8e14-e359-4ee1-b399-1a476e191042,Health challenges,No,11,Yes,1,5,No,No,Yes,Yes,Yes
+74188109-d3d1-4f0f-96c4-38e469efafb1,Difficulty understanding topics,Yes,39,No,5,3,No,No,Yes,Yes,Yes
+2713582c-f41e-43ac-9fd2-31094140752c,Difficulty understanding topics,Yes,27,No,1,5,Yes,No,No,Yes,Yes
+bd21bc11-be9d-41ee-98b8-72456e8f75a1,Lack of resources,No,35,No,2,3,Yes,No,No,No,No
+8e6e5003-214f-4f12-8fd0-1cbd5f65c8ce,Health challenges,No,17,Yes,2,4,Yes,Yes,Yes,Yes,No
+de3b496f-6c45-46f6-8012-a0fff0ede303,Difficulty understanding topics,Yes,23,No,2,3,Yes,Yes,No,Yes,Yes
+39681c81-7b70-43b8-a81f-dec3279c658a,Lack of resources,No,26,Yes,4,3,No,Yes,Yes,Yes,No
+2e2fbf77-0769-49d6-8477-7442b18753e6,Difficulty understanding topics,No,8,Yes,1,1,No,No,No,No,No
+4f199ec0-c32d-4526-b3e4-110a45f50c52,Lack of resources,No,35,Yes,1,3,Yes,Yes,Yes,Yes,Yes
+01902620-59dc-4bd0-96fe-bfb9ebe9e207,Lack of resources,Yes,2,No,1,4,Yes,Yes,Yes,Yes,No
+2451e5a4-11d0-49b2-a699-cd99a847bce7,Personal issues,No,33,No,1,3,Yes,Yes,Yes,Yes,Yes
+07d924ce-f8c8-4fae-a217-8f84bdb025ff,Difficulty understanding topics,No,22,No,2,5,Yes,Yes,No,Yes,Yes
+914dcfae-f100-43a7-86de-b2f0530ac1c7,Difficulty understanding topics,No,25,Yes,2,1,Yes,No,Yes,Yes,No
+0d77c5a0-e222-46a6-95bf-be9798a21f1c,Confidence issues,Yes,24,No,5,4,No,Yes,Yes,No,Yes
+45ee432d-6a07-4213-b129-cec79b69554d,Difficulty understanding topics,No,13,No,5,4,Yes,No,No,No,No
+4d29d1ab-3455-42f7-81f7-c7ec0e0630cd,Lack of resources,Yes,19,Yes,4,2,Yes,Yes,Yes,Yes,Yes
+61554667-2112-407c-acfa-55b06e3f683a,Lack of resources,No,14,Yes,4,3,No,No,No,Yes,No
+8011316b-3ae8-4926-b423-ccde88575117,Difficulty understanding topics,No,36,Yes,5,3,No,No,No,Yes,Yes
+dcb33df3-13ee-4dc6-abd1-4d2c75b27455,Lack of preparation,Yes,8,No,1,1,No,No,Yes,Yes,Yes
+92ca525a-6de5-4332-9364-f3d05024bdc6,Personal issues,Yes,27,No,1,4,Yes,Yes,No,Yes,Yes
+6aedfdc7-a3e0-4309-b5a1-b94967884209,Personal issues,Yes,14,Yes,3,3,No,Yes,No,No,Yes
+168fae12-5ca2-40c9-ab76-07c9b08a4895,Health challenges,Yes,28,Yes,4,5,Yes,Yes,No,Yes,No
+3e49fd09-1b19-48b8-9830-20816fcc57dd,Lack of preparation,Yes,8,Yes,2,3,Yes,No,No,Yes,Yes
+5543fc3c-38b8-424e-96ea-57b3beed10b6,Personal issues,Yes,16,Yes,4,3,Yes,Yes,No,No,No
+3c7c1d85-25cf-4041-90a6-43fea53bc024,Health challenges,Yes,10,No,2,5,No,Yes,No,Yes,Yes
+2d5972c6-134a-4a2f-a7cf-705cc257cf73,Lack of resources,No,0,Yes,3,1,No,No,Yes,No,No
+46510367-cbdc-4318-8d85-a3d2a1a27485,Difficulty understanding topics,No,35,No,5,3,Yes,No,Yes,Yes,No
+81e0d489-5a18-42a3-8e61-4bcd97674900,Personal issues,No,9,No,3,4,Yes,Yes,Yes,Yes,No
+73b0a091-7634-4169-8f76-e38812fe28bf,Difficulty understanding topics,Yes,14,Yes,3,4,No,No,No,Yes,Yes
+7674456f-626d-419d-81cf-325298159d6c,Lack of resources,Yes,25,Yes,5,5,No,Yes,Yes,No,No
+7321bf6b-0a80-46ec-a558-2e16bd29ede9,Lack of resources,Yes,18,Yes,3,2,Yes,Yes,Yes,No,No
+0fd6f47e-f52d-4af2-a69e-d4c980599b93,Lack of preparation,Yes,28,No,2,5,No,No,Yes,Yes,Yes
+e62d2d06-cf9b-4558-9a7f-195b73557b9d,Lack of preparation,Yes,23,No,4,3,No,No,Yes,Yes,No
+7010ed13-b526-422d-bf6c-21f70a0537f0,Confidence issues,Yes,29,Yes,5,5,Yes,No,Yes,Yes,No
+85d2d0a6-8629-4b5d-b07d-f251fdb1429e,Difficulty understanding topics,No,35,Yes,5,1,Yes,Yes,Yes,No,Yes
+990f0c5b-adcc-4daf-969f-3ab3c6435300,Difficulty understanding topics,No,16,Yes,5,1,Yes,Yes,Yes,No,No
+598ddaec-eaaf-4543-a434-a678a9e27ba9,Lack of preparation,Yes,2,No,1,5,No,No,No,Yes,No
+4f40c22f-15b0-4530-b020-e992b576255e,Lack of preparation,No,3,Yes,5,4,No,No,No,Yes,Yes
+bd20563b-f275-45f3-9436-a7a8b3ecb951,Health challenges,Yes,2,No,4,2,No,No,No,Yes,Yes
+6c645c15-aba3-41cb-a561-e1e917ec889c,Personal issues,No,14,No,5,3,Yes,Yes,No,Yes,No
+5cd33369-04aa-41b7-9ca0-c428822c4d32,Health challenges,Yes,6,No,2,4,No,Yes,No,Yes,Yes
+7c7c404e-c422-403e-b29a-6339577bc55a,Lack of preparation,No,21,No,1,4,Yes,No,Yes,No,No
+e238fe93-bd17-45e8-95ca-69ab8a2e6a93,Health challenges,Yes,10,Yes,4,5,No,No,Yes,Yes,No
+56363094-a974-41db-89a9-d1c186cac6f4,Confidence issues,Yes,17,Yes,5,5,No,No,No,No,No
+218c6e1c-9e37-4f7a-842c-bc39e05b46c5,Lack of resources,No,39,No,5,3,Yes,No,Yes,Yes,No
+29890880-277d-4be9-a070-b6a198e52499,Difficulty understanding topics,No,2,Yes,2,3,No,No,Yes,No,No
+c566aa81-b15e-44f6-94d3-07952e4bebc4,Personal issues,No,22,Yes,5,5,Yes,No,No,No,No
+fc043f08-9207-4158-b277-1f63ada58417,Health challenges,No,13,No,1,4,Yes,Yes,Yes,Yes,Yes
+48223120-c4f9-4ccd-b630-a8a770cafdd8,Health challenges,No,1,Yes,4,4,No,Yes,No,No,Yes
+87079ad4-80be-4e35-a1c2-645ac7332304,Lack of preparation,No,4,Yes,1,3,No,No,Yes,Yes,Yes
+d11fc8c0-297c-44ff-b75d-599f6b2d5b09,Personal issues,No,5,Yes,4,5,Yes,Yes,Yes,No,No
+a4244f23-0d5b-47cd-8000-35f0df7d0dd7,Health challenges,No,20,Yes,4,2,No,Yes,Yes,Yes,No
+8df661da-5f07-41a5-9fc6-20ce7b07fd31,Lack of resources,Yes,30,Yes,2,1,Yes,Yes,No,Yes,Yes
+48f9e3d0-1fea-41e0-99e6-04b38412a335,Personal issues,No,31,No,2,1,No,No,Yes,Yes,No
+f24823ab-177a-4a5f-affe-33b3d4bf7a4b,Confidence issues,Yes,9,Yes,2,3,Yes,Yes,Yes,Yes,Yes
+fe9936a3-62db-4850-bc5b-f3a75fbbf0b1,Health challenges,No,13,No,4,2,No,Yes,No,Yes,No
+07374c86-397b-4f51-9ffa-46ef14e4180c,Confidence issues,No,37,Yes,2,3,Yes,No,Yes,No,No
+d6d441cc-195d-42f8-ae4a-9b5d519554e3,Confidence issues,No,23,Yes,1,1,Yes,No,Yes,No,Yes
+b231c60b-78f2-4e6b-946b-415deada79a3,Lack of preparation,Yes,3,No,4,4,No,Yes,Yes,No,No
+b49e04cc-c243-49e7-a387-eaf6d4c3a832,Health challenges,Yes,9,Yes,3,3,Yes,No,No,No,No
+01582463-9d87-46a0-b2d7-8bdd781799ff,Difficulty understanding topics,No,5,Yes,5,4,Yes,Yes,Yes,Yes,No
+871c0884-9bdf-40f2-ba2c-0f19f0b2a5d1,Lack of preparation,Yes,6,Yes,3,2,No,No,No,Yes,No
+cb3cf8ca-a392-4731-ab79-afcc3d0a5f0c,Lack of resources,No,34,Yes,2,4,Yes,No,Yes,No,Yes
+83efa9f3-a1c7-4c8a-8435-1b64893ad232,Lack of preparation,No,24,No,4,2,No,No,Yes,Yes,No
+15eacbcf-ab10-41ce-aa14-3cd82ff3cde4,Lack of preparation,No,11,No,4,4,Yes,No,No,Yes,Yes
+81e03a5e-8b48-4496-86ab-d4e7f4124360,Lack of preparation,Yes,23,No,4,5,No,Yes,Yes,No,Yes
+bc3536df-94f7-4dba-8581-1d2d1a89b71e,Personal issues,Yes,16,No,3,4,No,No,No,Yes,No
+d0421dfa-56ab-487a-8bc7-8e815a304528,Lack of resources,No,8,No,2,2,No,Yes,Yes,No,Yes
+b20507bb-fb16-4757-b6f1-86abaf475b49,Lack of preparation,No,26,No,4,5,Yes,Yes,Yes,No,Yes
+cfbe4fe9-2ea9-4542-a1b9-70d07a8104de,Difficulty understanding topics,No,21,No,2,4,No,No,Yes,Yes,Yes
+4b1f0d7b-0977-4513-b52a-7d25f1901b7e,Difficulty understanding topics,No,18,No,2,4,Yes,Yes,Yes,Yes,Yes
+33107475-ca86-4225-8b36-e356339b77a8,Lack of preparation,No,15,Yes,1,2,No,Yes,Yes,Yes,Yes
+eef16694-50ca-432d-8aba-590ee2c328aa,Confidence issues,Yes,9,No,3,4,No,No,Yes,Yes,Yes
+40d92bce-7930-4a20-8b04-0f49d0be73ee,Health challenges,Yes,8,No,3,3,No,Yes,No,No,Yes
+54f90429-a7de-42cc-9da4-f4a70c3ce284,Difficulty understanding topics,No,9,Yes,2,4,Yes,No,No,No,Yes
+5e368127-cca1-445c-9fdd-980a45f18619,Health challenges,No,15,Yes,3,4,Yes,No,No,No,Yes
+be4969ec-6667-43bb-a3b5-63606fdc0bad,Lack of resources,No,11,No,3,4,Yes,Yes,Yes,Yes,Yes
+ec9f9c54-5e0a-42ab-bf5d-b163b12b6680,Confidence issues,No,9,No,4,5,Yes,Yes,No,No,No
+14348f62-6cac-428c-ba22-006515260718,Confidence issues,Yes,37,Yes,3,1,Yes,No,Yes,No,Yes
+d284f54e-febe-40db-9a3a-61036e3c4532,Difficulty understanding topics,No,27,Yes,1,3,Yes,No,No,No,No
+523ae993-4b34-46bc-8ba4-35cc2e326567,Lack of preparation,Yes,35,No,3,5,No,Yes,No,No,No
+0ad7c9a2-7277-46ec-99fe-fbbc71a3fad2,Difficulty understanding topics,Yes,22,No,4,2,No,No,Yes,No,Yes
+cd14a03e-8359-4af6-9d01-f55f67fd64c4,Personal issues,Yes,17,Yes,4,5,No,No,Yes,No,No
+f3ea0184-28f4-43ce-aded-da80bff9507d,Personal issues,Yes,0,Yes,2,1,No,Yes,No,No,No
+08e895d7-702c-4821-8804-0fb7ad973b67,Personal issues,No,16,No,1,2,No,Yes,No,Yes,Yes
+9ae77eab-084a-4780-9136-f1f8f31046dc,Lack of preparation,Yes,29,Yes,5,2,No,No,No,No,Yes
+c359810a-71a6-414c-9f3c-44dc5ef787b8,Lack of resources,No,38,No,3,1,No,Yes,No,Yes,Yes
+1f652a87-333e-4344-bdbf-4bc1ffa623d0,Lack of preparation,No,29,No,5,2,No,Yes,No,No,Yes
+73b911d8-12f5-431a-9a52-d2ee22bf18f5,Personal issues,No,18,Yes,1,2,Yes,No,No,Yes,Yes
+71f2ce8f-b69f-48c3-a60f-d4202c33350c,Confidence issues,No,25,Yes,2,1,No,No,No,No,No
+b6391f04-2852-4385-99f2-dd0d4cc9f5f2,Health challenges,Yes,16,Yes,5,2,No,No,Yes,Yes,No
+a3404f08-b341-41b8-ad65-22b4b5a5f8e6,Lack of resources,No,32,No,2,3,No,Yes,No,No,Yes
+9ca8a5c4-2138-4fe0-8d38-bbd8fba6abf7,Health challenges,Yes,16,Yes,1,3,No,Yes,No,No,Yes
+a4704d48-5128-49b1-b8ed-e0ca20156a72,Health challenges,Yes,2,No,2,5,Yes,Yes,No,No,No
+ae1b9f69-7740-4831-b331-874912fc7a87,Lack of resources,No,27,Yes,1,4,No,No,Yes,Yes,Yes
+e0c1ff1e-20da-4972-9832-1ee48471b4b0,Difficulty understanding topics,No,36,Yes,3,3,No,No,No,Yes,No
+f75d1e3c-c48d-4650-ae95-22d696792482,Lack of resources,No,13,No,3,2,Yes,No,No,No,Yes
+b596ca7c-ef4a-4a88-9299-e5052976aab2,Confidence issues,Yes,2,No,4,5,Yes,No,No,No,Yes
+a29319fa-3240-47a1-8027-ab7d143029a9,Difficulty understanding topics,Yes,13,Yes,2,3,No,No,No,Yes,No
+8892042f-9d4b-4bf9-8d85-e9c7a0017720,Difficulty understanding topics,No,31,Yes,4,5,Yes,Yes,Yes,Yes,No
+2b2bb8e9-a417-4093-80a8-a23d17eaec83,Lack of resources,Yes,27,Yes,5,2,No,No,No,No,No
+93a74792-c561-48dc-a436-4fcdf2d3f761,Personal issues,No,27,Yes,5,4,No,No,Yes,Yes,Yes
+a08dd21b-e395-4cb1-bf7f-6c0a07c0d116,Confidence issues,No,7,No,5,5,Yes,Yes,No,No,No
+9b4e164b-5716-4c2e-b43a-da2a76e5ae78,Personal issues,Yes,7,Yes,5,1,No,No,No,No,No
+2179e3f0-6612-4ab4-b9b2-1e6e586a346a,Lack of resources,Yes,33,Yes,5,1,No,No,No,No,Yes
+8fc85fc0-83d5-4ceb-9edb-b8eec2baf0e0,Confidence issues,No,38,Yes,4,3,No,No,Yes,Yes,Yes
+776abf09-3de2-4859-91b1-943c1b2ededb,Personal issues,Yes,32,No,1,3,No,Yes,No,No,No
+4a4b5563-0cf4-47ef-98c8-a61624108e9a,Personal issues,No,27,Yes,4,1,Yes,No,Yes,No,No
+9d896047-dd39-4793-a257-a4a2f204be89,Lack of preparation,Yes,15,No,5,1,No,Yes,Yes,No,No
+dd84cacc-f672-4464-bf8e-a40a6b0ae0e3,Difficulty understanding topics,No,40,Yes,3,4,Yes,Yes,No,Yes,No
+500e15c0-b89b-4f7f-93e3-4c35ef0a573d,Personal issues,Yes,3,Yes,4,1,Yes,No,Yes,No,Yes
+7f8e5483-28ca-4a1d-835b-ec2c3098f7b2,Health challenges,No,5,Yes,5,4,Yes,No,No,No,No
+7faeb748-7781-421e-83c5-01cbfef7d9ea,Lack of preparation,No,12,No,1,1,Yes,No,No,Yes,No
+78786140-ac2a-4f71-a77d-95f1d7c4fe9c,Confidence issues,Yes,12,Yes,3,2,Yes,No,No,Yes,Yes
+12d2fa06-49e1-4d13-8da0-04955cce5ba9,Difficulty understanding topics,No,30,No,1,4,No,Yes,Yes,Yes,Yes
+c3affcfe-734a-4ca3-8116-e3fc62e7c1a6,Lack of resources,No,37,Yes,1,5,Yes,Yes,No,No,No
+8255da61-9a3b-4319-b2f5-751024eeb4a6,Lack of preparation,No,27,Yes,1,3,No,Yes,Yes,Yes,Yes
+554227de-b6ad-448b-a314-d0c809f64405,Difficulty understanding topics,No,2,No,5,2,No,Yes,Yes,No,Yes
+74fd33d1-84f2-4d0f-b947-4bfacdd0b4d4,Confidence issues,No,11,Yes,3,1,Yes,No,No,No,Yes
+9cf20859-ee6e-4e72-93f5-91dc23c8afdb,Lack of resources,Yes,18,Yes,5,2,No,No,No,No,Yes
+f791f1e5-43f9-4d6b-b97e-be8798cf1188,Personal issues,No,37,Yes,2,4,Yes,Yes,Yes,No,No
+c6b28def-f8d8-47f1-886c-6544a7d4cf50,Lack of preparation,No,25,Yes,2,2,No,No,No,Yes,No
+b8adad87-3a40-45dd-93df-d9079416e4dc,Health challenges,Yes,7,Yes,5,5,Yes,Yes,Yes,No,No
+2ba6adb3-7afe-4114-9561-c8130d259caa,Personal issues,Yes,16,No,1,3,Yes,No,No,No,No
+25d4a0fc-6154-4765-9756-ba9cc64c9647,Personal issues,No,19,Yes,3,3,Yes,No,Yes,No,No
+1c221cea-b355-46a5-b2bd-92f29293f705,Personal issues,Yes,29,No,1,3,Yes,No,No,Yes,Yes
+504e2687-70e7-4756-84d9-145e30d73df7,Health challenges,Yes,19,No,3,2,No,No,No,Yes,Yes
+b0c4a01c-69b7-40fa-a6c4-32f66b352f85,Health challenges,Yes,24,No,1,1,Yes,No,Yes,Yes,No
+50521700-6077-46a3-8685-abaa7a768555,Lack of preparation,Yes,16,Yes,3,4,Yes,Yes,Yes,No,Yes
+e980f808-75ac-424c-ac55-aef7f4e95734,Confidence issues,No,29,Yes,5,1,Yes,Yes,No,Yes,No
+31383975-7bf3-4a34-9c2d-fa9743ad3d62,Lack of preparation,No,26,Yes,4,1,No,Yes,Yes,Yes,Yes
+8edec44d-476c-468c-bf1b-e0d0f5141058,Health challenges,No,10,Yes,2,5,Yes,No,No,Yes,Yes
+f910abb3-f105-4252-b990-e2c94c6a70f4,Personal issues,Yes,32,No,1,3,Yes,No,No,No,No
+b47a1c5b-b0b3-4015-b510-2852b4746349,Confidence issues,No,13,Yes,4,5,Yes,Yes,No,Yes,No
+49a22441-0ac4-4e85-8a5b-1aff257f7595,Health challenges,No,21,No,5,5,No,No,No,No,No
+41a64fed-a7ed-48d8-b13f-8f8cec8be537,Confidence issues,Yes,21,Yes,5,1,No,No,No,Yes,Yes
+23245211-4588-4c1b-b238-48498fe069b6,Personal issues,No,3,No,5,5,Yes,No,Yes,Yes,Yes
+69ce1e4e-19a6-42c9-8d70-0ea43b9b2d45,Personal issues,No,12,No,2,2,Yes,Yes,Yes,Yes,Yes
+edd97a1a-fa58-4b27-8ce3-e7c3f6eab3a0,Confidence issues,Yes,20,No,3,2,No,Yes,No,Yes,No
+ef5e4376-a723-4b72-a82b-163a286ed390,Lack of preparation,Yes,19,No,1,5,No,Yes,No,Yes,Yes
+a55990e7-4910-4ade-9238-0bf24988e418,Difficulty understanding topics,Yes,14,No,4,5,No,Yes,No,Yes,No
+16e6e5c0-c4cb-494f-a86e-8e630f25477d,Confidence issues,Yes,10,No,5,3,Yes,Yes,Yes,Yes,No
+f64e3dfc-bfbe-4c7a-afc5-97382fb21e66,Difficulty understanding topics,No,20,Yes,3,2,No,No,Yes,No,No
+e5a4983b-a383-489a-9b2c-6ac89c678393,Health challenges,Yes,33,No,5,1,Yes,Yes,Yes,No,Yes
+1e0ef546-b0b6-4edf-8f9c-4027c5144d98,Personal issues,No,2,Yes,5,1,Yes,No,No,Yes,Yes
+27372b52-7a6a-4107-a231-9050f5159494,Lack of preparation,No,28,No,2,2,No,Yes,No,No,Yes
+8c9aa1e9-b3b2-4337-aa74-dbb75fa5e0aa,Lack of preparation,Yes,40,Yes,4,2,No,Yes,No,No,No
+37e9d2e2-d35a-407a-aa02-17d0cd4f8b2b,Lack of resources,Yes,38,Yes,5,3,Yes,Yes,No,Yes,Yes
+b42a0456-8736-4a84-b25e-134d86879aa9,Lack of preparation,Yes,12,Yes,4,5,No,Yes,Yes,Yes,No
+741423b5-0e3e-45f2-8f06-71c7720b274b,Confidence issues,No,0,Yes,5,1,Yes,No,No,No,Yes
+74f0beae-6a59-43ce-8364-35e321c71aa3,Health challenges,No,1,No,2,3,No,Yes,No,Yes,Yes
+b928e23f-4ee4-434e-8e92-0136ac3a812f,Health challenges,No,30,Yes,5,4,Yes,No,No,No,No
+fe7ee362-8a89-40f0-9052-91d3b34c6c73,Personal issues,Yes,7,Yes,3,5,No,No,No,Yes,Yes
+11ab3d11-e4eb-4000-af40-d1620f6ce9bf,Confidence issues,No,19,Yes,1,5,Yes,No,Yes,Yes,No
+fa740cc8-a43a-4b7a-840d-487422ab7752,Personal issues,No,4,Yes,2,1,Yes,Yes,No,Yes,Yes
+6b9cd71c-f6ba-445b-a558-71e3bab2b77d,Health challenges,Yes,35,No,5,3,No,No,Yes,Yes,Yes
+aec76a82-148b-4376-a02a-4e5760a399d4,Lack of preparation,Yes,25,Yes,2,3,No,No,No,Yes,No
+ba54e920-2099-4180-8762-3997649f7d88,Personal issues,No,18,No,5,4,No,No,Yes,Yes,Yes
+4c61845e-fa7e-4d94-85d1-fb63c194f97f,Lack of resources,Yes,10,Yes,2,2,No,No,No,Yes,Yes
+8b60c511-b816-4aeb-ac6a-7c8576876c62,Personal issues,No,38,Yes,5,3,Yes,No,No,Yes,No
+d2c7bffb-6118-433b-882c-cd1e6c93a791,Personal issues,Yes,3,Yes,5,2,No,No,No,No,Yes
+e23ddfaa-efad-49e9-841c-147e9d6b9b62,Lack of resources,No,12,Yes,4,2,No,No,Yes,No,Yes
+34c1c3ea-3d9c-4e64-8401-5cede39836bb,Lack of preparation,No,38,No,3,3,Yes,No,Yes,No,Yes
+08987462-980c-495c-99d4-5deb1139fa12,Lack of resources,No,24,Yes,3,4,Yes,Yes,No,No,No
+b40a9181-ac09-4db7-9908-6e477249f62c,Lack of preparation,Yes,40,No,3,3,No,No,No,No,Yes
+ac2b0cfc-c5c5-4060-9911-21e793d563ae,Health challenges,No,39,No,2,4,No,Yes,No,Yes,No
+4d406f1b-3ca5-4e29-9217-1bf3d18183d1,Lack of preparation,No,34,No,2,3,Yes,No,No,No,Yes
+4ceda164-69df-44e9-b896-41dd8570b59f,Difficulty understanding topics,Yes,4,Yes,1,4,No,No,Yes,No,No
+6d5d0477-adc2-4178-a041-16122cd58759,Lack of resources,No,24,No,4,1,Yes,Yes,No,Yes,Yes
+abdd1a8f-a4b0-4c89-b10b-ce9c582b91ee,Personal issues,Yes,34,Yes,2,3,No,No,Yes,Yes,Yes
+26332018-6883-4c6e-aa94-4054b2414482,Lack of preparation,Yes,39,Yes,5,1,Yes,Yes,Yes,Yes,No
+d96e684f-3db0-474e-b938-878a89b5aab0,Difficulty understanding topics,No,37,No,4,5,No,Yes,No,Yes,Yes
+b523c0de-db87-429c-8cfd-0fc139b02e2a,Confidence issues,Yes,10,No,1,5,Yes,Yes,No,Yes,No
+2253e706-87ad-4b26-8eaa-58416aa0426d,Lack of resources,No,26,No,2,2,Yes,No,Yes,No,Yes
+ec170298-143d-45b3-a58e-83dd548c1d84,Personal issues,No,20,No,4,2,No,Yes,No,No,Yes
+17abb863-5efe-4f4f-98dd-bbc073253aa3,Lack of resources,Yes,6,Yes,2,3,No,No,Yes,No,Yes
+8f10d33e-abe4-4e7d-b96c-1163966be275,Personal issues,Yes,36,No,4,4,No,No,Yes,No,Yes
+de95d695-3579-4143-bab9-9428378e6510,Lack of preparation,Yes,31,Yes,4,4,Yes,No,No,Yes,Yes
+1e086f20-bdd1-41b0-b64a-b6ec30a5648e,Lack of resources,No,29,Yes,2,5,Yes,No,Yes,Yes,No
+7a9a8ef5-c11b-41c4-bfe3-f366bf337a15,Health challenges,Yes,7,No,3,5,No,Yes,Yes,No,No
+9aba0f15-b214-4062-be1a-963eea18d32c,Lack of preparation,Yes,16,Yes,2,2,Yes,No,No,No,Yes
+ea45ba41-6589-4da1-b45a-f934b42a2d93,Confidence issues,Yes,22,Yes,2,4,Yes,Yes,No,No,Yes
+c68813fe-5255-4c75-8d55-119e3d44cb2c,Lack of preparation,No,3,No,1,5,No,No,Yes,Yes,Yes
+889d4b76-775c-40b5-a173-0c4848769153,Difficulty understanding topics,No,19,No,5,2,Yes,Yes,Yes,Yes,No
+42f5b3f5-4ef4-434d-9bf8-6f3ca6129a1c,Lack of resources,Yes,10,Yes,1,5,Yes,No,No,No,No
+d6f89f7a-c2fa-4da8-b830-8631b8f0188e,Health challenges,Yes,22,No,1,5,No,Yes,No,No,No
+5ee68495-3400-49c3-aa11-905b51facefa,Health challenges,Yes,28,No,5,2,Yes,Yes,Yes,Yes,Yes
+54720d2d-3239-4ffb-a704-6f254b91b8cb,Personal issues,Yes,25,No,5,1,No,Yes,No,Yes,Yes
+d5574241-91dd-49bf-a13d-2de93ae28023,Lack of preparation,No,35,Yes,4,2,No,No,No,No,No
+f1f7d904-1307-4157-98c1-28e7d6cd3155,Health challenges,No,20,No,1,4,Yes,No,Yes,No,No
+9e2a7324-0f79-48a7-9f8a-14bd74bd0c93,Lack of resources,Yes,37,Yes,3,3,No,Yes,No,No,No
+9dd43675-ef14-4064-aab0-7015a3422e50,Lack of preparation,No,21,Yes,2,5,Yes,Yes,No,Yes,Yes
+8787ea21-0448-4a22-8308-aa5e694d7b00,Lack of preparation,No,17,Yes,2,2,No,No,Yes,Yes,Yes
+d02b1243-8091-4ac1-8463-750e49646b96,Lack of resources,No,14,No,1,3,Yes,No,Yes,Yes,Yes
+261e2555-863e-4f2a-98a8-06efeb053fc4,Lack of resources,No,5,Yes,5,3,Yes,Yes,Yes,No,No
+86c5d1d6-9ea9-4508-b122-75923db02235,Lack of preparation,Yes,11,No,5,2,No,No,No,Yes,Yes
+d90dd19b-d3fb-4043-af1d-5a1a4ccb2355,Lack of resources,No,26,Yes,3,5,Yes,No,Yes,No,No
+dbb44021-fdde-44af-a75b-395a14a34f7f,Personal issues,No,15,No,3,3,Yes,No,No,Yes,No
+17efa621-081c-49d4-8274-37eba65f7b8a,Lack of preparation,Yes,1,Yes,4,5,Yes,Yes,Yes,Yes,No
+8d7dd772-608e-4f5c-a117-727067c0518b,Lack of resources,No,10,Yes,1,1,Yes,No,Yes,Yes,No
+7ff6b824-152a-4aec-abdf-cb41b3eda8f1,Lack of preparation,Yes,37,Yes,4,5,No,No,No,No,No
+ecf32053-af36-48cc-9308-7974ec95b3ac,Lack of resources,Yes,31,No,3,5,Yes,No,Yes,No,Yes
+90422eb7-8b04-4f53-a639-49d447c68688,Confidence issues,Yes,17,Yes,1,3,Yes,No,Yes,No,No
