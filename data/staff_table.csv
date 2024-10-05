@@ -1,0 +1,50 @@
+Staff_ID,Name,Position,Pay Grade,Years of Experience,Education Level,Date of Hire,Full-time
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,Teacher,3,27,PhD,1997-05-14,True
+37f8a88b-17fc-495a-87a0-ca6e0822e8f3,Lance Hoffman,Teacher,5,14,PhD,2007-05-07,True
+de8a774b-cf36-458b-8737-819096da1dac,Robert Wolfe,Teacher,6,16,Bachelor's,2003-02-04,True
+1a2a73ed-562b-4f79-8374-59eef50bea63,Brent Abbott,Teacher,5,7,PhD,2002-09-11,True
+1ff49b78-8946-4e85-b59c-de66bacfb3d0,Jamie Arnold,Teacher,6,0,PhD,2021-04-28,True
+11ce5dd2-b45e-41f0-b139-d32c93cd59bf,Darren Roberts,Teacher,6,10,High School,2020-06-02,True
+a2bc372f-7412-4293-8729-4739614ff3d7,Carla Kelly,Teacher,3,2,Bachelor's,2015-10-25,False
+a28defe3-9bf0-4273-9247-6f57a5e5a5ab,Nicholas Martin,Teacher,5,16,Master's,2002-11-10,False
+af42e12f-3838-4326-8e94-4239b02b61c4,Randy Brown,Teacher,4,2,High School,2018-11-29,True
+e9c349e0-3602-48ac-90f1-bc81448aaa9e,Sherri Edwards,Teacher,6,16,Master's,2006-08-18,False
+23bed01d-43cf-4fde-a493-3b83757750a9,Justin Baker,Teacher,3,10,PhD,2007-08-12,True
+ff50bde4-3825-47b8-9cab-cc97663f1c97,Ms. Ann Williams MD,Teacher,6,1,Associate's,2018-07-10,True
+61b1cd22-6280-4c45-9043-5a1098ae4334,Julie King,Teacher,6,5,PhD,2020-08-01,True
+ae849217-1d53-434b-b881-39b9ae270da7,Nicole Mack,Teacher,3,25,Bachelor's,1998-02-08,True
+f42d47cc-00d4-4f59-b427-3ca3287d06ca,Michelle Stanton,Teacher,3,11,Associate's,2009-12-28,True
+d777a477-4c66-40a8-a013-ac6ededa4e16,Lisa Hernandez,Principal,7,3,Associate's,2010-12-10,False
+00257ad1-eb22-43dd-87c5-421eec24a3c5,Katherine Rodriguez,Vice Principal,6,22,Bachelor's,2021-02-14,True
+e0c53cb8-3da9-42a9-8ed4-2f1a3d4cbf37,Angela Dennis,Vice Principal,7,8,High School,2024-02-06,True
+a8e56e0c-20de-435d-a031-d750c40db9b4,Joshua Baker,Counselor,5,2,PhD,2007-06-15,True
+badcc32a-c159-4f53-8a0f-4efbedcd465e,Michelle Ross,Counselor,5,10,Bachelor's,2007-11-26,True
+3985c3cf-3f76-4e1d-9efa-21977394988f,Alex Spencer,Librarian,5,17,PhD,2001-05-14,True
+3a9bedd4-0f12-49e0-a18f-f6b6b535106e,Andre Rivera,Librarian,5,19,PhD,2001-11-25,False
+21df306f-8a0b-4c33-b6d8-393a7c441fe7,Sonya Johnston,School Nurse,6,13,Associate's,2018-04-19,True
+a8b317fa-18d0-452b-9825-bc5430beb45f,Jeff Owens,School Nurse,4,0,High School,2014-12-17,False
+ba6c34ab-6712-403a-8f84-4fef1931e9ee,Scott Wright,Administrative Assistant,3,13,Associate's,2010-11-06,True
+766ecb15-474e-4c19-aef9-12766c006f61,Thomas Ramos,Administrative Assistant,4,4,PhD,1997-09-11,False
+03c72ba8-d605-4770-8a63-f881ffd0f9d5,Tammy Allison,Administrative Assistant,2,5,Associate's,2006-12-14,True
+e7067ef4-66aa-4385-9d59-ba7136b82481,James Galloway,Administrative Assistant,2,17,Bachelor's,2022-07-22,True
+f512c4c3-b253-4218-ac4a-37ea490617f2,Rachel Stanley,Administrative Assistant,3,10,Master's,1999-05-28,True
+944528c0-0ef8-42d6-b7fd-564637bb3eec,Amy Edwards,Janitor,1,6,High School,2012-04-14,True
+284d82e5-87f7-41fb-9a4b-d9caeb5cf467,Jordan York,Janitor,1,14,High School,2012-08-11,False
+1eb0e38a-675d-45af-bc36-5296dca02eec,Laura Riley,Janitor,3,28,High School,2013-05-05,True
+85d51695-90b2-4633-956b-8c0ca8499b92,Dean Santiago,Cafeteria Worker,1,23,Bachelor's,2001-12-02,True
+4ccc9bc2-a53f-4a28-abf3-e3fc21813d25,Timothy Walls,Cafeteria Worker,2,21,High School,2008-07-04,True
+89a2688b-12c1-46e0-9998-5f15ff002d4d,Derek Mahoney,Cafeteria Worker,1,5,High School,2021-02-20,True
+d5704f32-702c-4d20-a862-18b848f4ef12,Elizabeth Riggs,Cafeteria Worker,3,7,PhD,1994-12-29,True
+1a84a51a-a9d3-47c7-ae87-905e4ca415ea,Brandy Wilson,Cafeteria Worker,1,11,High School,2017-01-12,True
+35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Christina Walters,Bus Driver,4,24,Bachelor's,2009-12-03,True
+0d01280f-d89a-40c0-a87d-1c78e7c421c7,Jeff Hill,Bus Driver,3,13,High School,2004-10-07,True
+295d6fbf-430f-401d-bad4-09e2a319dcb4,Kristen Patterson,Bus Driver,3,10,High School,1998-02-11,False
+093923de-8bab-4e3b-a628-6bfbe767dcea,Lauren Hernandez,Bus Driver,4,29,Associate's,1996-01-06,True
+f8e1daa7-cbce-4bde-aede-db07e623a689,Stephanie Clark,Bus Driver,2,19,Associate's,2014-10-08,True
+dfed2c43-e256-46dc-8f54-86b7c7b5b2bc,Marc Moore,IT Technician,4,29,Associate's,2020-09-12,True
+2dea9493-0658-463a-a98c-206fe1a47e10,Evelyn Galvan,IT Technician,3,22,Associate's,2002-10-06,False
+09e9db0a-df46-4290-a1ee-411a1bac27a7,Courtney Velasquez,IT Technician,3,26,Master's,2005-04-01,True
+3170f437-a8f7-4f5a-860e-df5b39118497,Donald Jones,Security Guard,2,30,Bachelor's,2005-04-17,True
+d7fa2d8d-fb2c-4025-adf4-e62d6651529e,Teresa Wilson,Security Guard,3,1,Bachelor's,2000-02-12,True
+6f3f920c-98b8-44cc-9bc0-44fc09cb3942,Richard Graham,Security Guard,3,27,PhD,1998-03-25,True
+b572f3d0-0b5c-4a6a-8135-7e8c30a900ad,Joseph Drake,Security Guard,3,3,Associate's,2005-09-08,True

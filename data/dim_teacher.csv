@@ -1,13 +1,16 @@
-Teacher_ID,Name,Gender,Qualification,Subject_Specialization,Years_of_Experience,class_ID
-bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,Male,Master,Mathematics,16,SS1 Class B
-8b9d2434-e465-4150-bd9c-66b3ad3c2d6d,Javier Johnson,Female,Master,English Language,2,SS2 Class F
-9a1de644-815e-46d1-bb8f-aa1837f8a88b,Cristian Santos,Female,Bachelor,Government,20,SS3 Class A
-72ff5d2a-386e-4be0-ab65-a6a48b8148f6,Rhonda Smith,Male,Bachelor,Literature,1,SS3 Class F
-6c307511-b2b9-437a-a8df-6ec4ce4a2bbd,Christopher Bernard,Male,Bachelor,Economics,14,SS2 Class D
-6142ea7d-17be-4111-9a2a-73ed562b0f79,Ryan Munoz,Female,Bachelor,CRK/Islam,23,SS1 Class A
-759cde66-bacf-43d0-8b1f-9163ce9ff57f,Valerie Gray,Female,PhD,Biology,22,SS2 Class D
-a0ee89ae-d453-4d32-8b0d-bb418d5288f1,Shannon Ray,Male,PhD,Physics,16,SS1 Class C
-a9488d99-0bbb-4599-91ce-5dd2b45ed1f0,Dylan Miller,Female,Master,Chemistry,17,SS1 Class E
-614ff3d7-19db-4ad0-9dd1-dfb23b982ef8,Mark Diaz,Female,Diploma,Intro. Tech,6,SS3 Class C
-ab9099a4-35a2-40ae-9af3-05535ec42e08,Timothy Wong,Male,Diploma,Social Studies,18,SS2 Class E
-88bd6407-2bcf-4e01-a28d-efe39bf00273,Carla Gray,Female,Bachelor,Physical Education,13,SS3 Class B
+Teacher_ID,Staff_ID,Name,Teacher Type,Subject specialization
+f1773294-a4d2-4eae-8d0d-4d73ca1c3218,ac5dd02d-ccc6-4ffd-9e3e-ce609ef6a99f,Rhonda Everett,Regular,Mathematics
+aaab5830-79cf-404f-9b29-317a6675d5e2,e5dfc7af-6403-44bc-9486-0c2d1659ddcc,Tyler Jones,Regular,English Language
+fcce5213-6789-4d92-b33c-4c369a690cad,dfff8cea-2687-4a98-bf0f-666225e050f6,Tristan Johnson,Regular,Civic Education
+25ba4f03-4765-4069-82ec-0fc37c0a5867,58c158e2-7951-452b-a1cc-8ba7ee854c72,Oscar Smith,Regular,Economics
+1f47d902-1ba8-4a91-b462-f144c49b9e62,a50939f1-8505-491d-b28b-ffb9d5bf1edb,Kenneth Rios,Regular,CRS/Islam
+3b172319-7f4d-45b9-bd45-7a09402d35e8,8c68720e-d787-463d-87b8-f95cb265a6c2,Eric Anderson,Regular,Physics
+079bf5e6-2275-41e2-b141-52c7a0dcec7d,f8815f18-5f34-4d6c-bbf7-5b573a0e618f,Ryan Hernandez,Regular,Chemistry
+d48f5ba3-0d87-4c72-bce0-5a63197f9b8d,b639529e-2929-4691-ac93-e43d9e5e8cfe,Catherine Thompson,Regular,Biology
+06d903c0-ad98-4301-bf85-c4e711776f21,931414e8-510e-441f-be67-e8e90a88e6ca,David Lopez,Corper,Geography
+9ac60306-61f4-4c2b-add9-3719f8d9bf33,25dfac07-5806-4bae-ba5f-afdb512339fa,Joshua Martin,Corper,Computer Science
+4d8131f5-2719-4fdb-93b3-618bade05648,c4bd9b59-7fd9-496f-ae5a-88566791659c,Jimmy Flores,Regular,Government
+c29a988f-18a9-4210-9f8c-2c519f3936a5,a5b1c799-54ce-4ee7-81e5-8eeef9c0fd4d,Kara Roberts,Regular,Commerce
+851b5f38-c069-4f1d-a93c-94131396a289,712dd406-ec1b-45dd-a829-56cfba81d860,Brian Mendoza,Regular,Literature
+774d34f5-caf0-4226-be00-0029c47f9b05,66d137f6-0659-410a-8ede-79b61deb979d,Connie Howard,Regular,Social Studies
+7f764fce-a97e-4131-8b26-f0a333b1cca4,38de6b6e-86c4-4e42-955b-c34631f55560,Pamela Gonzalez,Regular,Accounting
