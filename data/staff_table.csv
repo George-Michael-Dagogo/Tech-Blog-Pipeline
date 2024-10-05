@@ -1,50 +1,40 @@
-Staff_ID,Name,Position,Pay Grade,Years of Experience,Education Level,Date of Hire,Full-time
-bdd640fb-0667-4ad1-9c80-317fa3b1799d,"Chidiebube, Olumide",Teacher,5,25,Bachelor's,2002-02-08,True
-bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,"Efe, Fumnanya",Teacher,4,26,PhD,1997-05-14,True
-37f8a88b-17fc-495a-87a0-ca6e0822e8f3,"Ejiroghene, Ifeanyi",Teacher,4,7,Associate's,2009-12-02,True
-a65ed389-b74d-4fb1-b2e7-06298fadc1a6,"Lawali, Emeka",Teacher,5,15,PhD,2007-05-07,True
-de8a774b-cf36-458b-8737-819096da1dac,"Abubakar, Ayokunle",Teacher,6,19,High School,2017-07-11,True
-47229389-571a-4876-ac30-7511b2b9437a,"Ndidi, Ebuka",Teacher,5,15,Associate's,2001-03-21,False
-6142ea7d-17be-4111-9a2a-73ed562b0f79,"Yaƙubu, Ademola",Teacher,3,12,High School,2005-07-12,True
-0b1f9163-ce9f-457f-83b7-a3a69a8dca03,"Chinwendu, Lawali",Teacher,4,15,Master's,2010-11-05,True
-d453dd32-4b0d-4b41-8d52-88f1142c3fe8,"Ife, Okeke",Teacher,6,0,PhD,2021-04-28,True
-11ce5dd2-b45e-41f0-b139-d32c93cd59bf,"Ejike, Ime",Teacher,4,26,High School,2014-08-07,False
-daf61a26-146d-4f31-bc37-7a4c4a15544d,"Musa, Ufuoma",Teacher,3,18,Associate's,2020-10-02,True
-d58842de-a2bc-472f-b412-b29347294739,"Chike, Chinonso",Teacher,5,26,Bachelor's,1999-08-22,True
-b3aa7efe-4458-4885-ab90-99a435a240ae,"Ejiro, Aminu",Teacher,5,27,High School,2013-01-12,True
-29d4beef-3eab-4dcb-baa8-0dd488bd6407,"Folami, Chike",Teacher,6,26,Master's,2006-02-22,False
-af42e12f-3838-4326-8e94-4239b02b61c4,"Adebowale, Chidiebube",Teacher,3,29,Bachelor's,2020-01-17,False
-0837b8a3-d261-47ab-baa2-e4f90e51f30d,"Lekan, Chi",Principal,7,19,Bachelor's,2006-10-17,True
-9132b63e-f162-47e4-a9c3-49e03602f8ac,"Uzochi, Olusegun",Vice Principal,7,5,Bachelor's,2001-02-19,True
-a491f0b2-ea1f-4a65-a27a-984d654821d0,"Oluwafemi, Ufuoma",Vice Principal,6,26,Master's,1999-01-17,True
-89fa6a68-8fb5-427b-beb7-99193f22faf8,"Segun, Ayokunle",Counselor,4,14,Bachelor's,2017-03-03,True
-5cabcc97-663f-4c97-9562-69f0e5d7b875,"Okorie, Bukar",Counselor,5,10,Associate's,2024-09-05,True
-c17af08a-1745-46d8-be57-0ddf827050a8,"Otobong, Aliyu",Librarian,3,14,High School,2020-08-04,True
-ae340454-cac5-468c-a8f4-9481a0a04dc4,"Ejiroghene, Bitrus",Librarian,5,19,Master's,2012-08-26,True
-77d21e02-ff01-4f99-988c-24c961b1cd22,"Chika, Chuks",School Nurse,6,26,PhD,2002-04-20,True
-ae270da7-02f0-4b90-b143-262fdc5c0eed,"Azubuike, Adisa",School Nurse,5,20,High School,2015-03-19,True
-a4161293-c4c2-42e3-844e-a7c8c0398710,"Onyeka, Ayokunle",Administrative Assistant,2,8,Bachelor's,1998-02-08,True
-f42d47cc-00d4-4f59-b427-3ca3287d06ca,"Sani, Shehu",Administrative Assistant,3,2,Bachelor's,2023-12-01,False
-1b3dbd5c-e9a1-4a6f-81f7-6d1c2dbc2134,"Ndubuisi, Adewale",Administrative Assistant,3,3,Bachelor's,2020-01-05,True
-5fb8d16c-2720-497d-b2eb-d6899be578c7,"Ndidi, Sani",Administrative Assistant,2,16,Associate's,2010-12-10,False
-00257ad1-eb22-43dd-87c5-421eec24a3c5,"Aminu, Ayomide",Administrative Assistant,3,11,PhD,2004-06-26,True
-e0f3eab0-5cec-4eb5-add9-68311ca35cfb,"Ejiroghene, Musa",Janitor,1,15,Bachelor's,2001-12-10,True
-14296c07-f26b-4776-913e-4de2e0c53cb8,"Chukwuemeka, Kyauta",Janitor,2,12,High School,2016-09-19,True
-c40db9b4-885f-4e66-82b6-d2c5fa5d3100,"Olufemi, Uduak",Janitor,2,21,Associate's,1998-08-11,True
-43dac043-2a45-42ab-8cbf-edb0f264accc,"Ademola, Adeola",Cafeteria Worker,3,5,PhD,2020-12-07,True
-8a0f4efb-edcd-465e-b638-6821f6e07cc0,"Chima, Yaƙubu",Cafeteria Worker,1,26,Associate's,2016-02-24,True
-5f987c71-a65e-488e-abf3-ad39fec21bbe,"Uzoma, Chinweuba",Cafeteria Worker,1,8,Master's,2021-09-30,True
-1064005c-3985-43cf-bf76-be1d1efa2197,"Ɗanjuma, Babajide",Cafeteria Worker,2,18,Bachelor's,1995-05-23,True
-01d74256-3860-4ab6-96a4-02f23ae8cc93,"Ndidi, Chi",Cafeteria Worker,3,18,High School,2015-12-30,True
-080aadfb-e7c9-4b26-9141-25c63a9bedd4,"Akachi, Aminu",Bus Driver,3,3,Bachelor's,1996-11-19,True
-36d8393a-7c44-4fe7-ab42-20a7474a493b,"Afolabi, Chi",Bus Driver,2,10,PhD,1998-09-23,True
-c8dcd19f-3e35-4128-b900-f7f993829b43,"Azubuike, Dayo",Bus Driver,4,21,Master's,2018-12-26,True
-6e595ed3-a8b3-47fa-98d0-752b1825bc54,"Lanre, Chibuike",Bus Driver,2,24,Bachelor's,2007-06-20,True
-ac619e63-0dde-49a6-baa4-b71add2467ac,"Uduakobong, Chinwendu",Bus Driver,3,25,High School,1996-07-30,False
-1bf90e27-dc96-425e-8cf3-a17156dc8907,"Ɗanjuma, Chidiegwu",IT Technician,4,30,Associate's,2000-07-04,True
-2ef91276-6c00-4f61-a3e2-fcb472d8567d,"Ndidi, Chinweuba",IT Technician,5,16,Bachelor's,2008-08-21,True
-db20a56e-dc81-4fe7-8eda-8bbb71710434,"Yalwa, Bitrus",IT Technician,3,14,PhD,1997-09-11,False
-03c72ba8-d605-4770-8a63-f881ffd0f9d5,"Ibrahim, Azubuike",Security Guard,2,9,High School,2022-07-21,True
-7b3a4e3e-7c52-4a17-a80a-c07a2a935d62,"Adedayo, Ade",Security Guard,2,25,Associate's,2020-09-12,True
-fc3d3348-008d-4127-a104-61e32a25a888,"Toyin, Yaƙubu",Security Guard,3,8,Master's,2002-09-19,True
-f512c4c3-b253-4218-ac4a-37ea490617f2,"Chinonso, Ige",Security Guard,2,19,PhD,2014-08-13,True
+Staff_ID,Name,Gender,Position,Pay Grade,Years of Experience,Education Level,Date of Hire,Full-time
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,"Onyeka, Lekan",Male,Teacher,4,4,Bachelor's,2002-02-08,True
+bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,"Kelechi, Obi",Male,Teacher,3,13,PhD,1997-05-14,True
+37f8a88b-17fc-495a-87a0-ca6e0822e8f3,"Ayokunle, Ese",Female,Teacher,4,22,Associate's,2009-12-02,True
+a65ed389-b74d-4fb1-b2e7-06298fadc1a6,"Chinonso, Chikere",Female,Teacher,4,6,PhD,2007-05-07,True
+de8a774b-cf36-458b-8737-819096da1dac,"Muhammadu, Ekenedilichukwu",Male,Teacher,6,23,High School,2017-07-11,True
+47229389-571a-4876-ac30-7511b2b9437a,"Itoro, Ekene",Male,Teacher,4,25,Associate's,2001-03-21,False
+6142ea7d-17be-4111-9a2a-73ed562b0f79,"Opeyemi, Ejiro",Female,Teacher,3,15,High School,2005-07-12,True
+0b1f9163-ce9f-457f-83b7-a3a69a8dca03,"Chidiegwu, Babajide",Male,Teacher,5,5,Master's,2010-11-05,True
+d453dd32-4b0d-4b41-8d52-88f1142c3fe8,"Olayinka, Uche",Male,Teacher,4,17,PhD,2021-04-28,True
+11ce5dd2-b45e-41f0-b139-d32c93cd59bf,"Bello, Akuchi",Male,Teacher,5,16,High School,2014-08-07,False
+daf61a26-146d-4f31-bc37-7a4c4a15544d,"Chukwuma, Aliyu",Female,Teacher,5,11,Associate's,2020-10-02,True
+d58842de-a2bc-472f-b412-b29347294739,"Olamide, Ifiok",Male,Teacher,4,16,Bachelor's,1999-08-22,True
+b3aa7efe-4458-4885-ab90-99a435a240ae,"Kayin, Ekenedilichukwu",Female,Teacher,5,2,High School,2013-01-12,True
+29d4beef-3eab-4dcb-baa8-0dd488bd6407,"Olanrewaju, Ejiroghene",Male,Teacher,3,14,Master's,2006-02-22,False
+af42e12f-3838-4326-8e94-4239b02b61c4,"Chinwendu, Umukoro",Male,Teacher,3,12,Bachelor's,2020-01-17,False
+0837b8a3-d261-47ab-baa2-e4f90e51f30d,"Chinweike, Chinedu",Female,Principal,7,16,Bachelor's,2006-10-17,True
+9132b63e-f162-47e4-a9c3-49e03602f8ac,"Uzochi, Temitope",Male,Vice Principal,7,17,Bachelor's,2001-02-19,True
+a491f0b2-ea1f-4a65-a27a-984d654821d0,"Eseoghene, Ekwueme",Female,Librarian,5,10,Master's,1999-01-17,True
+89fa6a68-8fb5-427b-beb7-99193f22faf8,"Ife, Okoro",Female,Librarian,3,5,Bachelor's,2017-03-03,True
+5cabcc97-663f-4c97-9562-69f0e5d7b875,"Efemena, Akuchi",Female,School Nurse,6,2,Associate's,2024-09-05,True
+c17af08a-1745-46d8-be57-0ddf827050a8,"Chidiebele, Ikenna",Female,School Nurse,6,28,High School,2020-08-04,True
+ae340454-cac5-468c-a8f4-9481a0a04dc4,"Jatau, Ejike",Male,Administrative Assistant,2,11,Master's,2012-08-26,True
+77d21e02-ff01-4f99-988c-24c961b1cd22,"Chi, Olalekan",Male,Administrative Assistant,4,11,PhD,2002-04-20,True
+ae270da7-02f0-4b90-b143-262fdc5c0eed,"Chidiegwu, Uduakobong",Female,Administrative Assistant,3,17,High School,2015-03-19,True
+a4161293-c4c2-42e3-844e-a7c8c0398710,"Olufemi, Ebuka",Female,Cleaner,3,10,Bachelor's,1998-02-08,True
+f42d47cc-00d4-4f59-b427-3ca3287d06ca,"Oghenero, Chijindum",Female,Cleaner,3,26,Bachelor's,2023-12-01,False
+1b3dbd5c-e9a1-4a6f-81f7-6d1c2dbc2134,"Alhaji, Ademola",Male,Cleaner,3,24,Bachelor's,2020-01-05,True
+5fb8d16c-2720-497d-b2eb-d6899be578c7,"Olujimi, Onyebuchi",Female,Vendor,2,9,Associate's,2010-12-10,False
+00257ad1-eb22-43dd-87c5-421eec24a3c5,"Toyin, Jatau",Female,Vendor,1,26,PhD,2004-06-26,True
+e0f3eab0-5cec-4eb5-add9-68311ca35cfb,"Efemena, Emem",Female,Vendor,3,24,Bachelor's,2001-12-10,True
+14296c07-f26b-4776-913e-4de2e0c53cb8,"Ɗanjuma, Ayodele",Male,Vendor,1,23,High School,2016-09-19,True
+c40db9b4-885f-4e66-82b6-d2c5fa5d3100,"Ɗanjuma, Olawale",Male,Vendor,3,14,Associate's,1998-08-11,True
+43dac043-2a45-42ab-8cbf-edb0f264accc,"Chike, Shehu",Female,Bus Driver,3,21,PhD,2020-12-07,True
+8a0f4efb-edcd-465e-b638-6821f6e07cc0,"Ademola, Adewale",Female,Bus Driver,3,21,Associate's,2016-02-24,True
+5f987c71-a65e-488e-abf3-ad39fec21bbe,"Adetokunbo, Umar",Male,Lab attendant,5,29,Master's,2021-09-30,True
+1064005c-3985-43cf-bf76-be1d1efa2197,"Ayuba, Udo",Male,Lab attendant,3,9,Bachelor's,1995-05-23,True
+01d74256-3860-4ab6-96a4-02f23ae8cc93,"Adebowale, Bukar",Male,Lab attendant,5,18,High School,2015-12-30,True
+080aadfb-e7c9-4b26-9141-25c63a9bedd4,"Okorie, Onyekachi",Female,Security Guard,2,24,Bachelor's,1996-11-19,True
+36d8393a-7c44-4fe7-ab42-20a7474a493b,"Ikechukwu, Segun",Female,Security Guard,4,28,PhD,1998-09-23,True
