@@ -1,50 +1,50 @@
 Staff_ID,Name,Position,Pay Grade,Years of Experience,Education Level,Date of Hire,Full-time
-bdd640fb-0667-4ad1-9c80-317fa3b1799d,Daniel Doyle,Teacher,3,27,PhD,1997-05-14,True
-37f8a88b-17fc-495a-87a0-ca6e0822e8f3,Lance Hoffman,Teacher,5,14,PhD,2007-05-07,True
-de8a774b-cf36-458b-8737-819096da1dac,Robert Wolfe,Teacher,6,16,Bachelor's,2003-02-04,True
-1a2a73ed-562b-4f79-8374-59eef50bea63,Brent Abbott,Teacher,5,7,PhD,2002-09-11,True
-1ff49b78-8946-4e85-b59c-de66bacfb3d0,Jamie Arnold,Teacher,6,0,PhD,2021-04-28,True
-11ce5dd2-b45e-41f0-b139-d32c93cd59bf,Darren Roberts,Teacher,6,10,High School,2020-06-02,True
-a2bc372f-7412-4293-8729-4739614ff3d7,Carla Kelly,Teacher,3,2,Bachelor's,2015-10-25,False
-a28defe3-9bf0-4273-9247-6f57a5e5a5ab,Nicholas Martin,Teacher,5,16,Master's,2002-11-10,False
-af42e12f-3838-4326-8e94-4239b02b61c4,Randy Brown,Teacher,4,2,High School,2018-11-29,True
-e9c349e0-3602-48ac-90f1-bc81448aaa9e,Sherri Edwards,Teacher,6,16,Master's,2006-08-18,False
-23bed01d-43cf-4fde-a493-3b83757750a9,Justin Baker,Teacher,3,10,PhD,2007-08-12,True
-ff50bde4-3825-47b8-9cab-cc97663f1c97,Ms. Ann Williams MD,Teacher,6,1,Associate's,2018-07-10,True
-61b1cd22-6280-4c45-9043-5a1098ae4334,Julie King,Teacher,6,5,PhD,2020-08-01,True
-ae849217-1d53-434b-b881-39b9ae270da7,Nicole Mack,Teacher,3,25,Bachelor's,1998-02-08,True
-f42d47cc-00d4-4f59-b427-3ca3287d06ca,Michelle Stanton,Teacher,3,11,Associate's,2009-12-28,True
-d777a477-4c66-40a8-a013-ac6ededa4e16,Lisa Hernandez,Principal,7,3,Associate's,2010-12-10,False
-00257ad1-eb22-43dd-87c5-421eec24a3c5,Katherine Rodriguez,Vice Principal,6,22,Bachelor's,2021-02-14,True
-e0c53cb8-3da9-42a9-8ed4-2f1a3d4cbf37,Angela Dennis,Vice Principal,7,8,High School,2024-02-06,True
-a8e56e0c-20de-435d-a031-d750c40db9b4,Joshua Baker,Counselor,5,2,PhD,2007-06-15,True
-badcc32a-c159-4f53-8a0f-4efbedcd465e,Michelle Ross,Counselor,5,10,Bachelor's,2007-11-26,True
-3985c3cf-3f76-4e1d-9efa-21977394988f,Alex Spencer,Librarian,5,17,PhD,2001-05-14,True
-3a9bedd4-0f12-49e0-a18f-f6b6b535106e,Andre Rivera,Librarian,5,19,PhD,2001-11-25,False
-21df306f-8a0b-4c33-b6d8-393a7c441fe7,Sonya Johnston,School Nurse,6,13,Associate's,2018-04-19,True
-a8b317fa-18d0-452b-9825-bc5430beb45f,Jeff Owens,School Nurse,4,0,High School,2014-12-17,False
-ba6c34ab-6712-403a-8f84-4fef1931e9ee,Scott Wright,Administrative Assistant,3,13,Associate's,2010-11-06,True
-766ecb15-474e-4c19-aef9-12766c006f61,Thomas Ramos,Administrative Assistant,4,4,PhD,1997-09-11,False
-03c72ba8-d605-4770-8a63-f881ffd0f9d5,Tammy Allison,Administrative Assistant,2,5,Associate's,2006-12-14,True
-e7067ef4-66aa-4385-9d59-ba7136b82481,James Galloway,Administrative Assistant,2,17,Bachelor's,2022-07-22,True
-f512c4c3-b253-4218-ac4a-37ea490617f2,Rachel Stanley,Administrative Assistant,3,10,Master's,1999-05-28,True
-944528c0-0ef8-42d6-b7fd-564637bb3eec,Amy Edwards,Janitor,1,6,High School,2012-04-14,True
-284d82e5-87f7-41fb-9a4b-d9caeb5cf467,Jordan York,Janitor,1,14,High School,2012-08-11,False
-1eb0e38a-675d-45af-bc36-5296dca02eec,Laura Riley,Janitor,3,28,High School,2013-05-05,True
-85d51695-90b2-4633-956b-8c0ca8499b92,Dean Santiago,Cafeteria Worker,1,23,Bachelor's,2001-12-02,True
-4ccc9bc2-a53f-4a28-abf3-e3fc21813d25,Timothy Walls,Cafeteria Worker,2,21,High School,2008-07-04,True
-89a2688b-12c1-46e0-9998-5f15ff002d4d,Derek Mahoney,Cafeteria Worker,1,5,High School,2021-02-20,True
-d5704f32-702c-4d20-a862-18b848f4ef12,Elizabeth Riggs,Cafeteria Worker,3,7,PhD,1994-12-29,True
-1a84a51a-a9d3-47c7-ae87-905e4ca415ea,Brandy Wilson,Cafeteria Worker,1,11,High School,2017-01-12,True
-35ebd32d-9ad6-40ab-8821-2ddb45b89cd9,Christina Walters,Bus Driver,4,24,Bachelor's,2009-12-03,True
-0d01280f-d89a-40c0-a87d-1c78e7c421c7,Jeff Hill,Bus Driver,3,13,High School,2004-10-07,True
-295d6fbf-430f-401d-bad4-09e2a319dcb4,Kristen Patterson,Bus Driver,3,10,High School,1998-02-11,False
-093923de-8bab-4e3b-a628-6bfbe767dcea,Lauren Hernandez,Bus Driver,4,29,Associate's,1996-01-06,True
-f8e1daa7-cbce-4bde-aede-db07e623a689,Stephanie Clark,Bus Driver,2,19,Associate's,2014-10-08,True
-dfed2c43-e256-46dc-8f54-86b7c7b5b2bc,Marc Moore,IT Technician,4,29,Associate's,2020-09-12,True
-2dea9493-0658-463a-a98c-206fe1a47e10,Evelyn Galvan,IT Technician,3,22,Associate's,2002-10-06,False
-09e9db0a-df46-4290-a1ee-411a1bac27a7,Courtney Velasquez,IT Technician,3,26,Master's,2005-04-01,True
-3170f437-a8f7-4f5a-860e-df5b39118497,Donald Jones,Security Guard,2,30,Bachelor's,2005-04-17,True
-d7fa2d8d-fb2c-4025-adf4-e62d6651529e,Teresa Wilson,Security Guard,3,1,Bachelor's,2000-02-12,True
-6f3f920c-98b8-44cc-9bc0-44fc09cb3942,Richard Graham,Security Guard,3,27,PhD,1998-03-25,True
-b572f3d0-0b5c-4a6a-8135-7e8c30a900ad,Joseph Drake,Security Guard,3,3,Associate's,2005-09-08,True
+bdd640fb-0667-4ad1-9c80-317fa3b1799d,"Chidiebube, Olumide",Teacher,5,25,Bachelor's,2002-02-08,True
+bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,"Efe, Fumnanya",Teacher,4,26,PhD,1997-05-14,True
+37f8a88b-17fc-495a-87a0-ca6e0822e8f3,"Ejiroghene, Ifeanyi",Teacher,4,7,Associate's,2009-12-02,True
+a65ed389-b74d-4fb1-b2e7-06298fadc1a6,"Lawali, Emeka",Teacher,5,15,PhD,2007-05-07,True
+de8a774b-cf36-458b-8737-819096da1dac,"Abubakar, Ayokunle",Teacher,6,19,High School,2017-07-11,True
+47229389-571a-4876-ac30-7511b2b9437a,"Ndidi, Ebuka",Teacher,5,15,Associate's,2001-03-21,False
+6142ea7d-17be-4111-9a2a-73ed562b0f79,"Yaƙubu, Ademola",Teacher,3,12,High School,2005-07-12,True
+0b1f9163-ce9f-457f-83b7-a3a69a8dca03,"Chinwendu, Lawali",Teacher,4,15,Master's,2010-11-05,True
+d453dd32-4b0d-4b41-8d52-88f1142c3fe8,"Ife, Okeke",Teacher,6,0,PhD,2021-04-28,True
+11ce5dd2-b45e-41f0-b139-d32c93cd59bf,"Ejike, Ime",Teacher,4,26,High School,2014-08-07,False
+daf61a26-146d-4f31-bc37-7a4c4a15544d,"Musa, Ufuoma",Teacher,3,18,Associate's,2020-10-02,True
+d58842de-a2bc-472f-b412-b29347294739,"Chike, Chinonso",Teacher,5,26,Bachelor's,1999-08-22,True
+b3aa7efe-4458-4885-ab90-99a435a240ae,"Ejiro, Aminu",Teacher,5,27,High School,2013-01-12,True
+29d4beef-3eab-4dcb-baa8-0dd488bd6407,"Folami, Chike",Teacher,6,26,Master's,2006-02-22,False
+af42e12f-3838-4326-8e94-4239b02b61c4,"Adebowale, Chidiebube",Teacher,3,29,Bachelor's,2020-01-17,False
+0837b8a3-d261-47ab-baa2-e4f90e51f30d,"Lekan, Chi",Principal,7,19,Bachelor's,2006-10-17,True
+9132b63e-f162-47e4-a9c3-49e03602f8ac,"Uzochi, Olusegun",Vice Principal,7,5,Bachelor's,2001-02-19,True
+a491f0b2-ea1f-4a65-a27a-984d654821d0,"Oluwafemi, Ufuoma",Vice Principal,6,26,Master's,1999-01-17,True
+89fa6a68-8fb5-427b-beb7-99193f22faf8,"Segun, Ayokunle",Counselor,4,14,Bachelor's,2017-03-03,True
+5cabcc97-663f-4c97-9562-69f0e5d7b875,"Okorie, Bukar",Counselor,5,10,Associate's,2024-09-05,True
+c17af08a-1745-46d8-be57-0ddf827050a8,"Otobong, Aliyu",Librarian,3,14,High School,2020-08-04,True
+ae340454-cac5-468c-a8f4-9481a0a04dc4,"Ejiroghene, Bitrus",Librarian,5,19,Master's,2012-08-26,True
+77d21e02-ff01-4f99-988c-24c961b1cd22,"Chika, Chuks",School Nurse,6,26,PhD,2002-04-20,True
+ae270da7-02f0-4b90-b143-262fdc5c0eed,"Azubuike, Adisa",School Nurse,5,20,High School,2015-03-19,True
+a4161293-c4c2-42e3-844e-a7c8c0398710,"Onyeka, Ayokunle",Administrative Assistant,2,8,Bachelor's,1998-02-08,True
+f42d47cc-00d4-4f59-b427-3ca3287d06ca,"Sani, Shehu",Administrative Assistant,3,2,Bachelor's,2023-12-01,False
+1b3dbd5c-e9a1-4a6f-81f7-6d1c2dbc2134,"Ndubuisi, Adewale",Administrative Assistant,3,3,Bachelor's,2020-01-05,True
+5fb8d16c-2720-497d-b2eb-d6899be578c7,"Ndidi, Sani",Administrative Assistant,2,16,Associate's,2010-12-10,False
+00257ad1-eb22-43dd-87c5-421eec24a3c5,"Aminu, Ayomide",Administrative Assistant,3,11,PhD,2004-06-26,True
+e0f3eab0-5cec-4eb5-add9-68311ca35cfb,"Ejiroghene, Musa",Janitor,1,15,Bachelor's,2001-12-10,True
+14296c07-f26b-4776-913e-4de2e0c53cb8,"Chukwuemeka, Kyauta",Janitor,2,12,High School,2016-09-19,True
+c40db9b4-885f-4e66-82b6-d2c5fa5d3100,"Olufemi, Uduak",Janitor,2,21,Associate's,1998-08-11,True
+43dac043-2a45-42ab-8cbf-edb0f264accc,"Ademola, Adeola",Cafeteria Worker,3,5,PhD,2020-12-07,True
+8a0f4efb-edcd-465e-b638-6821f6e07cc0,"Chima, Yaƙubu",Cafeteria Worker,1,26,Associate's,2016-02-24,True
+5f987c71-a65e-488e-abf3-ad39fec21bbe,"Uzoma, Chinweuba",Cafeteria Worker,1,8,Master's,2021-09-30,True
+1064005c-3985-43cf-bf76-be1d1efa2197,"Ɗanjuma, Babajide",Cafeteria Worker,2,18,Bachelor's,1995-05-23,True
+01d74256-3860-4ab6-96a4-02f23ae8cc93,"Ndidi, Chi",Cafeteria Worker,3,18,High School,2015-12-30,True
+080aadfb-e7c9-4b26-9141-25c63a9bedd4,"Akachi, Aminu",Bus Driver,3,3,Bachelor's,1996-11-19,True
+36d8393a-7c44-4fe7-ab42-20a7474a493b,"Afolabi, Chi",Bus Driver,2,10,PhD,1998-09-23,True
+c8dcd19f-3e35-4128-b900-f7f993829b43,"Azubuike, Dayo",Bus Driver,4,21,Master's,2018-12-26,True
+6e595ed3-a8b3-47fa-98d0-752b1825bc54,"Lanre, Chibuike",Bus Driver,2,24,Bachelor's,2007-06-20,True
+ac619e63-0dde-49a6-baa4-b71add2467ac,"Uduakobong, Chinwendu",Bus Driver,3,25,High School,1996-07-30,False
+1bf90e27-dc96-425e-8cf3-a17156dc8907,"Ɗanjuma, Chidiegwu",IT Technician,4,30,Associate's,2000-07-04,True
+2ef91276-6c00-4f61-a3e2-fcb472d8567d,"Ndidi, Chinweuba",IT Technician,5,16,Bachelor's,2008-08-21,True
+db20a56e-dc81-4fe7-8eda-8bbb71710434,"Yalwa, Bitrus",IT Technician,3,14,PhD,1997-09-11,False
+03c72ba8-d605-4770-8a63-f881ffd0f9d5,"Ibrahim, Azubuike",Security Guard,2,9,High School,2022-07-21,True
+7b3a4e3e-7c52-4a17-a80a-c07a2a935d62,"Adedayo, Ade",Security Guard,2,25,Associate's,2020-09-12,True
+fc3d3348-008d-4127-a104-61e32a25a888,"Toyin, Yaƙubu",Security Guard,3,8,Master's,2002-09-19,True
+f512c4c3-b253-4218-ac4a-37ea490617f2,"Chinonso, Ige",Security Guard,2,19,PhD,2014-08-13,True
