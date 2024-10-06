@@ -1,16 +1,16 @@
 Teacher_ID,Staff_ID,Name,Teacher Type,Subject specialization
-c8dcd19f-3e35-4128-b900-f7f993829b43,bdd640fb-0667-4ad1-9c80-317fa3b1799d,"Akachi, Amadi",Regular,Mathematics
-30beb45f-6835-44f2-8eb8-1f9d7914c120,bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,"Kelechi, Dayo",Regular,English Language
-6e595ed3-a8b3-47fa-98d0-752b1825bc54,37f8a88b-17fc-495a-87a0-ca6e0822e8f3,"Emeka, Chi",Corper,Civic Education
-778eedb3-693d-4fbc-ac6f-a6115ab33edf,a65ed389-b74d-4fb1-b2e7-06298fadc1a6,"Salisu, Adebayo",Regular,Economics
-ac619e63-0dde-49a6-baa4-b71add2467ac,de8a774b-cf36-458b-8737-819096da1dac,"Umaru, Obinna",Regular,CRS/Islam
-1931e9ee-a56c-4941-bbf2-4050a748dbcf,47229389-571a-4876-ac30-7511b2b9437a,"Oluwasegun, Abdullahi",Regular,Physics
-56dc8907-ba6c-44ab-a712-303a0f844fef,6142ea7d-17be-4111-9a2a-73ed562b0f79,"Ekene, Ebuka",Corper,Chemistry
-3fa7f104-1bf9-4e27-9c96-925eccf3a171,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,"Yaƙubu, Enyinnaya",Regular,Biology
-72d8567d-894a-45e4-b0b1-87ef310c0c00,d453dd32-4b0d-4b41-8d52-88f1142c3fe8,"Ayotunde, Ejiroghene",Regular,Geography
-474ebc19-2ef9-4276-ac00-6f6123e2fcb4,11ce5dd2-b45e-41f0-b139-d32c93cd59bf,"Oluwaseyi, Bello",Regular,Computer Science
-ec5b227c-dfde-4fbf-bff3-50bf766ecb15,daf61a26-146d-4f31-bc37-7a4c4a15544d,"Rabiu, Ejiroghene",Regular,Government
-dc815fe7-ceda-4bbb-b171-0434134c6c92,d58842de-a2bc-472f-b412-b29347294739,"Olu, Itoro",Regular,Commerce
-0cf35b58-1910-4be5-8ce2-1ea3db20a56e,b3aa7efe-4458-4885-ab90-99a435a240ae,"Adekunle, Taiwo",Regular,Literature
-d605e770-8a63-4881-bfd0-f9d5a6f2f7b8,29d4beef-3eab-4dcb-baa8-0dd488bd6407,"Itoro, Olamilekan",Regular,History
-ed2662e9-17e0-41b7-b810-238303c72ba8,af42e12f-3838-4326-8e94-4239b02b61c4,"Okafor, Adekunle",Regular,Accounting
+1064005c-3985-43cf-bf76-be1d1efa2197,bdd640fb-0667-4ad1-9c80-317fa3b1799d,"Uduakobong, Chinweuba",Regular,Mathematics
+8dcdcd03-969b-4662-8562-8059568cc69b,bd9c66b3-ad3c-4d6d-9a3d-1fa7bc8960a9,"Inyene, Obinna",Regular,English Language
+01d74256-3860-4ab6-96a4-02f23ae8cc93,37f8a88b-17fc-495a-87a0-ca6e0822e8f3,"Uduakobong, Nonso",Regular,Civic Education
+0f1259e0-a18f-46b6-b535-106e122c9a56,a65ed389-b74d-4fb1-b2e7-06298fadc1a6,"Abubakar, Chijindum",Regular,Economics
+080aadfb-e7c9-4b26-9141-25c63a9bedd4,de8a774b-cf36-458b-8737-819096da1dac,"Rabiu, Oghenekevwe",Regular,CRS/Islam
+839fbc50-1223-4513-9496-f63cdc1110c1,47229389-571a-4876-ac30-7511b2b9437a,"Oyibo, Ayo",Corper,Physics
+7c441fe7-ab42-40a7-874a-493b3ceddf2d,6142ea7d-17be-4111-9a2a-73ed562b0f79,"Ahmadu, Ifeanyi",Regular,Chemistry
+b92da22b-21df-406f-8a0b-3c3336d8393a,0b1f9163-ce9f-457f-83b7-a3a69a8dca03,"Toyin, Oyibo",Regular,Biology
+93829b43-922f-415a-a1e3-db63ef7ddc76,d453dd32-4b0d-4b41-8d52-88f1142c3fe8,"Ufuoma, Itoro",Regular,Geography
+7914c120-c8dc-419f-be35-11287900f7f9,11ce5dd2-b45e-41f0-b139-d32c93cd59bf,"Olanrewaju, Chibuzo",Regular,Computer Science
+1825bc54-30be-445f-a835-14f2ceb81f9d,daf61a26-146d-4f31-bc37-7a4c4a15544d,"Adetokunbo, Bello",Corper,Government
+5ab33edf-6e59-4ed3-a8b3-17fa18d0752b,d58842de-a2bc-472f-b412-b29347294739,"Efe, Kehinde",Regular,Commerce
+dd2467ac-778e-4db3-a93d-ffbc6c6fa611,b3aa7efe-4458-4885-ab90-99a435a240ae,"Chidiebube, Olalekan",Regular,Literature
+a748dbcf-ac61-4e63-8dde-29a6baa4b71a,29d4beef-3eab-4dcb-baa8-0dd488bd6407,"Adekunle, Oluwafemi",Regular,History
+0f844fef-1931-49ee-a56c-0941fbf24050,af42e12f-3838-4326-8e94-4239b02b61c4,"Olamide, Olujimi",Regular,Accounting
