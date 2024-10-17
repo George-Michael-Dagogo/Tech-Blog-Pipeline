@@ -4,7 +4,10 @@ from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 import pandas as pd
 import os
+from dotenv import load_dotenv
 
+
+load_dotenv()
 # %% [markdown]
 # ## Scraping dev.to
 

@@ -7,16 +7,19 @@ from pymongo.server_api import ServerApi
 import pandas as pd
 from nltk.corpus import stopwords
 import nltk
+from dotenv import load_dotenv
+import os
+
+load_dotenv()
 
 # MongoDB connection details
-uri = "mongodb+srv://testtech:Your_password@cluster0.ahrx7.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
+uri = os.environ['URI_KEY']
 client = MongoClient(uri, server_api=ServerApi('1'))
-db = client['my_database']  # Create/use 'my_database'
+db = client['my_database'] 
 collection = db['article_collection'] 
 
 # Load MongoDB data
 data = pd.DataFrame(list(collection.find()))
-
 # Streamlit title and description
 st.title("Interactive Article Insights Dashboard")
 st.write("Explore and interact with article data from MongoDB.")
